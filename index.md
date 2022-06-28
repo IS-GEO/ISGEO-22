@@ -1,7 +1,7 @@
 ---
 title: "ISGEO22" 
 feature_text: |
-  ## ISGEO22 Workshop on Model-based Reasoning
+  ## ISGEO-22 Workshop on Model-based Reasoning
   August 15-19, 2022 
 feature_image: "assets/ISGEO19-header.jpeg"
 #feature_image: "https://picsum.photos/1300/400?image=989"
