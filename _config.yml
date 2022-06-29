@@ -129,8 +129,8 @@ navigation_header:
   url: /
 - title: Registration
   url: "https://forms.gle/96BmnWmLcfpM8WJHA"
-#- title: Blog
-#  url: /blog/
+- title: Schedule
+  url: /schedule/
 #- title: Categories
 #  url: /categories/
 #- title: Search
