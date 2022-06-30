@@ -6,7 +6,7 @@
       {% if item.url contains '://' %}
         {% assign url = item.url %}
       {% else %}
-        {% assign url = {{ site.baseurl }}/{{ item.url }} %}
+        {% assign url = relative_url | item.url %}
       {% endif %}
 
       <li class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
