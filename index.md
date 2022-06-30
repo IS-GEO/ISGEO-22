@@ -29,3 +29,6 @@ A mini-hackthon will be hosted during the latter half of the workshop allowing g
 * Earth systems modeling of antarctica ice sheets, 
 * Lightning talks from fellow participants
 
+## Workshop Schedule
+
+
