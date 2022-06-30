@@ -126,11 +126,11 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: /
+  url: /ISGEO-22/
 - title: Registration
   url: "https://forms.gle/96BmnWmLcfpM8WJHA"
 - title: Schedule
-  url: "https://is-geo.github.io/ISGEO-22/schedule/"
+  url: /ISGEO-22/schedule/
 #- title: Categories
 #  url: /categories/
 #- title: Search
