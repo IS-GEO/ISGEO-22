@@ -130,7 +130,7 @@ navigation_header:
 - title: Registration
   url: "https://forms.gle/96BmnWmLcfpM8WJHA"
 - title: Schedule
-  url: /schedule/
+  url: "https://is-geo.github.io/ISGEO-22/schedule/"
 #- title: Categories
 #  url: /categories/
 #- title: Search
