@@ -139,7 +139,7 @@ navigation_header:
 #  url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-- title: "ISGEO-22: Workshop on Model-based Reasoning"
+- title: "[NSF Award Number 1632211] ISGEO-22: Workshop on Model-based Reasoning"
   url: https://is-geo.github.io/ISGEO-22/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
