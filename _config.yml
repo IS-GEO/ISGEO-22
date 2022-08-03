@@ -100,8 +100,8 @@ lang: en-US # Set the site language
 title: "ISGEO-22" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/IS-GEO.svg" # Site logo, also used in jekyll-seo-tag
 description: "This workshop will provide methods that engage researchers across disciplines to explore how data and models can inform AI. Hands-on activities will support the development of conceptual models and participatory modeling implementation using data across applications in polar regions, hydrologic models, hazards planning, and climate change impacts on communities, as well as other topics salient to workshop participants. " # Site description and default description, also used in jekyll-seo-tag
-url: "/ISGEO-22/" # Site url, also used in jekyll-seo-tag
-baseurl: "https://is-geo.github.io/ISGEO-22/"
+url: "https://is-geo.github.io" # Site url, also used in jekyll-seo-tag
+baseurl: "/ISGEO-22/"
 
 ## local
 #url: "/ISGEO-22" # Site url, also used in jekyll-seo-tag
