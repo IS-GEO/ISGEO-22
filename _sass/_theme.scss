@@ -153,7 +153,8 @@ body {
     //opacity: 0.5;
     transition: opacity .1s;
     .section {
-      position: sticky;
+      //position: sticky;
+      position: fixed;
       top: 0;
     }
     &--left {
