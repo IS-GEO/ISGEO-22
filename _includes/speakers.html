@@ -3,7 +3,7 @@
           {% for ins in site.data.sessions.speakerinfo %}
 <div style="border-bottom: 1px solid black;">
   <br>            
-  <img src="{{ ins.speakerpicture }}" class="image--cover">
+  <img src="{{ site.url }}{{ ins.speakerpicture }}" class="image--cover">
               {% if ins.speakerurl %}
               <h3><a href="{{ ins.speakerurl }}">{{ins.speakername}}</a></h3>
               {% else %}

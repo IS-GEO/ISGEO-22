@@ -4,7 +4,7 @@ title: Speakers
 indexing: false
 sitemap: false
 aside: false
-feature_image: "/assets/ISGEO19-header.jpeg"
+feature_image: "{{ site.url}}/assets/ISGEO19-header.jpeg"
 ---
 
 {% include speakers.html %}
