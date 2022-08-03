@@ -98,7 +98,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 title: "ISGEO-22" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/IS-GEO.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/ISGEO-22/assets/logos/IS-GEO.svg" # Site logo, also used in jekyll-seo-tag
 description: "This workshop will provide methods that engage researchers across disciplines to explore how data and models can inform AI. Hands-on activities will support the development of conceptual models and participatory modeling implementation using data across applications in polar regions, hydrologic models, hazards planning, and climate change impacts on communities, as well as other topics salient to workshop participants. " # Site description and default description, also used in jekyll-seo-tag
 url: 'https://is-geo.github.io' # Site url, also used in jekyll-seo-tag
 baseurl: '/ISGEO-22'
@@ -120,14 +120,14 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: '/assets/logos/logo@16px.png'
-  32: '/assets/logos/logo@32px.png'
-  96: '/assets/logos/logo@96px.png'
-  120: '/assets/logos/logo@120px.png'
-  144: '/assets/logos/logo@144px.png'
-  180: '/assets/logos/logo@180px.png'
-  512: '/assets/logos/logo@512px.png'
-  1024: '/assets/logos/logo@1024px.png'
+  16: '/ISGEO-22/assets/logos/logo@16px.png'
+  32: '/ISGEO-22/assets/logos/logo@32px.png'
+  96: '/ISGEO-22/assets/logos/logo@96px.png'
+  120: '/ISGEO-22/assets/logos/logo@120px.png'
+  144: '/ISGEO-22/assets/logos/logo@144px.png'
+  180: '/ISGEO-22/assets/logos/logo@180px.png'
+  512: '/ISGEO-22/assets/logos/logo@512px.png'
+  1024: '/ISGEO-22/assets/logos/logo@1024px.png'
 
 # 9. Site navigation
 navigation_header:
