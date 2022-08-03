@@ -150,7 +150,7 @@ body {
     max-width: 34%;
     margin-left: 4%;
     @include flex(1, 0, auto);
-    opacity: 0.5;
+    //opacity: 0.5;
     transition: opacity .1s;
     .section {
       position: sticky;
@@ -162,7 +162,7 @@ body {
       order: -1;
     }
     &:hover {
-      opacity: 1;
+      //opacity: 1;
     }
   }
 }
@@ -454,4 +454,29 @@ pre code {
     white-space: pre;
     overflow-x: scroll;
   }
+}
+
+// images
+.profile-pic-gallary {
+  padding: 0px;
+  display: inline;
+}
+
+.image--cover-container {
+  width: 90px;
+  float: left;
+  text-align: center;
+  margin: 0px;
+  margin-right: 40px;
+}
+
+.image--cover {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+  
+  float: left;
+  object-fit: cover;
+  object-position: center right;
 }

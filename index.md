@@ -30,5 +30,5 @@ A mini-hackthon will be hosted during the latter half of the workshop allowing g
 * Lightning talks from fellow participants
 
 ## Workshop Schedule
-
+{% include schedule.html %}
 

@@ -1,0 +1,38 @@
+
+  
+          {% for ins in site.data.sessions.speakerinfo %}
+<div style="border-bottom: 1px solid black;">
+  <br>            
+  <img src="{{ ins.speakerpicture }}" class="image--cover">
+              {% if ins.speakerurl %}
+              <h3><a href="{{ ins.speakerurl }}">{{ins.speakername}}</a></h3>
+              {% else %}
+              <h3>{{ins.speakername}}</h3>
+              {% endif %}
+              {% if ins.speakerrole %}
+              <em> {{ ins.speakerrole }} </em>
+              {% endif %}
+              {% if ins.speakeraffiliation %}
+              <strong><p>{{ ins.speakeraffiliation }} </p></strong>
+              {% endif %}
+              <br>
+              {% if ins.speakerbio %}
+              <p>{{ ins.speakerbio }} </p>
+              {% endif %}
+              <p>
+              {% if ins.speakeremail %}
+              <a href="mailto:{{ ins.speakeremail }}">[Email]</a>
+              {% endif %}
+              {% if ins.speakerlinkedin %}
+              <a href="{{ ins.speakerlinkedin }}">[LinkedIn]</a>
+              {% endif %}
+              {% if ins.speakertwitter %}
+              <a href="{{ ins.speakertwitter }}">[Twitter]</a>
+              {% endif %}
+              {% if ins.speakerurl %}
+              <a href="{{ ins.speakerurl }}">[Website]</a>
+              {% endif %}
+            </p>
+            <br>
+</div>
+{% endfor %}

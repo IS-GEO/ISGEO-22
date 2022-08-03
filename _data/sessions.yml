@@ -1,0 +1,52 @@
+sessioninfo:
+- sessionname: Hackathon
+  sessiontype: Hackathon
+  #sessiondescription: 
+  sessionspeaker: Jeaime Powell
+
+- sessionname: Decison Support
+  sessiontype: Decison Support
+  #sessiondescription: 
+  sessionspeaker: Deana Pennington
+  
+
+speakerinfo:
+- speakername: 'Deana Pennington'
+  speakerrole: 'Associate Professor'
+  speakeraffiliation: 'University of Texas at El Paso'
+  speakerbio: 'Trained as a physical geographer with specializations in organizational learning and program evaluation, Dr. Penningtons research revolves around cross-disciplinary study of climate change impacts on human/natural systems. She focuses on three categories of investigations 1) integrated modeling of land change; 2) studies of collaboration, synthesis, and learning; and 3) technical approaches for complex interdisciplinary projects. The latter includes a decade of experience using developmental evaluation to improve project outcomes. She is also Associate Dean for Faculty Mentoring and Development in the College of Science at University of Texas at El Paso.'
+  speakeremail: 'ddpennington@utep.edu'
+  speakerlinkedin: 'https://www.linkedin.com/in/deanapennington/'
+  speakertwitter: 'https://twitter.com/penningd'
+  speakerurl: 'https://expertise.utep.edu/node/26556'
+  speakerpicture: '/assets/speakers/ddpennington.jpeg'
+
+- speakername: 'Suzanne Pierce'
+  speakerrole: 'Research Scientist/Director '
+  speakeraffiliation: 'Texas Advanced Computing Center, Texas Disaster Information System, Intelligent Decision Support Systems, and The University of Texas at Austin'
+  speakerbio: "Research Scientist with Texas Advanced Computing Center (TACC) at The University of Texas at Austin. Dr. Pierce is the lead for a national community of researchers using Artificial Intelligence to understand Earth (IS-GEO.org). Results from her research develop tools and techniques that aid integrated modeling and group decision support to improve resilience at regional scales.. She's received awards both locally and internationally for innovation and engagement. Currently, Dr. Pierce is leading the Texas Disaster Information System."
+  speakeremail: 'spierce@tacc.utexas.edu'
+  speakerlinkedin: 'https://www.linkedin.com/in/suzpierce/'
+  speakertwitter: 'https://twitter.com/HelpfulTangent'
+  speakerurl: 'https://www.tacc.utexas.edu/about/directory/suzanne-pierce'
+  speakerpicture: '/assets/speakers/spierce.jpg'
+
+- speakername: 'Lisa Garbrecht'
+  speakerrole: 'Director Of STEM Evaluation Services'
+  speakeraffiliation: 'Texas Advanced Computing Center, Evaluation Services for the Expanding Pathways in Computing (EPIC)'
+  speakerbio: "Lisa Garbrecht directs the STEM Evaluation Services for the Expanding Pathways in Computing (EPIC) division of TACC that was launched in 2019. Lisa is the former Director of Evaluation Services of the UT Austin's College of Education STEM Center and has over 20 years of experience designing and conducting program evaluation and research on STEM education, professional development, and research projects."
+  speakeremail: 'lgarbrecht@tacc.utexas.edu'
+  speakerlinkedin: 'https://www.linkedin.com/in/lisagarbrecht/'
+  #speakertwitter: 
+  speakerurl: 'https://www.tacc.utexas.edu/about/directory/lisa-garbrecht'
+  speakerpicture: '/assets/speakers/lgarbrecht.jpg'
+
+- speakername: 'Jeaime Powell'
+  speakerrole: 'Technical Research Design Analyst/Sr. Systems Administrator/Broadening Participation Hackathon Coordinator'
+  speakeraffiliation: 'Texas Advanced Computing Center'
+  speakerbio: 'Jeaime Powell currently works as a Senior Systems Administrator and Technical Research Design Analyst at the Texas Advanced Computing Center(TACC) within the University of Texas at Austin. While supporting high-performance computing users he also leads hackathons, several STEM-based high school summer camps, facilitates programming training sessions, and lectures courses in scientific programming. In the role of XSEDE Broadening Participation Hackathon Coordinator, he has most recently hosted the ADMI22 Hackathon and the HPC in the City Hackathon at Supercomputing21.'
+  speakeremail: jpowell@tacc.utexas.edu
+  speakerlinkedin: https://www.linkedin.com/in/jeaimehp/
+  speakertwitter: https://twitter.com/jeaimehp
+  speakerurl: https://github.com/jeaimehp
+  speakerpicture: '/assets/speakers/jpowell.png'

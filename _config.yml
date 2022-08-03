@@ -100,8 +100,14 @@ lang: en-US # Set the site language
 title: "ISGEO-22" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/IS-GEO.svg" # Site logo, also used in jekyll-seo-tag
 description: "This workshop will provide methods that engage researchers across disciplines to explore how data and models can inform AI. Hands-on activities will support the development of conceptual models and participatory modeling implementation using data across applications in polar regions, hydrologic models, hazards planning, and climate change impacts on communities, as well as other topics salient to workshop participants. " # Site description and default description, also used in jekyll-seo-tag
-url: "https://is-geo.github.io/ISGEO-22/" # Site url, also used in jekyll-seo-tag
-baseurl: "https://is-geo.github.io/ISGEO-22/"
+url: "/ISGEO-22" # Site url, also used in jekyll-seo-tag
+baseurl: "https://is-geo.github.io/"
+
+## local
+#url: "/ISGEO-22" # Site url, also used in jekyll-seo-tag
+#baseurl: "/"
+
+
 repo: "https://github.com/IS-GEO/ISGEO-22"
 email: "jpowell@tacc.utexas.edu"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
@@ -131,6 +137,8 @@ navigation_header:
   url: "https://forms.gle/96BmnWmLcfpM8WJHA"
 - title: Schedule
   url: /ISGEO-22/schedule/
+- title: Speakers
+  url: /ISGEO-22/speakers/
 #- title: Categories
 #  url: /categories/
 #- title: Search
