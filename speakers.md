@@ -3,7 +3,7 @@ title: Speakers
 #layout: page
 indexing: false
 sitemap: false
-aside: false
+aside: true
 #feature_image: "ISGEO-22/assets/ISGEO19-header.jpeg"
 ---
 
