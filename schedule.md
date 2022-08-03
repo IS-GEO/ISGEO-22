@@ -5,3 +5,4 @@ feature_image: "/ISGEO-22/assets/ISGEO19-header.jpeg"
 aside: true
 ---
 
+{% include schedule.html %}
