@@ -310,21 +310,37 @@ speakerinfo:
   speakerpicture: '/assets/speakers/jpowell.png'
 
 - speakername: 'Mathieu Morlighem'
-  #speakerrole: ''
-  speakeraffiliation: 'iHarp'
-  #speakerbio: >
-  #speakeremail: 
-  #speakerlinkedin: 
-  #speakertwitter: 
-  #speakerurl: 
-  #speakerpicture: 
+  speakerrole: 'Professor'
+  speakeraffiliation: 'Dartmouth College'
+  speakerbio: >
+    My group focuses on the physics of glacier ice and the role of the ice 
+    sheets in the climate system. Ice sheets play a central role in the 
+    climate system: they store significant amounts of fresh water and are 
+    the conveyor belts for transporting snow that accumulates inland back 
+    into the oceans. The interactions of the ice sheets with the atmosphere 
+    and the ocean have an internal variability but also affect the coupled ice 
+    sheet–climate response to external forcings on time scales of months to 
+    millions of years. If the current warming of the climate continues, the ice 
+    sheets will respond at a yet unknown rate, with unknown consequences for the 
+    rest of the climate system. A better understanding of the processes driving 
+    these changes is critical to improve projections of sea level rise.
+  speakeremail: Mathieu.Morlighem@Dartmouth.edu
+  speakerlinkedin: https://www.linkedin.com/in/mathieumorlighem/
+  speakertwitter: https://twitter.com/mathieu_ice
+  speakerurl: 'https://faculty-directory.dartmouth.edu/mathieu-morlighem'
+  speakerpicture: '/assets/speakers/mmorlighem.jpeg'
 
 - speakername: 'William Mobley'
-  #speakerrole: ''
+  speakerrole: 'Research Associate'
   speakeraffiliation: 'Texas Advanced Computing Center'
-  #speakerbio: >
-  #speakeremail: 
-  #speakerlinkedin: 
+  speakerbio: >
+    Dr. Mobley joined the Multi Modal Applications Team in June of 2022. 
+    He is currently a research associate focusing on Robust Decision 
+    Making under uncertainty and Geospatial Applied Machine Learning. 
+    Previously Dr. Mobley was an Assistant Research Scientist at the Institute 
+    for Disaster Resilient Texas.
+  speakeremail: wmobley@tacc.utexas.edu
+  speakerlinkedin: 'https://www.linkedin.com/in/william-mobley-0b716654/'
   #speakertwitter: 
-  #speakerurl: 
-  #speakerpicture: 
+  speakerurl: https://www.tacc.utexas.edu/about/directory/william-mobley
+  speakerpicture: '/assets/speakers/william-mobley.jpeg'
