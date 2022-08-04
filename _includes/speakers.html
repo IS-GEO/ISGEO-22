@@ -1,9 +1,13 @@
 
   
           {% for ins in site.data.sessions.speakerinfo %}
-<div style="border-bottom: 1px solid black;">
-  <br>            
+<div style="border-bottom: 1px solid black;" id="{{ ins.speakername }}">
+  <br> 
+  {% if ins.speakerpicture %}
   <img src="{{ site.url }}{{ site.baseurl}}{{ ins.speakerpicture }}" class="image--cover">
+  {% else %}
+  <img src="{{ site.url }}{{ site.baseurl}}/assets/speakers/zoom-avatar.png" class="image--cover">
+  {% endif %}
               {% if ins.speakerurl %}
               <h3><a href="{{ ins.speakerurl }}">{{ins.speakername}}</a></h3>
               {% else %}
