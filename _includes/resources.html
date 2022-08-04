@@ -1,0 +1,39 @@
+
+  
+
+<div>
+  <br>
+    
+    <ul>
+      {% for res in site.data.sessions.resources %}
+      <li>
+      <a href="{{ res.url }}">{{ res.name }}</a> 
+      <br>
+      {% if res.description %}
+      {{ res.description }}
+      {% endif %}
+      
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+
+
+
+<div>
+  <h1>Documents</h1>
+  <br>
+  <ul>
+    {% for doc in site.data.sessions.docs %}
+    <li>
+      <a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/{{ doc.filepath }}">{{ doc.name }} [{{ doc.filetype}}]</a> <br>
+      {% if doc.description %}
+      {{ doc.description }}
+      {% endif %}
+
+    </li>
+    {% endfor %}
+    </ul>
+   
+</div>
+

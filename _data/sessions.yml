@@ -221,6 +221,19 @@ docs:
   filepath: '/assets/docs/Participant_template.pptx'
   filetype: 'PPTX'
 
+resources:
+- name: IS-GEO Site
+  url: https://is-geo.org/
+  description: >
+    In this site, you will find information about activities related to the 
+    Intelligent Systems for Geosciences community (IS-GEO). It will serve 
+    as an entry point for information about activities and resources related 
+    to the IS-GEO community.
+
+- name: Miro Collaborative Boards
+  url: https://miro.com/
+  description: >
+    A digital whiteboard that makes it easy to collaborate with others.
 
 speakerinfo:
 - speakername: 'Deana Pennington'
