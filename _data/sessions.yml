@@ -207,6 +207,8 @@ sessioninfo:
   #sessiondescription: 
   sessionspeaker: Suzanne Pierce
 
+
+
 docs:
 - name: 'Miro Concept Map Instructions'
   description: 'Instructions on how to setup a Miro.com account and research concept map'
@@ -221,6 +223,8 @@ docs:
   filepath: '/assets/docs/Participant_template.pptx'
   filetype: 'PPTX'
 
+
+
 resources:
 - name: IS-GEO Site
   url: https://is-geo.org/
@@ -234,6 +238,45 @@ resources:
   url: https://miro.com/
   description: >
     A digital whiteboard that makes it easy to collaborate with others.
+
+- name: OntoSoft Software Repository
+  url: https://is-geo.ontosoft.org/#list
+  description: >
+    The OntoSoft project is part of the NSF EarthCube Initiative. The NSF EarthCube 
+    Initiative aims to enable scientists to solve challenging problems that span 
+    diverse geoscience domains. This requires not only data sharing, it requires 
+    new forms of knowledge sharing. The focus of OntoSoft is to promote knowledge 
+    sharing about the software developed for geosciences.
+
+
+
+
+researchgroups:
+- name: "[iHARP] Institute for Harnessing the Data and Model Revolution in Polar Regions"
+  url: https://iharp.umbc.edu/
+  description: >
+    iHARP advances our understanding of the response of polar regions to climate change 
+    and its global impacts by deeply integrating data science and polar science to spur 
+    physics-informed, data-driven discoveries.
+  logo: https://iharp.umbc.edu/files/2022/01/iharp-logo.jpg
+
+- name: "[TDIS] Texas Disaster Information System"
+  url: https://tdis.io/ 
+  description: >
+    The Texas Disaster Information System is an initiative of the Institute for a Disaster 
+    Resilient Texas funded by The Texas General Land Office Community Development and 
+    Revitalization (GLO-CDR).
+  #logo: 
+
+- name: "[TACC] Texas Advanced Computing Center"
+  url: https://www.tacc.utexas.edu/
+  description: >
+    The Texas Advanced Computing Center (TACC) designs and operates some of the world's 
+    most powerful computing resources. The center's mission is to enable discoveries 
+    that advance science and society through the application of advanced computing technologies.
+  logo: https://www.tacc.utexas.edu/tacc-new-theme/images/logo.svg
+
+
 
 speakerinfo:
 - speakername: 'Deana Pennington'
