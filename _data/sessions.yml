@@ -248,6 +248,14 @@ resources:
     new forms of knowledge sharing. The focus of OntoSoft is to promote knowledge 
     sharing about the software developed for geosciences.
 
+- name: TACC User Portal
+  url: https://portal.tacc.utexas.edu/
+  description: >
+    Welcome to the Texas Advanced Computing Center! TACC's computing, storage and 
+    visualization resources are available to members of research communities 
+    across Texas and the United States. The first step to gaining access to TACC 
+    resources is to create a TACC User Portal (TUP) account. 
+
 
 
 
