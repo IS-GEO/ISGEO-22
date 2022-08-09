@@ -8,13 +8,7 @@ sessioninfo:
   #sessiondescription: 
   sessionspeaker: Suzanne Pierce
 
-- sessionname: Team Creation
-  sessiontype: Hackathon
-  sessionday: monday_morning
-  sessionlength: 30mins
-  sessiondescription: >
-    Hackathon project pitches will be given and teams formed.
-  sessionspeaker: Jeaime Powell
+
 
 - sessionname: Model-Based Reasoning & IDR visioning
   sessiontype: Tutorial
@@ -23,12 +17,15 @@ sessioninfo:
   #sessiondescription: 
   sessionspeaker: Deana Pennington
 
-- sessionname: Group IDR Discussion
-  sessiontype: Discussion
+- sessionname: Team Creation
+  sessiontype: Hackathon
   sessionday: monday_morning
-  sessionlength: 15mins
-  #sessiondescription: 
-  #sessionspeaker: Deana Pennington
+  sessionlength: 50mins
+  sessiondescription: >
+    Hackathon project pitches will be given and teams formed.
+  sessionspeaker: Jeaime Powell
+
+
 
 # --------------
 # Monday Afternoon
