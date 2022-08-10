@@ -354,8 +354,9 @@ speakerinfo:
   speakeremail: jpowell@tacc.utexas.edu
   speakerlinkedin: https://www.linkedin.com/in/jeaimehp/
   speakertwitter: https://twitter.com/jeaimehp
-  speakerurl: https://github.com/jeaimehp
+  speakerurl: https://jeaimehp.github.io/
   speakerpicture: '/assets/speakers/jpowell.png'
+  speakergithub: https://github.com/jeaimehp
 
 - speakername: 'Mathieu Morlighem'
   speakerrole: 'Professor'
@@ -392,3 +393,72 @@ speakerinfo:
   #speakertwitter: 
   speakerurl: https://www.tacc.utexas.edu/about/directory/william-mobley
   speakerpicture: '/assets/speakers/william-mobley.jpeg'
+  speakergithub: https://github.com/wmobley
+
+- speakername: 'Tim Cockerill'
+  speakerrole: 'Director of User Services and Deputy Project Director of DesignSafe'
+  speakeraffiliation: 'Texas Advanced Computing Center'
+  speakerbio: >
+    Tim Cockerill is TACC’s Director of User Services. He oversees the allocations process 
+    by which computing time and storage is awarded on TACC’s HPC systems. The User Services 
+    team is also responsible for user account management, training, and user guides. Tim 
+    also currently serves as the DesignSafe Deputy Project Director, providing a web-based 
+    platform supporting natural hazards research. Tim is co-PI on two NSF CC* awards providing 
+    training and research support for underserved/under-resourced universities and community 
+    colleges. Tim joined TACC in January, 2014, as the Director of Center Programs responsible 
+    for program and project management across the Center’s portfolio of awards. Prior to joining 
+    TACC, he was the Associate Project Director for XSEDE and the TeraGrid Project Manager. 
+    Before entering the world of high performance computing in 2003, Tim spent 10 years working 
+    in startup companies aligned with his research interests in gallium arsenide materials and 
+    semiconductor lasers. Prior to that, Tim earned his B.S., M.S., and Ph.D. degrees from the 
+    University of Illinois at Urbana-Champaign and was a Visiting Assistant Professor in the 
+    Electrical and Computer Engineering Department.
+  speakeremail: cockerill@tacc.utexas.edu
+  speakerlinkedin: https://www.linkedin.com/in/tim-cockerill-1933914b/
+  #speakertwitter: 
+  speakerurl: https://www.tacc.utexas.edu/about/directory/tim-cockerill
+  speakerpicture: '/assets/speakers/tcockerill.jpeg'
+
+- speakername: 'Emily Clark'
+  speakerrole: 'Project Manager for HydroShare CyberInfrastructure'
+  speakeraffiliation: 'Consortium for Universities for the Advancement of Hydrologic Science, Inc. (CUAHSI)'
+  speakerbio: >
+    Prior to joining CUAHSI, Emily worked as a Shorebird Monitor at Cape Cod National Seashore where she located 
+    and monitored nesting endangered shorebirds. Emily holds a BS in Environmental Science from the University 
+    of Tampa, an MPA in Environmental Science and Policy from Columbia University, and a Project Management 
+    Professional (PMP) certification. In her free time, Emily enjoys getting outdoors and practicing making 
+    the perfect s'more!
+  speakeremail: eclark@cuahsi.org
+  speakerlinkedin: https://www.linkedin.com/in/emily-clark-89813635/
+  #speakertwitter: 
+  speakerurl: https://www.cuahsi.org/about/our-team/emily-clark
+  speakerpicture: '/assets/speakers/eclark.jpeg'
+
+- speakername: 'Stephanie Baker'
+  speakerrole: 'Research Associate'
+  speakeraffiliation: 'Texas Advanced Computing Center, Expanding Pathways in Computing (EPIC)'
+  speakerbio: >
+    Stephanie Baker joined TACC in 2019 and is as a Research Associate on the STEM Evaluation Services team. 
+    She conducts internal and external evaluations of STEM education programs and participates in research 
+    projects and outreach programs within TACC’s Expanding Pathways in Computing (EPIC) division. She leads 
+    the evaluation of TACC’s DesignSafe CyberInfrastructure. Prior to joining TACC, she served as a 
+    Research Associate at The University of Texas at Austin’s STEM Center in the College of Education.
+     Stephanie’s primary research focuses on developing novel methods for assessing and addressing cognitive 
+     and non-cognitive factors crucial for student success in STEM subjects. Recently, she has begun 
+     exploring how to apply innovative tools and techniques used by data scientists to education research.
+  speakeremail: snbaker@tacc.utexas.edu
+  speakerlinkedin: https://www.linkedin.com/in/stephanie-nicole-baker/
+  #speakertwitter: 
+  speakerurl: https://www.tacc.utexas.edu/about/directory/stephanie-baker
+  speakerpicture: '/assets/speakers/sbaker.jpeg'
+
+- speakername: 'Miriam Jacobson'
+  speakerrole: 'Research Associate'
+  speakeraffiliation: 'Texas Advanced Computing Center, Expanding Pathways in Computing (EPIC)'
+  speakerbio: >
+    Miriam Jacobson joined TACC in 2020 as a Research Associate on the Expanding Pathways in Computing (EPIC) STEM Evaluation Services division, where she evaluates internal and external STEM education programs. She led the external evaluation of CUAHSI’s HydroShare CyberInfrastructure. She previously worked at ICF as a Lead Research Scientist and studied workforce development initiatives at the federal and local level. Miriam received her PhD from Claremont Graduate University in Evaluation and Applied Research Methods. She has conducted research on culturally responsive evaluation approaches and the dissemination of evidenced-based practices.
+  speakeremail: mjacobson@tacc.utexas.edu
+  speakerlinkedin: https://www.linkedin.com/in/miriam-jacobson-5249613a/
+  #speakertwitter: 
+  speakerurl: https://www.tacc.utexas.edu/about/directory/miriam-jacobson
+  speakerpicture: '/assets/speakers/mjacobson.jpeg'
