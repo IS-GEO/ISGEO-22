@@ -1,3 +1,48 @@
+sessionics:
+- day: All
+  date: 'August 15th-19th, 2022'
+ #theme: 
+  file: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22-All_Sessions.ics'
+  #morningsessionics:
+  #afternoonsessionics:
+
+- day: Monday
+  date: '8/15/22'
+  theme: 'Pathways to Integration'
+  #file:
+  morningsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Monday_Morning_Session.ics'
+  afternoonsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Monday_Afternoon_Session.ics'
+
+- day: Tuesday
+  date: '8/16/22'
+  theme: 'Platforms for Community/Data Management Tools'
+  #file:
+  morningsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Tuesday_Morning_Session.ics'
+  afternoonsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Tuesday_Afternoon_Session.ics'
+  
+
+- day: Wednesday
+  date: '8/17/22'
+  theme: 'Models & Use Cases'
+  #file: 
+  morningsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Wednesday_Morning_Session.ics'
+  afternoonsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Wednesday_Afternoon_Session.ics'
+
+- day: Thursday
+  date: '8/18/22'
+  theme: 'Hackathon'
+  #file: 
+  morningsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Thursday_Morning_Session.ics'
+  afternoonsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Thursday_Afternoon_Session.ics'
+
+- day: Friday
+  date: '8/19/22'
+  theme: 'Final Presentations and Closing'
+  #file: 
+  morningsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Friday_Morning_Session.ics'
+  afternoonsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Friday_Afternoon_Session.ics'
+
+
 sessioninfo:
 # --------------
 # Monday Morning
