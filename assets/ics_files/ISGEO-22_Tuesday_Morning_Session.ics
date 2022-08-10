@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Apple Inc.//macOS 12.3.1//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+DTSTART:20070311T020000
+TZNAME:CDT
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+DTSTART:20071104T020000
+TZNAME:CST
+TZOFFSETTO:-0600
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/Chicago:20220816T120000
+UID:B1B815C8-2F7A-4580-A316-6FB865F48B3B
+DTSTAMP:20220810T191851Z
+LOCATION:https://utexas.zoom.us/j/92172929874
+DESCRIPTION:Helpful links:\n* ISGEO-22 Event Site: https://is-geo.github
+ .io/ISGEO-22/ \n* Workshop Schedule: https://is-geo.github.io/ISGEO-22/s
+ chedule/ \n* Miro: https://miro.com/ \n* Slack: https://is-geocommunity.
+ slack.com \n* ISGEO: https://is-geo.org/ \n* TACC User Portal: https://p
+ ortal.tacc.utexas.edu/  \n\nZoom Info:\nTopic: [ISGEO-22] Tuesday Sessio
+ ns\nTime: Aug 16\, 2022 09:30 AM Central Time (US and Canada)\n\nJoin Zo
+ om Meeting\nhttps://utexas.zoom.us/j/92172929874\n\nMeeting ID: 921 7292
+  9874\nOne tap mobile\n+13462487799\,\,92172929874# US (Houston)\n+16699
+ 006833\,\,92172929874# US (San Jose)\n\nDial by your location\n        +
+ 1 346 248 7799 US (Houston)\n        +1 669 900 6833 US (San Jose)\n    
+     +1 719 359 4580 US\n        +1 253 215 8782 US (Tacoma)\n        +1 
+ 669 444 9171 US\n        +1 386 347 5053 US\n        +1 564 217 2000 US\
+ n        +1 646 931 3860 US\n        +1 929 205 6099 US (New York)\n    
+     +1 301 715 8592 US (Washington DC)\n        +1 309 205 3325 US\n    
+     +1 312 626 6799 US (Chicago)\nMeeting ID: 921 7292 9874\nFind your l
+ ocal number: https://utexas.zoom.us/u/adcE2Py5Cb\n\nJoin by SIP\n9217292
+ 9874@zoomcrc.com\n\nJoin by H.323\n162.255.37.11 (US West)\n162.255.36.1
+ 1 (US East)\n115.114.131.7 (India Mumbai)\n115.114.115.7 (India Hyderaba
+ d)\n213.19.144.110 (Amsterdam Netherlands)\n213.244.140.110 (Germany)\n1
+ 03.122.166.55 (Australia Sydney)\n103.122.167.55 (Australia Melbourne)\n
+ 149.137.40.110 (Singapore)\n64.211.144.160 (Brazil)\n149.137.68.253 (Mex
+ ico)\n69.174.57.160 (Canada Toronto)\n65.39.152.160 (Canada Vancouver)\n
+ 207.226.132.110 (Japan Tokyo)\n149.137.24.110 (Japan Osaka)\nMeeting ID:
+  921 7292 9874\n
+SEQUENCE:1
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:[ISGEO-22] Tuesday Morning Session
+LAST-MODIFIED:20220810T192011Z
+CREATED:20220810T191851Z
+DTSTART;TZID=America/Chicago:20220816T100000
+BEGIN:VALARM
+X-WR-ALARMUID:0E219FBC-017D-4F92-86A7-3055388DB8BA
+UID:0E219FBC-017D-4F92-86A7-3055388DB8BA
+TRIGGER:-PT5M
+ATTACH;VALUE=URI:Chord
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+END:VCALENDAR

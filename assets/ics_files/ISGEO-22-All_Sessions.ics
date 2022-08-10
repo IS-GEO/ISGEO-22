@@ -1,0 +1,452 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Apple Inc.//macOS 12.3.1//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+DTSTART:20070311T020000
+TZNAME:CDT
+TZOFFSETTO:-0500
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+DTSTART:20071104T020000
+TZNAME:CST
+TZOFFSETTO:-0600
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/Chicago:20220815T120000
+UID:5389A3FF-6306-4883-9326-66CE5C09BF5C
+DTSTAMP:20220810T191618Z
+LOCATION:https://utexas.zoom.us/j/97287426291
+DESCRIPTION:Helpful links:\n* ISGEO-22 Event Site: https://is-geo.github
+ .io/ISGEO-22/ \n* Workshop Schedule: https://is-geo.github.io/ISGEO-22/s
+ chedule/ \n* Miro: https://miro.com/ \n* Slack: https://is-geocommunity.
+ slack.com \n* ISGEO: https://is-geo.org/ \n* TACC User Portal: https://p
+ ortal.tacc.utexas.edu/  \n\nZoom Info:\nTopic: [ISGEO-22] Monday Session
+ s\nTime: Aug 15\, 2022 09:30 AM Central Time (US and Canada)\n\nJoin Zoo
+ m Meeting\nhttps://utexas.zoom.us/j/97287426291\n\nMeeting ID: 972 8742
+ 6291\nOne tap mobile\n+13462487799\,\,97287426291# US (Houston)\n+166944
+ 49171\,\,97287426291# US\n\nDial by your location\n        +1 346 248 77
+ 99 US (Houston)\n        +1 669 444 9171 US\n        +1 669 900 6833 US
+ (San Jose)\n        +1 719 359 4580 US\n        +1 253 215 8782 US (Taco
+ ma)\n        +1 309 205 3325 US\n        +1 312 626 6799 US (Chicago)\n
+        +1 386 347 5053 US\n        +1 564 217 2000 US\n        +1 646 93
+ 1 3860 US\n        +1 929 205 6099 US (New York)\n        +1 301 715 859
+ 2 US (Washington DC)\nMeeting ID: 972 8742 6291\nFind your local number:
+  https://utexas.zoom.us/u/acOe6QQDQc\n\nJoin by SIP\n97287426291@zoomcrc
+ .com\n\nJoin by H.323\n162.255.37.11 (US West)\n162.255.36.11 (US East)\
+ n115.114.131.7 (India Mumbai)\n115.114.115.7 (India Hyderabad)\n213.19.1
+ 44.110 (Amsterdam Netherlands)\n213.244.140.110 (Germany)\n103.122.166.5
+ 5 (Australia Sydney)\n103.122.167.55 (Australia Melbourne)\n149.137.40.1
+ 10 (Singapore)\n64.211.144.160 (Brazil)\n149.137.68.253 (Mexico)\n69.174
+ .57.160 (Canada Toronto)\n65.39.152.160 (Canada Vancouver)\n207.226.132.
+ 110 (Japan Tokyo)\n149.137.24.110 (Japan Osaka)\nMeeting ID: 972 8742 62
+ 91
+SEQUENCE:1
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:[ISGEO-22] Monday Morning Session
+LAST-MODIFIED:20220810T191714Z
+CREATED:20220810T190742Z
+DTSTART;TZID=America/Chicago:20220815T100000
+BEGIN:VALARM
+X-WR-ALARMUID:0E219FBC-017D-4F92-86A7-3055388DB8BA
+UID:0E219FBC-017D-4F92-86A7-3055388DB8BA
+TRIGGER:-PT5M
+ATTACH;VALUE=URI:Chord
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/Chicago:20220815T150000
+UID:6FA70782-C11F-4B47-AFF2-78DCD2D03D49
+DTSTAMP:20220810T191625Z
+LOCATION:https://utexas.zoom.us/j/97287426291
+DESCRIPTION:Helpful links:\n* ISGEO-22 Event Site: https://is-geo.github
+ .io/ISGEO-22/ \n* Workshop Schedule: https://is-geo.github.io/ISGEO-22/s
+ chedule/ \n* Miro: https://miro.com/ \n* Slack: https://is-geocommunity.
+ slack.com \n* ISGEO: https://is-geo.org/ \n* TACC User Portal: https://p
+ ortal.tacc.utexas.edu/  \n\nZoom Info:\nTopic: [ISGEO-22] Monday Session
+ s\nTime: Aug 15\, 2022 09:30 AM Central Time (US and Canada)\n\nJoin Zoo
+ m Meeting\nhttps://utexas.zoom.us/j/97287426291\n\nMeeting ID: 972 8742
+ 6291\nOne tap mobile\n+13462487799\,\,97287426291# US (Houston)\n+166944
+ 49171\,\,97287426291# US\n\nDial by your location\n        +1 346 248 77
+ 99 US (Houston)\n        +1 669 444 9171 US\n        +1 669 900 6833 US
+ (San Jose)\n        +1 719 359 4580 US\n        +1 253 215 8782 US (Taco
+ ma)\n        +1 309 205 3325 US\n        +1 312 626 6799 US (Chicago)\n
+        +1 386 347 5053 US\n        +1 564 217 2000 US\n        +1 646 93
+ 1 3860 US\n        +1 929 205 6099 US (New York)\n        +1 301 715 859
+ 2 US (Washington DC)\nMeeting ID: 972 8742 6291\nFind your local number:
+  https://utexas.zoom.us/u/acOe6QQDQc\n\nJoin by SIP\n97287426291@zoomcrc
+ .com\n\nJoin by H.323\n162.255.37.11 (US West)\n162.255.36.11 (US East)\
+ n115.114.131.7 (India Mumbai)\n115.114.115.7 (India Hyderabad)\n213.19.1
+ 44.110 (Amsterdam Netherlands)\n213.244.140.110 (Germany)\n103.122.166.5
+ 5 (Australia Sydney)\n103.122.167.55 (Australia Melbourne)\n149.137.40.1
+ 10 (Singapore)\n64.211.144.160 (Brazil)\n149.137.68.253 (Mexico)\n69.174
+ .57.160 (Canada Toronto)\n65.39.152.160 (Canada Vancouver)\n207.226.132.
+ 110 (Japan Tokyo)\n149.137.24.110 (Japan Osaka)\nMeeting ID: 972 8742 62
+ 91
+SEQUENCE:1
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:[ISGEO-22] Monday Afternoon Session
+LAST-MODIFIED:20220810T191703Z
+CREATED:20220810T191625Z
+DTSTART;TZID=America/Chicago:20220815T130000
+BEGIN:VALARM
+X-WR-ALARMUID:0E219FBC-017D-4F92-86A7-3055388DB8BA
+UID:0E219FBC-017D-4F92-86A7-3055388DB8BA
+TRIGGER:-PT5M
+ATTACH;VALUE=URI:Chord
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/Chicago:20220816T120000
+UID:B1B815C8-2F7A-4580-A316-6FB865F48B3B
+DTSTAMP:20220810T191851Z
+LOCATION:https://utexas.zoom.us/j/92172929874
+DESCRIPTION:Helpful links:\n* ISGEO-22 Event Site: https://is-geo.github
+ .io/ISGEO-22/ \n* Workshop Schedule: https://is-geo.github.io/ISGEO-22/s
+ chedule/ \n* Miro: https://miro.com/ \n* Slack: https://is-geocommunity.
+ slack.com \n* ISGEO: https://is-geo.org/ \n* TACC User Portal: https://p
+ ortal.tacc.utexas.edu/  \n\nZoom Info:\nTopic: [ISGEO-22] Tuesday Sessio
+ ns\nTime: Aug 16\, 2022 09:30 AM Central Time (US and Canada)\n\nJoin Zo
+ om Meeting\nhttps://utexas.zoom.us/j/92172929874\n\nMeeting ID: 921 7292
+  9874\nOne tap mobile\n+13462487799\,\,92172929874# US (Houston)\n+16699
+ 006833\,\,92172929874# US (San Jose)\n\nDial by your location\n        +
+ 1 346 248 7799 US (Houston)\n        +1 669 900 6833 US (San Jose)\n
+     +1 719 359 4580 US\n        +1 253 215 8782 US (Tacoma)\n        +1
+ 669 444 9171 US\n        +1 386 347 5053 US\n        +1 564 217 2000 US\
+ n        +1 646 931 3860 US\n        +1 929 205 6099 US (New York)\n
+     +1 301 715 8592 US (Washington DC)\n        +1 309 205 3325 US\n
+     +1 312 626 6799 US (Chicago)\nMeeting ID: 921 7292 9874\nFind your l
+ ocal number: https://utexas.zoom.us/u/adcE2Py5Cb\n\nJoin by SIP\n9217292
+ 9874@zoomcrc.com\n\nJoin by H.323\n162.255.37.11 (US West)\n162.255.36.1
+ 1 (US East)\n115.114.131.7 (India Mumbai)\n115.114.115.7 (India Hyderaba
+ d)\n213.19.144.110 (Amsterdam Netherlands)\n213.244.140.110 (Germany)\n1
+ 03.122.166.55 (Australia Sydney)\n103.122.167.55 (Australia Melbourne)\n
+ 149.137.40.110 (Singapore)\n64.211.144.160 (Brazil)\n149.137.68.253 (Mex
+ ico)\n69.174.57.160 (Canada Toronto)\n65.39.152.160 (Canada Vancouver)\n
+ 207.226.132.110 (Japan Tokyo)\n149.137.24.110 (Japan Osaka)\nMeeting ID:
+  921 7292 9874\n
+SEQUENCE:1
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:[ISGEO-22] Tuesday Morning Session
+LAST-MODIFIED:20220810T192011Z
+CREATED:20220810T191851Z
+DTSTART;TZID=America/Chicago:20220816T100000
+BEGIN:VALARM
+X-WR-ALARMUID:0E219FBC-017D-4F92-86A7-3055388DB8BA
+UID:0E219FBC-017D-4F92-86A7-3055388DB8BA
+TRIGGER:-PT5M
+ATTACH;VALUE=URI:Chord
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/Chicago:20220816T150000
+UID:310BB01C-A7B9-476C-BFA4-969751B27615
+DTSTAMP:20220810T192034Z
+LOCATION:https://utexas.zoom.us/j/92172929874
+DESCRIPTION:Helpful links:\n* ISGEO-22 Event Site: https://is-geo.github
+ .io/ISGEO-22/ \n* Workshop Schedule: https://is-geo.github.io/ISGEO-22/s
+ chedule/ \n* Miro: https://miro.com/ \n* Slack: https://is-geocommunity.
+ slack.com \n* ISGEO: https://is-geo.org/ \n* TACC User Portal: https://p
+ ortal.tacc.utexas.edu/  \n\nZoom Info:\nTopic: [ISGEO-22] Tuesday Sessio
+ ns\nTime: Aug 16\, 2022 09:30 AM Central Time (US and Canada)\n\nJoin Zo
+ om Meeting\nhttps://utexas.zoom.us/j/92172929874\n\nMeeting ID: 921 7292
+  9874\nOne tap mobile\n+13462487799\,\,92172929874# US (Houston)\n+16699
+ 006833\,\,92172929874# US (San Jose)\n\nDial by your location\n        +
+ 1 346 248 7799 US (Houston)\n        +1 669 900 6833 US (San Jose)\n
+     +1 719 359 4580 US\n        +1 253 215 8782 US (Tacoma)\n        +1
+ 669 444 9171 US\n        +1 386 347 5053 US\n        +1 564 217 2000 US\
+ n        +1 646 931 3860 US\n        +1 929 205 6099 US (New York)\n
+     +1 301 715 8592 US (Washington DC)\n        +1 309 205 3325 US\n
+     +1 312 626 6799 US (Chicago)\nMeeting ID: 921 7292 9874\nFind your l
+ ocal number: https://utexas.zoom.us/u/adcE2Py5Cb\n\nJoin by SIP\n9217292
+ 9874@zoomcrc.com\n\nJoin by H.323\n162.255.37.11 (US West)\n162.255.36.1
+ 1 (US East)\n115.114.131.7 (India Mumbai)\n115.114.115.7 (India Hyderaba
+ d)\n213.19.144.110 (Amsterdam Netherlands)\n213.244.140.110 (Germany)\n1
+ 03.122.166.55 (Australia Sydney)\n103.122.167.55 (Australia Melbourne)\n
+ 149.137.40.110 (Singapore)\n64.211.144.160 (Brazil)\n149.137.68.253 (Mex
+ ico)\n69.174.57.160 (Canada Toronto)\n65.39.152.160 (Canada Vancouver)\n
+ 207.226.132.110 (Japan Tokyo)\n149.137.24.110 (Japan Osaka)\nMeeting ID:
+  921 7292 9874\n
+SEQUENCE:1
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:[ISGEO-22] Tuesday Afternoon Session
+LAST-MODIFIED:20220810T192057Z
+CREATED:20220810T192034Z
+DTSTART;TZID=America/Chicago:20220816T130000
+BEGIN:VALARM
+X-WR-ALARMUID:0E219FBC-017D-4F92-86A7-3055388DB8BA
+UID:0E219FBC-017D-4F92-86A7-3055388DB8BA
+TRIGGER:-PT5M
+ATTACH;VALUE=URI:Chord
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/Chicago:20220817T120000
+UID:3DAF3BF7-8849-4E07-902F-D5E3672D345B
+DTSTAMP:20220810T192215Z
+LOCATION:https://utexas.zoom.us/j/93835678632
+DESCRIPTION:Helpful links:\n* ISGEO-22 Event Site: https://is-geo.github
+ .io/ISGEO-22/ \n* Workshop Schedule: https://is-geo.github.io/ISGEO-22/s
+ chedule/ \n* Miro: https://miro.com/ \n* Slack: https://is-geocommunity.
+ slack.com \n* ISGEO: https://is-geo.org/ \n* TACC User Portal: https://p
+ ortal.tacc.utexas.edu/  \n\nZoom Info:\nTopic: [ISGEO-22] Wednesday Sess
+ ions\nTime: Aug 17\, 2022 09:30 AM Central Time (US and Canada)\n\nJoin
+ Zoom Meeting\nhttps://utexas.zoom.us/j/93835678632 \n\nMeeting ID: 938 3
+ 567 8632\nOne tap mobile\n+13462487799\,\,93835678632# US (Houston)\n+12
+ 532158782\,\,93835678632# US (Tacoma)\n\nDial by your location\n
+ +1 346 248 7799 US (Houston)\n        +1 253 215 8782 US (Tacoma)\n
+    +1 669 444 9171 US\n        +1 669 900 6833 US (San Jose)\n        +1
+  719 359 4580 US\n        +1 564 217 2000 US\n        +1 646 931 3860 US
+ \n        +1 929 205 6099 US (New York)\n        +1 301 715 8592 US (Was
+ hington DC)\n        +1 309 205 3325 US\n        +1 312 626 6799 US (Chi
+ cago)\n        +1 386 347 5053 US\nMeeting ID: 938 3567 8632\nFind your
+ local number: https://utexas.zoom.us/u/ad91GO1FTC\n\nJoin by SIP\n938356
+ 78632@zoomcrc.com\n\nJoin by H.323\n162.255.37.11 (US West)\n162.255.36.
+ 11 (US East)\n115.114.131.7 (India Mumbai)\n115.114.115.7 (India Hyderab
+ ad)\n213.19.144.110 (Amsterdam Netherlands)\n213.244.140.110 (Germany)\n
+ 103.122.166.55 (Australia Sydney)\n103.122.167.55 (Australia Melbourne)\
+ n149.137.40.110 (Singapore)\n64.211.144.160 (Brazil)\n149.137.68.253 (Me
+ xico)\n69.174.57.160 (Canada Toronto)\n65.39.152.160 (Canada Vancouver)\
+ n207.226.132.110 (Japan Tokyo)\n149.137.24.110 (Japan Osaka)\nMeeting ID
+ : 938 3567 8632\n\n\n
+SEQUENCE:1
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:[ISGEO-22] Wednesday Morning Session
+LAST-MODIFIED:20220810T192301Z
+CREATED:20220810T192215Z
+DTSTART;TZID=America/Chicago:20220817T100000
+BEGIN:VALARM
+X-WR-ALARMUID:0E219FBC-017D-4F92-86A7-3055388DB8BA
+UID:0E219FBC-017D-4F92-86A7-3055388DB8BA
+TRIGGER:-PT5M
+ATTACH;VALUE=URI:Chord
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/Chicago:20220817T150000
+UID:05B887CA-73BC-462A-9D6A-B58F5D31666E
+DTSTAMP:20220810T192305Z
+LOCATION:https://utexas.zoom.us/j/93835678632
+DESCRIPTION:Helpful links:\n* ISGEO-22 Event Site: https://is-geo.github
+ .io/ISGEO-22/ \n* Workshop Schedule: https://is-geo.github.io/ISGEO-22/s
+ chedule/ \n* Miro: https://miro.com/ \n* Slack: https://is-geocommunity.
+ slack.com \n* ISGEO: https://is-geo.org/ \n* TACC User Portal: https://p
+ ortal.tacc.utexas.edu/  \n\nZoom Info:\nTopic: [ISGEO-22] Wednesday Sess
+ ions\nTime: Aug 17\, 2022 09:30 AM Central Time (US and Canada)\n\nJoin
+ Zoom Meeting\nhttps://utexas.zoom.us/j/93835678632 \n\nMeeting ID: 938 3
+ 567 8632\nOne tap mobile\n+13462487799\,\,93835678632# US (Houston)\n+12
+ 532158782\,\,93835678632# US (Tacoma)\n\nDial by your location\n
+ +1 346 248 7799 US (Houston)\n        +1 253 215 8782 US (Tacoma)\n
+    +1 669 444 9171 US\n        +1 669 900 6833 US (San Jose)\n        +1
+  719 359 4580 US\n        +1 564 217 2000 US\n        +1 646 931 3860 US
+ \n        +1 929 205 6099 US (New York)\n        +1 301 715 8592 US (Was
+ hington DC)\n        +1 309 205 3325 US\n        +1 312 626 6799 US (Chi
+ cago)\n        +1 386 347 5053 US\nMeeting ID: 938 3567 8632\nFind your
+ local number: https://utexas.zoom.us/u/ad91GO1FTC\n\nJoin by SIP\n938356
+ 78632@zoomcrc.com\n\nJoin by H.323\n162.255.37.11 (US West)\n162.255.36.
+ 11 (US East)\n115.114.131.7 (India Mumbai)\n115.114.115.7 (India Hyderab
+ ad)\n213.19.144.110 (Amsterdam Netherlands)\n213.244.140.110 (Germany)\n
+ 103.122.166.55 (Australia Sydney)\n103.122.167.55 (Australia Melbourne)\
+ n149.137.40.110 (Singapore)\n64.211.144.160 (Brazil)\n149.137.68.253 (Me
+ xico)\n69.174.57.160 (Canada Toronto)\n65.39.152.160 (Canada Vancouver)\
+ n207.226.132.110 (Japan Tokyo)\n149.137.24.110 (Japan Osaka)\nMeeting ID
+ : 938 3567 8632\n\n\n
+SEQUENCE:1
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:[ISGEO-22] Wednesday Afternoon Session
+LAST-MODIFIED:20220810T192328Z
+CREATED:20220810T192305Z
+DTSTART;TZID=America/Chicago:20220817T130000
+BEGIN:VALARM
+X-WR-ALARMUID:0E219FBC-017D-4F92-86A7-3055388DB8BA
+UID:0E219FBC-017D-4F92-86A7-3055388DB8BA
+TRIGGER:-PT5M
+ATTACH;VALUE=URI:Chord
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/Chicago:20220818T120000
+UID:E7BB12B4-20C6-48EB-A898-D2591B6A4944
+DTSTAMP:20220810T192625Z
+LOCATION:https://utexas.zoom.us/j/95710329885
+DESCRIPTION:Helpful links:\n* ISGEO-22 Event Site: https://is-geo.github
+ .io/ISGEO-22/ \n* Workshop Schedule: https://is-geo.github.io/ISGEO-22/s
+ chedule/ \n* Miro: https://miro.com/ \n* Slack: https://is-geocommunity.
+ slack.com \n* ISGEO: https://is-geo.org/ \n* TACC User Portal: https://p
+ ortal.tacc.utexas.edu/  \n\nZoom Info:\nTopic: [ISGEO-22] Thursday Sessi
+ ons\nTime: Aug 18\, 2022 09:30 AM Central Time (US and Canada)\n\nJoin Z
+ oom Meeting \nhttps://utexas.zoom.us/j/95710329885 \n\nMeeting ID: 957 1
+ 032 9885\nOne tap mobile\n+13462487799\,\,95710329885# US (Houston)\n+17
+ 193594580\,\,95710329885# US\n\nDial by your location\n        +1 346 24
+ 8 7799 US (Houston)\n        +1 719 359 4580 US\n        +1 253 215 8782
+  US (Tacoma)\n        +1 669 444 9171 US\n        +1 669 900 6833 US (Sa
+ n Jose)\n        +1 646 931 3860 US\n        +1 929 205 6099 US (New Yor
+ k)\n        +1 301 715 8592 US (Washington DC)\n        +1 309 205 3325
+ US\n        +1 312 626 6799 US (Chicago)\n        +1 386 347 5053 US\n
+       +1 564 217 2000 US\nMeeting ID: 957 1032 9885\nFind your local num
+ ber: https://utexas.zoom.us/u/aepXGySsun\n\nJoin by SIP\n95710329885@zoo
+ mcrc.com\n\nJoin by H.323\n162.255.37.11 (US West)\n162.255.36.11 (US Ea
+ st)\n115.114.131.7 (India Mumbai)\n115.114.115.7 (India Hyderabad)\n213.
+ 19.144.110 (Amsterdam Netherlands)\n213.244.140.110 (Germany)\n103.122.1
+ 66.55 (Australia Sydney)\n103.122.167.55 (Australia Melbourne)\n149.137.
+ 40.110 (Singapore)\n64.211.144.160 (Brazil)\n149.137.68.253 (Mexico)\n69
+ .174.57.160 (Canada Toronto)\n65.39.152.160 (Canada Vancouver)\n207.226.
+ 132.110 (Japan Tokyo)\n149.137.24.110 (Japan Osaka)\nMeeting ID: 957 103
+ 2 9885\n\n\n\n\n
+SEQUENCE:1
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:[ISGEO-22] Thursday Morning Session
+LAST-MODIFIED:20220810T192625Z
+CREATED:20220810T192625Z
+DTSTART;TZID=America/Chicago:20220818T100000
+BEGIN:VALARM
+X-WR-ALARMUID:0E219FBC-017D-4F92-86A7-3055388DB8BA
+UID:0E219FBC-017D-4F92-86A7-3055388DB8BA
+TRIGGER:-PT5M
+ATTACH;VALUE=URI:Chord
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/Chicago:20220818T150000
+UID:8CBE227E-0AFF-4F19-84C1-095516644C14
+DTSTAMP:20220810T192425Z
+LOCATION:https://utexas.zoom.us/j/95710329885
+DESCRIPTION:Helpful links:\n* ISGEO-22 Event Site: https://is-geo.github
+ .io/ISGEO-22/ \n* Workshop Schedule: https://is-geo.github.io/ISGEO-22/s
+ chedule/ \n* Miro: https://miro.com/ \n* Slack: https://is-geocommunity.
+ slack.com \n* ISGEO: https://is-geo.org/ \n* TACC User Portal: https://p
+ ortal.tacc.utexas.edu/  \n\nZoom Info:\nTopic: [ISGEO-22] Thursday Sessi
+ ons\nTime: Aug 18\, 2022 09:30 AM Central Time (US and Canada)\n\nJoin Z
+ oom Meeting \nhttps://utexas.zoom.us/j/95710329885 \n\nMeeting ID: 957 1
+ 032 9885\nOne tap mobile\n+13462487799\,\,95710329885# US (Houston)\n+17
+ 193594580\,\,95710329885# US\n\nDial by your location\n        +1 346 24
+ 8 7799 US (Houston)\n        +1 719 359 4580 US\n        +1 253 215 8782
+  US (Tacoma)\n        +1 669 444 9171 US\n        +1 669 900 6833 US (Sa
+ n Jose)\n        +1 646 931 3860 US\n        +1 929 205 6099 US (New Yor
+ k)\n        +1 301 715 8592 US (Washington DC)\n        +1 309 205 3325
+ US\n        +1 312 626 6799 US (Chicago)\n        +1 386 347 5053 US\n
+       +1 564 217 2000 US\nMeeting ID: 957 1032 9885\nFind your local num
+ ber: https://utexas.zoom.us/u/aepXGySsun\n\nJoin by SIP\n95710329885@zoo
+ mcrc.com\n\nJoin by H.323\n162.255.37.11 (US West)\n162.255.36.11 (US Ea
+ st)\n115.114.131.7 (India Mumbai)\n115.114.115.7 (India Hyderabad)\n213.
+ 19.144.110 (Amsterdam Netherlands)\n213.244.140.110 (Germany)\n103.122.1
+ 66.55 (Australia Sydney)\n103.122.167.55 (Australia Melbourne)\n149.137.
+ 40.110 (Singapore)\n64.211.144.160 (Brazil)\n149.137.68.253 (Mexico)\n69
+ .174.57.160 (Canada Toronto)\n65.39.152.160 (Canada Vancouver)\n207.226.
+ 132.110 (Japan Tokyo)\n149.137.24.110 (Japan Osaka)\nMeeting ID: 957 103
+ 2 9885\n\n\n\n\n
+SEQUENCE:1
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:[ISGEO-22] Thursday Afternoon Session
+LAST-MODIFIED:20220810T192557Z
+CREATED:20220810T192425Z
+DTSTART;TZID=America/Chicago:20220818T130000
+BEGIN:VALARM
+X-WR-ALARMUID:0E219FBC-017D-4F92-86A7-3055388DB8BA
+UID:0E219FBC-017D-4F92-86A7-3055388DB8BA
+TRIGGER:-PT5M
+ATTACH;VALUE=URI:Chord
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/Chicago:20220819T120000
+UID:218CFCF1-F238-45A3-A607-FD406A66FECD
+DTSTAMP:20220810T192750Z
+LOCATION:https://utexas.zoom.us/j/91218165541
+DESCRIPTION:Topic: [ISGEO-22] Friday Sessions\nTime: Aug 19\, 2022 09:30
+  AM Central Time (US and Canada)\n\nJoin Zoom Meeting\nhttps://utexas.zo
+ om.us/j/91218165541 \n\nMeeting ID: 912 1816 5541\nOne tap mobile\n+1346
+ 2487799\,\,91218165541# US (Houston)\n+17193594580\,\,91218165541# US\n\
+ nDial by your location\n        +1 346 248 7799 US (Houston)\n        +1
+  719 359 4580 US\n        +1 253 215 8782 US (Tacoma)\n        +1 669 44
+ 4 9171 US\n        +1 669 900 6833 US (San Jose)\n        +1 309 205 332
+ 5 US\n        +1 312 626 6799 US (Chicago)\n        +1 386 347 5053 US\n
+         +1 564 217 2000 US\n        +1 646 931 3860 US\n        +1 929 2
+ 05 6099 US (New York)\n        +1 301 715 8592 US (Washington DC)\nMeeti
+ ng ID: 912 1816 5541\nFind your local number: https://utexas.zoom.us/u/a
+ bFzVO6bNi\n\nJoin by SIP\n91218165541@zoomcrc.com\n\nJoin by H.323\n162.
+ 255.37.11 (US West)\n162.255.36.11 (US East)\n115.114.131.7 (India Mumba
+ i)\n115.114.115.7 (India Hyderabad)\n213.19.144.110 (Amsterdam Netherlan
+ ds)\n213.244.140.110 (Germany)\n103.122.166.55 (Australia Sydney)\n103.1
+ 22.167.55 (Australia Melbourne)\n149.137.40.110 (Singapore)\n64.211.144.
+ 160 (Brazil)\n149.137.68.253 (Mexico)\n69.174.57.160 (Canada Toronto)\n6
+ 5.39.152.160 (Canada Vancouver)\n207.226.132.110 (Japan Tokyo)\n149.137.
+ 24.110 (Japan Osaka)\nMeeting ID: 912 1816 5541\n\n\n\n\n\n\n
+SEQUENCE:1
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:[ISGEO-22] Friday Morning Session
+LAST-MODIFIED:20220810T192749Z
+CREATED:20220810T192749Z
+DTSTART;TZID=America/Chicago:20220819T100000
+BEGIN:VALARM
+X-WR-ALARMUID:0E219FBC-017D-4F92-86A7-3055388DB8BA
+UID:0E219FBC-017D-4F92-86A7-3055388DB8BA
+TRIGGER:-PT5M
+ATTACH;VALUE=URI:Chord
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+TRANSP:OPAQUE
+DTEND;TZID=America/Chicago:20220819T150000
+UID:57C7C19B-6F59-41D2-8D96-8107B2256749
+DTSTAMP:20220810T192533Z
+LOCATION:https://utexas.zoom.us/j/91218165541
+DESCRIPTION:Topic: [ISGEO-22] Friday Sessions\nTime: Aug 19\, 2022 09:30
+  AM Central Time (US and Canada)\n\nJoin Zoom Meeting\nhttps://utexas.zo
+ om.us/j/91218165541 \n\nMeeting ID: 912 1816 5541\nOne tap mobile\n+1346
+ 2487799\,\,91218165541# US (Houston)\n+17193594580\,\,91218165541# US\n\
+ nDial by your location\n        +1 346 248 7799 US (Houston)\n        +1
+  719 359 4580 US\n        +1 253 215 8782 US (Tacoma)\n        +1 669 44
+ 4 9171 US\n        +1 669 900 6833 US (San Jose)\n        +1 309 205 332
+ 5 US\n        +1 312 626 6799 US (Chicago)\n        +1 386 347 5053 US\n
+         +1 564 217 2000 US\n        +1 646 931 3860 US\n        +1 929 2
+ 05 6099 US (New York)\n        +1 301 715 8592 US (Washington DC)\nMeeti
+ ng ID: 912 1816 5541\nFind your local number: https://utexas.zoom.us/u/a
+ bFzVO6bNi\n\nJoin by SIP\n91218165541@zoomcrc.com\n\nJoin by H.323\n162.
+ 255.37.11 (US West)\n162.255.36.11 (US East)\n115.114.131.7 (India Mumba
+ i)\n115.114.115.7 (India Hyderabad)\n213.19.144.110 (Amsterdam Netherlan
+ ds)\n213.244.140.110 (Germany)\n103.122.166.55 (Australia Sydney)\n103.1
+ 22.167.55 (Australia Melbourne)\n149.137.40.110 (Singapore)\n64.211.144.
+ 160 (Brazil)\n149.137.68.253 (Mexico)\n69.174.57.160 (Canada Toronto)\n6
+ 5.39.152.160 (Canada Vancouver)\n207.226.132.110 (Japan Tokyo)\n149.137.
+ 24.110 (Japan Osaka)\nMeeting ID: 912 1816 5541\n\n\n\n\n\n\n
+SEQUENCE:1
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+SUMMARY:[ISGEO-22] Friday Afternoon Session
+LAST-MODIFIED:20220810T192810Z
+CREATED:20220810T192533Z
+DTSTART;TZID=America/Chicago:20220819T130000
+BEGIN:VALARM
+X-WR-ALARMUID:0E219FBC-017D-4F92-86A7-3055388DB8BA
+UID:0E219FBC-017D-4F92-86A7-3055388DB8BA
+TRIGGER:-PT5M
+ATTACH;VALUE=URI:Chord
+ACTION:AUDIO
+END:VALARM
+END:VEVENT
+END:VCALENDAR
