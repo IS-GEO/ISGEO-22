@@ -33,6 +33,8 @@ A mini-hackthon will be hosted during the latter half of the workshop allowing g
 
  {% include nav-share.html %}
 
-## Workshop Schedule
-{% include schedule.html %}
+## Speakers
+{% include speakers.html %}
+
+
 
