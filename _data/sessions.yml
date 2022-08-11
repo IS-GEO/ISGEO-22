@@ -328,8 +328,12 @@ resources:
     across Texas and the United States. The first step to gaining access to TACC 
     resources is to create a TACC User Portal (TUP) account. 
 
-
-
+- name: [Miro] Personal and Project Pitch Slides
+  url: https://miro.com/app/board/uXjVPf6B12w=/?share_link_id=207634384290
+  description: >
+    This shared Miro board is for use with the entire ISGEO-22 group of participants. 
+    Anyone with the link can access it, with the password `isgeo`. This is where 
+    participants should upload one personal slide and/or, one project pitch slide.
 
 researchgroups:
 - name: "[iHARP] Institute for Harnessing the Data and Model Revolution in Polar Regions"
