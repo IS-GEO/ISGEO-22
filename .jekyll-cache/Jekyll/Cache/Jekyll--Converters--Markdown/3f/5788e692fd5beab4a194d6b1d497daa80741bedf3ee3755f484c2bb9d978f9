@@ -1,0 +1,1124 @@
+I"�O<h2 id="overview">Overview</h2>
+<p><strong>Registration is now Open!</strong> <a href="https://forms.gle/96BmnWmLcfpM8WJHA">Registration Link</a></p>
+
+<p>IS-GEO and iHARP are pleased to announce a virtual workshop on Model-based Reasoning. Invited expert, Dr. Deana Pennington from the University of Texas at El Paso (UTEP) brings prior expertise in evaluating social learning and model-based reasoning together with clear guidance for successful transdisciplinary team building.</p>
+
+<p>Model-based reasoning uses mental models, simulation models, and everything in between to understand how researchers can collaboratively integrate their subject matter expertise of problems and generate combined knowledge from their different perspectives.</p>
+
+<p>This workshop will provide methods that engage researchers across disciplines to explore how data and models can inform AI. Hands-on activities will support the development of conceptual models and participatory modeling implementation using data across applications in polar regions, hydrologic models, hazards planning, and climate change impacts on communities, as well as other topics salient to workshop participants.</p>
+
+<p>A mini-hackthon will be hosted during the latter half of the workshop allowing geosciences, cognitive sciences, data science, and advanced intelligent systems to form mixed teams and then pitch, develop, and present results from adhoc project ideas created during this event.</p>
+
+<h2 id="workshop-sessions-and-topics-will-include">Workshop Sessions and Topics will include:</h2>
+<ul>
+  <li>Learn how to bridge across disciplines for convergent research</li>
+  <li>Data science skills for spatiotemporal data modeling,</li>
+  <li>Best practices for cyberinfrastructure design</li>
+  <li>High resolution image processing and analysis,</li>
+  <li>Ontological descriptions of common tools used in earth sciences and data science</li>
+  <li>Sharing pedagogical resources that can be used in your classroom</li>
+  <li>Earth systems modeling of antarctica ice sheets,</li>
+  <li>Lightning talks from fellow participants</li>
+</ul>
+
+<div class="share">
+  
+    
+      
+      
+      
+      
+
+      
+
+      <a class="button" href="https://twitter.com/intent/tweet/?url=http://0.0.0.0:4000/ISGEO-22/&amp;text=ISGEO22%20Event%20Page&amp;via=IS_GEOCommunity" style="background: #0d94e7">Twitter&nbsp; <svg width="16" height="16" class="icon  icon--twitter" role="img" alt="twitter"><title>twitter</title><use xlink:href="#twitter" fill="CurrentColor"></use></svg>
+</a>
+
+    
+  
+    
+      
+      
+      
+      
+
+      
+
+      <a class="button" href="mailto:?subject=ISGEO22 Event Page&amp;body=Hey, check out this: http://0.0.0.0:4000/ISGEO-22/" style="background: true">Email&nbsp; <svg width="16" height="16" class="icon  icon--email" role="img" alt="email"><title>email</title><use xlink:href="#email" fill="CurrentColor"></use></svg>
+</a>
+
+    
+  
+</div>
+
+<h2 id="workshop-schedule">Workshop Schedule</h2>
+<style>
+  td:first-child {
+    
+    /* FF3.5+ */
+    -moz-transform: rotate(-90.0deg);
+    /* Opera 10.5 */
+    -o-transform: rotate(-90.0deg);
+    /* Saf3.1+, Chrome */
+    -webkit-transform: rotate(-90.0deg);
+    /* IE6,IE7 */
+    filter: progid: DXImageTransform.Microsoft.BasicImage(rotation=0.083);
+    /* IE8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0.083)";
+    /* Standard */
+    transform: rotate(-90.0deg);
+
+    text-align: right;
+    border-right: 4px solid darkgrey;
+    white-space: nowrap;
+    vertical-align: top;
+
+    
+  }
+
+
+  tr {
+    border-top: 4px solid black;
+  }
+</style>
+
+<table>
+  
+  
+  
+   
+  <tr>
+    <td style="width: 10%;">
+      <div>
+        <h3 style="color:#4c6ab3 ;">Monday</h3>
+        8/15/22 
+      </div>
+    </td>
+    <td style="width: 90%;">
+       <h5 style="color:#f68a23;">Theme: Pathways to Integration </h5>
+       <h6 style="color:darkgrey;">Morning Session</h6>
+       <ul>
+        
+        
+         <li><strong>• Welcome</strong> <br /> [15mins - <em>Talk</em>] </li> 
+         
+        <li>Host: <a href="http://0.0.0.0:4000/ISGEO-22/speakers/#Suzanne Pierce">Suzanne Pierce</a> </li>
+         
+         
+         
+         
+        
+         <li><strong>• Model-Based Reasoning &amp; IDR visioning</strong> <br /> [45mins - <em>Tutorial</em>] </li> 
+         
+        <li>Host: <a href="http://0.0.0.0:4000/ISGEO-22/speakers/#Deana Pennington">Deana Pennington</a> </li>
+         
+         
+         
+         
+        
+         <li><strong>• Team Creation</strong> <br /> [50mins - <em>Hackathon</em>] </li> 
+         
+        <li>Host: <a href="http://0.0.0.0:4000/ISGEO-22/speakers/#Jeaime Powell">Jeaime Powell</a> </li>
+         
+         
+          <li>Description: Hackathon project pitches will be given and teams formed.
+</li>
+         
+         
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+       </ul>
+       <br />
+        <strong> Break (1 hour) </strong> 
+        <br />
+       <h6 style="color: darkgrey;">Afternoon Session</h6>
+       <br />
+    </td>
+  </tr>
+  
+  
+   
+  <tr>
+    <td style="width: 10%;">
+      <div>
+        <h3 style="color:#4c6ab3 ;">Tuesday</h3>
+        8/16/22 
+      </div>
+    </td>
+    <td style="width: 90%;">
+       <h5 style="color:#f68a23;">Theme: Platforms for Community/Data Management Tools </h5>
+       <h6 style="color:darkgrey;">Morning Session</h6>
+       <ul>
+        
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         <li><strong>• Polar science Physics - Guided Learning</strong> <br /> [25mins - <em>Talk</em>] </li> 
+         
+        <li>Host: <a href="http://0.0.0.0:4000/ISGEO-22/speakers/#Mathieu Morlighem">Mathieu Morlighem</a> </li>
+         
+         
+         
+         
+        
+         <li><strong>• Texas Damage Plan</strong> <br /> [25mins - <em>Talk</em>] </li> 
+         
+        <li>Host: <a href="http://0.0.0.0:4000/ISGEO-22/speakers/#William Mobley">William Mobley</a> </li>
+         
+         
+         
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+       </ul>
+       <br />
+        <strong> Break (1 hour) </strong> 
+        <br />
+       <h6 style="color: darkgrey;">Afternoon Session</h6>
+       <br />
+    </td>
+  </tr>
+  
+  
+   
+  <tr>
+    <td style="width: 10%;">
+      <div>
+        <h3 style="color:#4c6ab3 ;">Wednesday</h3>
+        8/17/22 
+      </div>
+    </td>
+    <td style="width: 90%;">
+       <h5 style="color:#f68a23;">Theme: Models &amp; Use Cases </h5>
+       <h6 style="color:darkgrey;">Morning Session</h6>
+       <ul>
+        
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         <li><strong>• Best Practices for Evaluating CI and Modeling Environments</strong> <br /> [30mins - <em>Talk</em>] </li> 
+         
+        <li>Host: <a href="http://0.0.0.0:4000/ISGEO-22/speakers/#Lisa Garbrecht">Lisa Garbrecht</a> </li>
+         
+         
+         
+         
+        
+         <li><strong>• EPIC Panel</strong> <br /> [30mins - <em>Panel</em>] </li> 
+         
+        <li>Host: <a href="http://0.0.0.0:4000/ISGEO-22/speakers/#Lisa Garbrecht">Lisa Garbrecht</a> </li>
+         
+         
+         
+         
+        
+         <li><strong>• Ontosoft Tutorial Sharing Resources</strong> <br /> [45mins - <em>Tutorial</em>] </li> 
+         
+        <li>Host: <a href="http://0.0.0.0:4000/ISGEO-22/speakers/#Suzanne Pierce">Suzanne Pierce</a> </li>
+         
+         
+         
+         
+        
+         
+        
+         <li><strong>• Group Reflection on Barriers</strong> <br /> [15mins - <em>Discussion</em>] </li> 
+         
+        <li>Host: <a href="http://0.0.0.0:4000/ISGEO-22/speakers/#Deana Pennington">Deana Pennington</a> </li>
+         
+         
+         
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+       </ul>
+       <br />
+        <strong> Break (1 hour) </strong> 
+        <br />
+       <h6 style="color: darkgrey;">Afternoon Session</h6>
+       <br />
+    </td>
+  </tr>
+  
+  
+   
+  <tr>
+    <td style="width: 10%;">
+      <div>
+        <h3 style="color:#4c6ab3 ;">Thursday</h3>
+        8/18/22 
+      </div>
+    </td>
+    <td style="width: 90%;">
+       <h5 style="color:#f68a23;">Theme: Hackathon </h5>
+       <h6 style="color:darkgrey;">Morning Session</h6>
+       <ul>
+        
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         <li><strong>• Group Checkins</strong> <br /> [30mins - <em>Hackathon</em>] </li> 
+         
+        <li>Host: <a href="http://0.0.0.0:4000/ISGEO-22/speakers/#Jeaime Powell">Jeaime Powell</a> </li>
+         
+         
+          <li>Description: 1-slide/1-min group reports on: - Goal - Current status - At least 2 tasks to be completed by 4pm CT
+</li>
+         
+         
+         
+        
+         <li><strong>• Work in Groups</strong> <br /> [1.5hrs - <em>Hackathon</em>] </li> 
+         
+        <li>Host: <a href="http://0.0.0.0:4000/ISGEO-22/speakers/#Jeaime Powell">Jeaime Powell</a> </li>
+         
+         
+         
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+       </ul>
+       <br />
+        <strong> Break (1 hour) </strong> 
+        <br />
+       <h6 style="color: darkgrey;">Afternoon Session</h6>
+       <br />
+    </td>
+  </tr>
+  
+  
+   
+  <tr>
+    <td style="width: 10%;">
+      <div>
+        <h3 style="color:#4c6ab3 ;">Friday</h3>
+        8/19/22 
+      </div>
+    </td>
+    <td style="width: 90%;">
+       <h5 style="color:#f68a23;">Theme: Final Presentations and Closing </h5>
+       <h6 style="color:darkgrey;">Morning Session</h6>
+       <ul>
+        
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         <li><strong>• Work in Groups</strong> <br /> [2hrs - <em>Hackathon</em>] </li> 
+         
+        <li>Host: <a href="http://0.0.0.0:4000/ISGEO-22/speakers/#Jeaime Powell">Jeaime Powell</a> </li>
+         
+         
+         
+         
+        
+         
+        
+         
+        
+         
+       </ul>
+       <br />
+        <strong> Break (1 hour) </strong> 
+        <br />
+       <h6 style="color: darkgrey;">Afternoon Session</h6>
+       <br />
+    </td>
+  </tr>
+  
+  
+</table>
+<p><br />
+<br /></p>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-r618{background-color:#ffffc7;font-size:14px;text-align:left;vertical-align:top}
+.tg .tg-vmxo{font-size:16px;text-align:right;vertical-align:top}
+.tg .tg-09jw{border-color:#333333;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-xde8{background-color:#34cdf9;border-color:#333333;text-align:center;vertical-align:top}
+.tg .tg-adx7{background-color:#ffcc67;text-align:center;vertical-align:top}
+.tg .tg-44rz{border-color:#333333;font-size:16px;text-align:right;vertical-align:top}
+.tg .tg-uf2l{background-color:#dae8fc;font-size:14px;text-align:left;vertical-align:top}
+</style>
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-09jw"></th>
+    <th class="tg-xde8"><span style="font-weight:700;font-style:normal">Morning</span><br /><span style="font-weight:700">Sessions</span><br /><br /><span style="font-weight:700;font-style:normal">10am-12pm CT</span></th>
+    <th class="tg-adx7"><span style="font-weight:700;font-style:normal">Afternoon</span><br /><span style="font-weight:700">Sessions</span><br /><br /><span style="font-weight:700;font-style:normal">1pm-3pm CT</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-44rz"><span style="font-weight:700;font-style:normal">Monday </span><br /><span style="font-weight:700;font-style:normal">(8/15)</span><br /><br /><span style="font-weight:700;font-style:normal">[Pathways to Integration]</span></td>
+    
+    <td class="tg-uf2l"><span style="font-weight:400;font-style:normal"> 
+      <ul>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+      
+      </ul></span> </td>
+    
+    <td class="tg-r618"><span style="font-weight:400;font-style:normal">
+      <ul>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        </ul></span> </td>
+  </tr>
+  <tr>
+    <td class="tg-vmxo"><span style="font-weight:700;font-style:normal">Tuesday </span><br /><span style="font-weight:700;font-style:normal">(8/16)</span><br /><br /><span style="font-weight:700;font-style:normal">[Platforms for Community/</span><br /><span style="font-weight:700">Data Management Tools]</span><br /></td>
+    <td class="tg-uf2l"><span style="font-weight:400;font-style:normal"> 
+      <ul>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+      
+      </ul></span> </td>
+    
+    <td class="tg-r618"><span style="font-weight:400;font-style:normal">
+      <ul>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        </ul></span> </td>
+  </tr>
+  <tr>
+    <td class="tg-vmxo"><span style="font-weight:700;font-style:normal">Wednesday </span><br /><span style="font-weight:700;font-style:normal">(8/17)</span><br /><br /><span style="font-weight:700;font-style:normal">[Models &amp; Use Cases]</span></td>
+    <td class="tg-uf2l"><span style="font-weight:400;font-style:normal"> 
+      <ul>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+      
+      </ul></span> </td>
+    
+    <td class="tg-r618"><span style="font-weight:400;font-style:normal">
+      <ul>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        </ul></span> </td> 
+  </tr>
+  <tr>
+    <td class="tg-vmxo"><span style="font-weight:bold;font-style:normal">Thursday</span><br /><span style="font-weight:bold">(8/18)</span><br /><br /><span style="font-weight:700;font-style:normal">[Hackathon]</span></td>
+    <td class="tg-uf2l"><span style="font-weight:400;font-style:normal"> 
+      <ul>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+      
+      </ul></span> </td>
+    
+    <td class="tg-r618"><span style="font-weight:400;font-style:normal">
+      <ul>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        </ul></span> </td>  
+  </tr>
+  <tr>
+    <td class="tg-vmxo"><span style="font-weight:bold;font-style:normal">Friday</span><br /><span style="font-weight:bold">(8/19)</span><br /><br /><span style="font-weight:700;font-style:normal">[Hackathon]</span></td>
+    <td class="tg-uf2l"><span style="font-weight:400;font-style:normal"> 
+      <ul>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+      
+      </ul></span> </td>
+    
+    <td class="tg-r618"><span style="font-weight:400;font-style:normal">
+      <ul>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        </ul></span> </td> 
+  </tr>
+</tbody>
+</table>
+
+:ET

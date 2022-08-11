@@ -1,7 +1,7 @@
 sessionics:
 - day: All
   date: 'August 15th-19th, 2022'
- #theme: 
+  #theme: 
   file: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22-All_Sessions.ics'
   #morningsessionics:
   #afternoonsessionics:
@@ -11,7 +11,7 @@ sessionics:
   theme: 'Pathways to Integration'
   #file:
   morningsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Monday_Morning_Session.ics'
-  afternoonsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Monday_Afternoon_Session.ics'
+  afternoonsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_MondayAfternoon_Session.ics'
 
 - day: Tuesday
   date: '8/16/22'
@@ -48,27 +48,30 @@ sessioninfo:
 # Monday Morning
 - sessionname: Welcome
   sessiontype: Talk
-  sessionday: monday_morning
+  sessionday: Monday
+  sessiontime: Morning
   sessionlength: 15mins
   #sessiondescription: 
-  sessionspeaker: Suzanne Pierce
+  sessionhost: Suzanne Pierce
 
 
 
 - sessionname: Model-Based Reasoning & IDR visioning
   sessiontype: Tutorial
-  sessionday: monday_morning
+  sessionday: Monday
+  sessiontime: Morning
   sessionlength: 45mins
   #sessiondescription: 
-  sessionspeaker: Deana Pennington
+  sessionhost: Deana Pennington
 
 - sessionname: Team Creation
   sessiontype: Hackathon
-  sessionday: monday_morning
+  sessionday: Monday
+  sessiontime: Morning
   sessionlength: 50mins
   sessiondescription: >
     Hackathon project pitches will be given and teams formed.
-  sessionspeaker: Jeaime Powell
+  sessionhost: Jeaime Powell
 
 
 
@@ -76,178 +79,203 @@ sessioninfo:
 # Monday Afternoon
 - sessionname: Share individual conceptual maps in teams
   sessiontype: Interdisciplinary Tutorial
-  sessionday: monday_afternoon
+  sessionday: Monday
+  sessiontime: Afternoon
   sessionlength: 30mins
   #sessiondescription: 
-  sessionspeaker: Deana Pennington
+  sessionhost: Deana Pennington
+  #sessionguests: [ ]
 
 - sessionname: Integration across team members
   sessiontype: Interdisciplinary Tutorial
-  sessionday: monday_afternoon
+  sessionday: Monday
+  sessiontime: Afternoon
   sessionlength: 45mins
   #sessiondescription: 
-  sessionspeaker: Deana Pennington
+  sessionhost: Deana Pennington
 
 - sessionname: Group Reflection on Process
   sessiontype: Discussion
-  sessionday: monday_afternoon
+  sessionday: Monday
+  sessiontime: Afternoon
   sessionlength: 45mins
   #sessiondescription: 
-  sessionspeaker: Deana Pennington
+  sessionhost: Deana Pennington
 
 # --------------
 # Tuesday Morning
 - sessionname: Polar science Physics - Guided Learning
   sessiontype: Talk
-  sessionday: tuesday_morning
+  sessionday: Tuesday
+  sessiontime: Morning
   sessionlength: 25mins
   #sessiondescription: 
-  sessionspeaker: Mathieu Morlighem
+  sessionhost: Mathieu Morlighem
 
 - sessionname: Texas Damage Plan
   sessiontype: Talk
-  sessionday: tuesday_morning
+  sessionday: Tuesday
+  sessiontime: Morning
   sessionlength: 25mins
   #sessiondescription: 
-  sessionspeaker: William Mobley
+  sessionhost: William Mobley
 
 
 # --------------
 # Tuesday Afternoon
 - sessionname: Goal Development
   sessiontype: Discussion
-  sessionday: tuesday_afternoon
+  sessionday: Tuesday
+  sessiontime: Afternoon
   sessionlength: 15mins
   #sessiondescription: 
-  sessionspeaker: Deana Pennington
+  sessionhost: Deana Pennington
 
 - sessionname: Project Goals 
   sessiontype: Interdisciplinary Tutorial
-  sessionday: tuesday_afternoon
+  sessionday: Tuesday
+  sessiontime: Afternoon
   sessionlength: 45mins
   #sessiondescription: 
-  sessionspeaker: Deana Pennington
+  sessionhost: Deana Pennington
 
 - sessionname: Evaluation
   sessiontype: Talk
-  sessionday: tuesday_afternoon
+  sessionday: Tuesday
+  sessiontime: Afternoon
   sessionlength: 30mins
   #sessiondescription: 
-  sessionspeaker: Lisa Garbrecht
+  sessionhost: Lisa Garbrecht
 
 - sessionname: Evaluating Project Goals 
   sessiontype: Hackathon
-  sessionday: tuesday_afternoon
+  sessionday: Tuesday
+  sessiontime: Afternoon
   sessionlength: 15mins
   #sessiondescription: 
-  sessionspeaker: Jeaime Powell
+  sessionhost: Jeaime Powell
 
 - sessionname: Group Reflection on Evaluation
   sessiontype: Discussion
-  sessionday: tuesday_afternoon
+  sessionday: Tuesday
+  sessiontime: Afternoon
   sessionlength: 15mins
   #sessiondescription: 
-  sessionspeaker: Deana Pennington
+  sessionhost: Deana Pennington
 
 # --------------
 # Wednesday Morning
 - sessionname: Best Practices for Evaluating CI and Modeling Environments
   sessiontype: Talk
-  sessionday: wednesday_morning
+  sessionday: Wednesday
+  sessiontime: Morning
   sessionlength: 30mins
   #sessiondescription: 
-  sessionspeaker: Lisa Garbrecht
+  sessionhost: Lisa Garbrecht
+  #sessionguests: [ ]
 
 - sessionname: EPIC Panel
   sessiontype: Panel
-  sessionday: wednesday_morning
+  sessionday: Wednesday
+  sessiontime: Morning
   sessionlength: 30mins
   #sessiondescription: 
-  sessionspeaker: Lisa Garbrecht
+  sessionhost: Lisa Garbrecht
+  sessionguests: ["Tim Cockerill","Emily Clark","Stephanie Baker","Miriam Jacobson"]
 
 - sessionname: Ontosoft Tutorial Sharing Resources
   sessiontype: Tutorial
-  sessionday: wednesday_morning
+  sessionday: Wednesday
+  sessiontime: Morning
   sessionlength: 45mins
   #sessiondescription: 
-  sessionspeaker: Suzanne Pierce
+  sessionhost: Suzanne Pierce
 
 # --------------
 # Wednesday Afternoon
 - sessionname: Work in Groups
   sessiontype: Hackathon
-  sessionday: wednesday_afternoon
+  sessionday: Wednesday
+  sessiontime: Afternoon
   sessionlength: 1.5hrs
   #sessiondescription: 
-  sessionspeaker: Jeaime Powell
+  sessionhost: Jeaime Powell
 
 - sessionname: Group Reflection on Barriers
   sessiontype: Discussion
-  sessionday: tuesday_afternoon
+  sessionday: Wednesday
+  sessiontime: Morning
   sessionlength: 15mins
   #sessiondescription: 
-  sessionspeaker: Deana Pennington
+  sessionhost: Deana Pennington
 
 # --------------
 # Thursday Morning
 - sessionname: Group Checkins
   sessiontype: Hackathon
-  sessionday: thursday_morning
+  sessionday: Thursday
+  sessiontime: Morning
   sessionlength: 30mins
   sessiondescription: >
     1-slide/1-min group reports on:
     - Goal
     - Current status
     - At least 2 tasks to be completed by 4pm CT
-  sessionspeaker: Jeaime Powell
+  sessionhost: Jeaime Powell
 
 - sessionname: Work in Groups
   sessiontype: Hackathon
-  sessionday: thursday_morning
+  sessionday: Thursday
+  sessiontime: Morning
   sessionlength: 1.5hrs
   #sessiondescription: 
-  sessionspeaker: Jeaime Powell
+  sessionhost: Jeaime Powell
 
 # --------------
 # Thursday Afternoon
 - sessionname: Work in Groups
   sessiontype: Hackathon
-  sessionday: thursday_afternoon
+  sessionday: Thursday
+  sessiontime: Afternoon
   sessionlength: 2hrs
   #sessiondescription: 
-  sessionspeaker: Jeaime Powell
+  sessionhost: Jeaime Powell
 
 # --------------
 # Friday Morning
 - sessionname: Work in Groups
   sessiontype: Hackathon
-  sessionday: friday_morning
+  sessionday: Friday
+  sessiontime: Morning
   sessionlength: 2hrs
   #sessiondescription: 
-  sessionspeaker: Jeaime Powell
+  sessionhost: Jeaime Powell
 
 # --------------
 # Friday Afternoon
 - sessionname: Final Presentations
   sessiontype: Hackathon
-  sessionday: friday_afternoon
+  sessionday: Friday
+  sessiontime: Afternoon
   sessionlength: 1hrs
   #sessiondescription: 
-  sessionspeaker: Jeaime Powell
+  sessionhost: Jeaime Powell
 
 - sessionname: Group Reflection on Barriers
   sessiontype: Discussion
-  sessionday: friday_afternoon
+  sessionday: Friday
+  sessiontime: Afternoon
   sessionlength: 15mins
   #sessiondescription: 
-  sessionspeaker: Deana Pennington
+  sessionhost: Deana Pennington
 
 - sessionname: Closing
   sessiontype: Talk
-  sessionday: friday_afternoon
+  sessionday: Friday
+  sessiontime: Afternoon
   sessionlength: 30mins
   #sessiondescription: 
-  sessionspeaker: Suzanne Pierce
+  sessionhost: Suzanne Pierce
 
 
 

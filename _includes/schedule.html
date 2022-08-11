@@ -1,198 +1,88 @@
+<style>
+  
+  
+  ul {
+  padding-left: 20px;
+   }
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-r618{background-color:#ffffc7;font-size:14px;text-align:left;vertical-align:top}
-.tg .tg-vmxo{font-size:16px;text-align:right;vertical-align:top}
-.tg .tg-09jw{border-color:#333333;font-size:16px;text-align:left;vertical-align:top}
-.tg .tg-xde8{background-color:#34cdf9;border-color:#333333;text-align:center;vertical-align:top}
-.tg .tg-adx7{background-color:#ffcc67;text-align:center;vertical-align:top}
-.tg .tg-44rz{border-color:#333333;font-size:16px;text-align:right;vertical-align:top}
-.tg .tg-uf2l{background-color:#dae8fc;font-size:14px;text-align:left;vertical-align:top}
+  tr {
+    border-top: 4px solid black;
+  }
 </style>
 
-<table class="tg">
-<thead>
+<a href="{{ site.data.sessions.sessionics[0].file }}"><img src="/ISGEO-22/assets/addtocal.png" width="20px"> Add all sessions to your calendar for {{ site.data.sessions.sessionics[0].date }}</a> 
+
+<table>
+  {% for day in site.data.sessions.sessionics %}
+  {% if day.day != "All" %} 
   <tr>
-    <th class="tg-09jw"></th>
-    <th class="tg-xde8"><span style="font-weight:700;font-style:normal">Morning</span><br><span style="font-weight:700">Sessions</span><br><br><span style="font-weight:700;font-style:normal">10am-12pm CT</span></th>
-    <th class="tg-adx7"><span style="font-weight:700;font-style:normal">Afternoon</span><br><span style="font-weight:700">Sessions</span><br><br><span style="font-weight:700;font-style:normal">1pm-3pm CT</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-44rz"><span style="font-weight:700;font-style:normal">Monday </span><br><span style="font-weight:700;font-style:normal">(8/15)</span><br><br><span style="font-weight:700;font-style:normal">[Pathways to Integration]</span></td>
+    <td style="width: 100px; vertical-align: top; padding-right: 10px; text-align: right;">
+  
+        <h6 style="color:#4c6ab3;">{{ day.day }}</h6>
+        {{ day.date }} 
+
+    </td>
+    <td style="width: 90%;">
+       <h5 style="color:#f68a23;">Theme: {{ day.theme }} </h5>
+       <br>
+
+        <a href="{{ day.morningsessionics }}"><img src="/ISGEO-22/assets/addtocal.png" width="20px" > <strong style="background: lightgrey;">Morning Session [10am -  CT]</strong></a>
+          
+
+       
+       <ul>
+        {% for event in site.data.sessions.sessioninfo %}
+        {% if day.day == event.sessionday and event.sessiontime == "Morning" %}
+         <li style="border-top: 2px dashed lightgrey;"><strong>{{ event.sessionname}}</strong> - [{{ event.sessionlength }} - <em>{{ event.sessiontype }}</em>] </li> 
+         {% if event.sessiondescription %}
+         &ensp; Description: {{ event.sessiondescription }}
+         <br>
+         {% endif %}
+         {% if event.sessionhost %}
+         &ensp; Session Host: <a href="{{ site.url}}{{site.baseurl}}/speakers/#{{ event.sessionhost }}">{{ event.sessionhost }}</a>
+         {% endif %}
+         {% if event.sessionguests %}
+         &ensp; Guests: 
+         {% for guest in event.sessionguests %}
+          <a href="{{ site.url}}{{site.baseurl}}/speakers/#{{ guest }}">{{ guest }}, </a>
+          {% endfor %}
+         {% endif %}
+         
+         {% endif %}
+         {% endfor %}
+       </ul>
+   
+        <h6 style="background: lightgrey;"> Break (1 hour) - [12pm - 1pm CT]</h6>
+        <br> 
+        <a href="{{ day.afternoonsessionics }}"><img src="/ISGEO-22/assets/addtocal.png" width="20px" > <strong style="background: lightgrey;">Afternoon Session [1pm - 3pm CT]</strong></a>
     
-    <td class="tg-uf2l"><span style="font-weight:400;font-style:normal"> 
-      <ul>
-      {% for event in site.data.sessions.sessioninfo %}  
-      {% if event.sessionday == "monday_morning" %}
-        <li><strong>• {{ event.sessionname}}</strong> <br> [{{ event.sessionlength }} - <em>{{ event.sessiontype }}</em>] </li> 
-     {% if event.sessionspeaker %}
-        <li>Host/Speaker: <a href="{{ site.url}}{{site.baseurl}}/speakers/#{{ event.sessionspeaker }}">{{ event.sessionspeaker }}</a> </li>
-      {% endif %}
-      {% if event.sessiondescription %}
-        <li>Description: {{ event.sessiondescription }}</li>
-      {% endif %}
-      <br>
-      {% endif %}
-      {% endfor %}
-      </ul></span> </td>
-    
-    <td class="tg-r618"><span style="font-weight:400;font-style:normal">
-      <ul>
-        {% for event in site.data.sessions.sessioninfo %}  
-        {% if event.sessionday == "monday_afternoon" %}
-          <li><strong>• {{ event.sessionname}}</strong> <br> [{{ event.sessionlength }} - <em>{{ event.sessiontype }}</em>] </li> 
-       {% if event.sessionspeaker %}
-          <li>Host/Speaker: <a href="{{ site.url}}{{site.baseurl}}/speakers/#{{ event.sessionspeaker }}">{{ event.sessionspeaker }}</a> </li>
-        {% endif %}
-        {% if event.sessiondescription %}
-          <li>Description: {{ event.sessiondescription }}</li>
-        {% endif %}
-        <br>
-        {% endif %}
-        {% endfor %}
-        </ul></span> </td>
+       <ul>
+        {% for event in site.data.sessions.sessioninfo %}
+        {% if day.day == event.sessionday and event.sessiontime == "Afternoon" %}
+         <li><strong>{{ event.sessionname}}</strong> - [{{ event.sessionlength }} - <em>{{ event.sessiontype }}</em>] </li> 
+         {% if event.sessiondescription %}
+         &ensp; Description: {{ event.sessiondescription }}
+         {% endif %}
+         {% if event.sessionhost %}
+         &ensp; Session Host: <a href="{{ site.url}}{{site.baseurl}}/speakers/#{{ event.sessionhost }}">{{ event.sessionhost }}</a>
+         {% endif %}
+         {% if event.sessionguests %}
+         &ensp; Guests: 
+         {% for guest in event.sessionguests %}
+          <a href="{{ site.url}}{{site.baseurl}}/speakers/#{{ guest }}">{{ guest }}, </a>
+          {% endfor %}
+         {% endif %}
+         
+         {% endif %}
+         {% endfor %}
+       </ul>
+       <br>
+    </td>
   </tr>
-  <tr>
-    <td class="tg-vmxo"><span style="font-weight:700;font-style:normal">Tuesday </span><br><span style="font-weight:700;font-style:normal">(8/16)</span><br><br><span style="font-weight:700;font-style:normal">[Platforms for Community/</span><br><span style="font-weight:700">Data Management Tools]</span><br></td>
-    <td class="tg-uf2l"><span style="font-weight:400;font-style:normal"> 
-      <ul>
-      {% for event in site.data.sessions.sessioninfo %}  
-      {% if event.sessionday == "tuesday_morning" %}
-        <li><strong>• {{ event.sessionname}}</strong> <br> [{{ event.sessionlength }} - <em>{{ event.sessiontype }}</em>] </li> 
-     {% if event.sessionspeaker %}
-        <li>Host/Speaker: <a href="{{ site.url}}{{site.baseurl}}/speakers/#{{ event.sessionspeaker }}">{{ event.sessionspeaker }}</a> </li>
-      {% endif %}
-      {% if event.sessiondescription %}
-        <li>Description: {{ event.sessiondescription }}</li>
-      {% endif %}
-      <br>
-      {% endif %}
-      {% endfor %}
-      </ul></span> </td>
-    
-    <td class="tg-r618"><span style="font-weight:400;font-style:normal">
-      <ul>
-        {% for event in site.data.sessions.sessioninfo %}  
-        {% if event.sessionday == "tuesday_afternoon" %}
-          <li><strong>• {{ event.sessionname}}</strong> <br> [{{ event.sessionlength }} - <em>{{ event.sessiontype }}</em>] </li> 
-       {% if event.sessionspeaker %}
-          <li>Host/Speaker: <a href="{{ site.url}}{{site.baseurl}}/speakers/#{{ event.sessionspeaker }}">{{ event.sessionspeaker }}</a> </li>
-        {% endif %}
-        {% if event.sessiondescription %}
-          <li>Description: {{ event.sessiondescription }}</li>
-        {% endif %}
-        <br>
-        {% endif %}
-        {% endfor %}
-        </ul></span> </td>
-  </tr>
-  <tr>
-    <td class="tg-vmxo"><span style="font-weight:700;font-style:normal">Wednesday </span><br><span style="font-weight:700;font-style:normal">(8/17)</span><br><br><span style="font-weight:700;font-style:normal">[Models &amp; Use Cases]</span></td>
-    <td class="tg-uf2l"><span style="font-weight:400;font-style:normal"> 
-      <ul>
-      {% for event in site.data.sessions.sessioninfo %}  
-      {% if event.sessionday == "wednesday_morning" %}
-        <li><strong>• {{ event.sessionname}}</strong> <br> [{{ event.sessionlength }} - <em>{{ event.sessiontype }}</em>] </li> 
-     {% if event.sessionspeaker %}
-        <li>Host/Speaker: <a href="{{ site.url}}{{site.baseurl}}/speakers/#{{ event.sessionspeaker }}">{{ event.sessionspeaker }}</a> </li>
-      {% endif %}
-      {% if event.sessiondescription %}
-        <li>Description: {{ event.sessiondescription }}</li>
-      {% endif %}
-      <br>
-      {% endif %}
-      {% endfor %}
-      </ul></span> </td>
-    
-    <td class="tg-r618"><span style="font-weight:400;font-style:normal">
-      <ul>
-        {% for event in site.data.sessions.sessioninfo %}  
-        {% if event.sessionday == "wednesday_afternoon" %}
-          <li><strong>• {{ event.sessionname}}</strong> <br> [{{ event.sessionlength }} - <em>{{ event.sessiontype }}</em>] </li> 
-       {% if event.sessionspeaker %}
-          <li>Host/Speaker: <a href="{{ site.url}}{{site.baseurl}}/speakers/#{{ event.sessionspeaker }}">{{ event.sessionspeaker }}</a> </li>
-        {% endif %}
-        {% if event.sessiondescription %}
-          <li>Description: {{ event.sessiondescription }}</li>
-        {% endif %}
-        <br>
-        {% endif %}
-        {% endfor %}
-        </ul></span> </td> 
-  </tr>
-  <tr>
-    <td class="tg-vmxo"><span style="font-weight:bold;font-style:normal">Thursday</span><br><span style="font-weight:bold">(8/18)</span><br><br><span style="font-weight:700;font-style:normal">[Hackathon]</span></td>
-    <td class="tg-uf2l"><span style="font-weight:400;font-style:normal"> 
-      <ul>
-      {% for event in site.data.sessions.sessioninfo %}  
-      {% if event.sessionday == "thursday_morning" %}
-        <li><strong>• {{ event.sessionname}}</strong> <br> [{{ event.sessionlength }} - <em>{{ event.sessiontype }}</em>] </li> 
-     {% if event.sessionspeaker %}
-        <li>Host/Speaker: <a href="{{ site.url}}{{site.baseurl}}/speakers/#{{ event.sessionspeaker }}">{{ event.sessionspeaker }}</a> </li>
-      {% endif %}
-      {% if event.sessiondescription %}
-        <li>Description: {{ event.sessiondescription }}</li>
-      {% endif %}
-      <br>
-      {% endif %}
-      {% endfor %}
-      </ul></span> </td>
-    
-    <td class="tg-r618"><span style="font-weight:400;font-style:normal">
-      <ul>
-        {% for event in site.data.sessions.sessioninfo %}  
-        {% if event.sessionday == "thursday_afternoon" %}
-          <li><strong>• {{ event.sessionname}}</strong> <br> [{{ event.sessionlength }} - <em>{{ event.sessiontype }}</em>] </li> 
-       {% if event.sessionspeaker %}
-          <li>Host/Speaker: <a href="{{ site.url}}{{site.baseurl}}/speakers/#{{ event.sessionspeaker }}">{{ event.sessionspeaker }}</a> </li>
-        {% endif %}
-        {% if event.sessiondescription %}
-          <li>Description: {{ event.sessiondescription }}</li>
-        {% endif %}
-        <br>
-        {% endif %}
-        {% endfor %}
-        </ul></span> </td>  
-  </tr>
-  <tr>
-    <td class="tg-vmxo"><span style="font-weight:bold;font-style:normal">Friday</span><br><span style="font-weight:bold">(8/19)</span><br><br><span style="font-weight:700;font-style:normal">[Hackathon]</span></td>
-    <td class="tg-uf2l"><span style="font-weight:400;font-style:normal"> 
-      <ul>
-      {% for event in site.data.sessions.sessioninfo %}  
-      {% if event.sessionday == "friday_morning" %}
-        <li><strong>• {{ event.sessionname}}</strong> <br> [{{ event.sessionlength }} - <em>{{ event.sessiontype }}</em>] </li> 
-     {% if event.sessionspeaker %}
-        <li>Host/Speaker: <a href="{{ site.url}}{{site.baseurl}}/speakers/#{{ event.sessionspeaker }}">{{ event.sessionspeaker }}</a> </li>
-      {% endif %}
-      {% if event.sessiondescription %}
-        <li>Description: {{ event.sessiondescription }}</li>
-      {% endif %}
-      <br>
-      {% endif %}
-      {% endfor %}
-      </ul></span> </td>
-    
-    <td class="tg-r618"><span style="font-weight:400;font-style:normal">
-      <ul>
-        {% for event in site.data.sessions.sessioninfo %}  
-        {% if event.sessionday == "friday_afternoon" %}
-          <li><strong>• {{ event.sessionname}}</strong> <br> [{{ event.sessionlength }} - <em>{{ event.sessiontype }}</em>] </li> 
-       {% if event.sessionspeaker %}
-          <li>Host/Speaker: <a href="{{ site.url}}{{site.baseurl}}/speakers/#{{ event.sessionspeaker }}">{{ event.sessionspeaker }}</a> </li>
-        {% endif %}
-        {% if event.sessiondescription %}
-          <li>Description: {{ event.sessiondescription }}</li>
-        {% endif %}
-        <br>
-        {% endif %}
-        {% endfor %}
-        </ul></span> </td> 
-  </tr>
-</tbody>
+  {% endif %}
+  {% endfor %}
 </table>
+<br>
+<br>
+
+

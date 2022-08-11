@@ -1,0 +1,621 @@
+I"K#<style>
+  td:first-child {
+    transform: rotate(-90deg);
+    text-align: left;
+    border-right: 4px solid darkgrey;
+    width: 10%;
+    
+  }
+
+  td {
+    padding-left: 10px;
+  }
+
+  tr {
+    padding: 50px;
+    border-top: 4px solid black;
+  }
+</style>
+
+<table>
+  <tr>
+    <td>
+        <h1>Test</h1>
+        8/2/22
+    </td>
+    <td>
+       <h1>Test 2</h1>
+    </td>
+  </tr>
+</table>
+<p><br />
+<br /></p>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-r618{background-color:#ffffc7;font-size:14px;text-align:left;vertical-align:top}
+.tg .tg-vmxo{font-size:16px;text-align:right;vertical-align:top}
+.tg .tg-09jw{border-color:#333333;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-xde8{background-color:#34cdf9;border-color:#333333;text-align:center;vertical-align:top}
+.tg .tg-adx7{background-color:#ffcc67;text-align:center;vertical-align:top}
+.tg .tg-44rz{border-color:#333333;font-size:16px;text-align:right;vertical-align:top}
+.tg .tg-uf2l{background-color:#dae8fc;font-size:14px;text-align:left;vertical-align:top}
+</style>
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-09jw"></th>
+    <th class="tg-xde8"><span style="font-weight:700;font-style:normal">Morning</span><br /><span style="font-weight:700">Sessions</span><br /><br /><span style="font-weight:700;font-style:normal">10am-12pm CT</span></th>
+    <th class="tg-adx7"><span style="font-weight:700;font-style:normal">Afternoon</span><br /><span style="font-weight:700">Sessions</span><br /><br /><span style="font-weight:700;font-style:normal">1pm-3pm CT</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-44rz"><span style="font-weight:700;font-style:normal">Monday </span><br /><span style="font-weight:700;font-style:normal">(8/15)</span><br /><br /><span style="font-weight:700;font-style:normal">[Pathways to Integration]</span></td>
+    
+    <td class="tg-uf2l"><span style="font-weight:400;font-style:normal"> 
+      <ul>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+      
+      </ul></span> </td>
+    
+    <td class="tg-r618"><span style="font-weight:400;font-style:normal">
+      <ul>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        </ul></span> </td>
+  </tr>
+  <tr>
+    <td class="tg-vmxo"><span style="font-weight:700;font-style:normal">Tuesday </span><br /><span style="font-weight:700;font-style:normal">(8/16)</span><br /><br /><span style="font-weight:700;font-style:normal">[Platforms for Community/</span><br /><span style="font-weight:700">Data Management Tools]</span><br /></td>
+    <td class="tg-uf2l"><span style="font-weight:400;font-style:normal"> 
+      <ul>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+      
+      </ul></span> </td>
+    
+    <td class="tg-r618"><span style="font-weight:400;font-style:normal">
+      <ul>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        </ul></span> </td>
+  </tr>
+  <tr>
+    <td class="tg-vmxo"><span style="font-weight:700;font-style:normal">Wednesday </span><br /><span style="font-weight:700;font-style:normal">(8/17)</span><br /><br /><span style="font-weight:700;font-style:normal">[Models &amp; Use Cases]</span></td>
+    <td class="tg-uf2l"><span style="font-weight:400;font-style:normal"> 
+      <ul>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+      
+      </ul></span> </td>
+    
+    <td class="tg-r618"><span style="font-weight:400;font-style:normal">
+      <ul>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        </ul></span> </td> 
+  </tr>
+  <tr>
+    <td class="tg-vmxo"><span style="font-weight:bold;font-style:normal">Thursday</span><br /><span style="font-weight:bold">(8/18)</span><br /><br /><span style="font-weight:700;font-style:normal">[Hackathon]</span></td>
+    <td class="tg-uf2l"><span style="font-weight:400;font-style:normal"> 
+      <ul>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+      
+      </ul></span> </td>
+    
+    <td class="tg-r618"><span style="font-weight:400;font-style:normal">
+      <ul>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        </ul></span> </td>  
+  </tr>
+  <tr>
+    <td class="tg-vmxo"><span style="font-weight:bold;font-style:normal">Friday</span><br /><span style="font-weight:bold">(8/19)</span><br /><br /><span style="font-weight:700;font-style:normal">[Hackathon]</span></td>
+    <td class="tg-uf2l"><span style="font-weight:400;font-style:normal"> 
+      <ul>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+      
+      </ul></span> </td>
+    
+    <td class="tg-r618"><span style="font-weight:400;font-style:normal">
+      <ul>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        </ul></span> </td> 
+  </tr>
+</tbody>
+</table>
+:ET
