@@ -104,6 +104,25 @@ sessioninfo:
 
 # --------------
 # Tuesday Morning
+- sessionname: Best Practices for Evaluating CI and Modeling Environments
+  sessiontype: Talk
+  sessionday: Tuesday
+  sessiontime: Morning
+  sessionlength: 30mins
+  #sessiondescription: 
+  sessionhost: Lisa Garbrecht
+  #sessionguests: [ ]
+
+- sessionname: EPIC Panel
+  sessiontype: Panel
+  sessionday: Tuesday
+  sessiontime: Morning
+  sessionlength: 30mins
+  #sessiondescription: 
+  sessionhost: Lisa Garbrecht
+  sessionguests: ["Tim Cockerill","Emily Clark","Stephanie Baker","Miriam Jacobson"]
+
+
 - sessionname: Polar science Physics - Guided Learning
   sessiontype: Talk
   sessionday: Tuesday
@@ -165,23 +184,6 @@ sessioninfo:
 
 # --------------
 # Wednesday Morning
-- sessionname: Best Practices for Evaluating CI and Modeling Environments
-  sessiontype: Talk
-  sessionday: Wednesday
-  sessiontime: Morning
-  sessionlength: 30mins
-  #sessiondescription: 
-  sessionhost: Lisa Garbrecht
-  #sessionguests: [ ]
-
-- sessionname: EPIC Panel
-  sessiontype: Panel
-  sessionday: Wednesday
-  sessiontime: Morning
-  sessionlength: 30mins
-  #sessiondescription: 
-  sessionhost: Lisa Garbrecht
-  sessionguests: ["Tim Cockerill","Emily Clark","Stephanie Baker","Miriam Jacobson"]
 
 - sessionname: Ontosoft Tutorial Sharing Resources
   sessiontype: Tutorial
@@ -585,7 +587,7 @@ speakerinfo:
   speakerpicture: '/assets/speakers/tcockerill.jpeg'
 
 - speakername: 'Emily Clark'
-  speakerrole: 'Project Manager for HydroShare CyberInfrastructure'
+  speakerrole: 'Project Manager for CUAHSI'
   speakeraffiliation: 'Consortium for Universities for the Advancement of Hydrologic Science, Inc. (CUAHSI)'
   speakerbio: >
     Prior to joining CUAHSI, Emily worked as a Shorebird Monitor at Cape Cod National Seashore where she located 
