@@ -7,7 +7,7 @@
     <ul>
       {% for res in site.data.sessions.resources %}
       <li>
-      <a href="{{ res.url }}">{{ res.name }}</a> 
+      <a href="{{ res.url }} target="_blank">{{ res.name }}</a> 
       <br>
       {% if res.description %}
       {{ res.description }}
@@ -26,7 +26,7 @@
   <ul>
     {% for doc in site.data.sessions.docs %}
     <li>
-      <a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/{{ doc.filepath }}">{{ doc.name }} [{{ doc.filetype}}]</a> <br>
+      <a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/{{ doc.filepath }}" target="_blank">{{ doc.name }} [{{ doc.filetype}}]</a> <br>
       {% if doc.description %}
       {{ doc.description }}
       {% endif %}

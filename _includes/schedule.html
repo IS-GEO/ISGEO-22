@@ -10,7 +10,7 @@
   }
 </style>
 
-<a href="{{ site.data.sessions.sessionics[0].file }}"><img src="/ISGEO-22/assets/addtocal.png" width="20px"> Add all sessions to your calendar for {{ site.data.sessions.sessionics[0].date }}</a> 
+<a href="{{ site.data.sessions.sessionics[0].file }}"><img src="{{ site.url }}{{ site.baseurl}}/assets/addtocal.png" width="20px"> Add all sessions to your calendar for {{ site.data.sessions.sessionics[0].date }}</a> 
 
 <table>
   {% for day in site.data.sessions.sessionics %}
@@ -26,7 +26,7 @@
        <h5 style="color:#f68a23;">Theme: {{ day.theme }} </h5>
        <br>
 
-        <a href="{{ day.morningsessionics }}"><img src="/ISGEO-22/assets/addtocal.png" width="20px" > <strong style="background: lightgrey;">Morning Session [10am -  CT]</strong></a>
+        <a href="{{ day.morningsessionics }}"><img src="{{ site.url }}{{ site.baseurl}}/assets/addtocal.png" width="20px" > <strong style="background: lightgrey;">Morning Session [10am -  CT]</strong></a>
           
 
        
@@ -54,7 +54,7 @@
    
         <h6 style="background: lightgrey;"> Break (1 hour) - [12pm - 1pm CT]</h6>
         <br> 
-        <a href="{{ day.afternoonsessionics }}"><img src="/ISGEO-22/assets/addtocal.png" width="20px" > <strong style="background: lightgrey;">Afternoon Session [1pm - 3pm CT]</strong></a>
+        <a href="{{ day.afternoonsessionics }}"><img src="{{ site.url }}{{ site.baseurl}}/assets/addtocal.png" width="20px" > <strong style="background: lightgrey;">Afternoon Session [1pm - 3pm CT]</strong></a>
     
        <ul>
         {% for event in site.data.sessions.sessioninfo %}
