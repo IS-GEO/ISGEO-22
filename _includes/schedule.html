@@ -15,10 +15,11 @@
 <table>
   {% for day in site.data.sessions.sessionics %}
   {% if day.day != "All" %} 
+  <a href="{{ site.url}}{{site.baseurl}}/schedule/#{{ day.day }}">[{{ day.day }}] </a>
   <tr>
     <td style="width: 100px; vertical-align: top; padding-right: 10px; text-align: right;">
   
-        <h6 style="color:#4c6ab3;">{{ day.day }}</h6>
+        <h6 style="color:#4c6ab3;" id="{{ day.day }}">{{ day.day }}</h6>
         {{ day.date }} 
 
     </td>
