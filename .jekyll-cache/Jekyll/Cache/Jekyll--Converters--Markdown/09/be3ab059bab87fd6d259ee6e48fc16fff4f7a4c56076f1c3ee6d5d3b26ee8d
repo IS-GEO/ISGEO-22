@@ -1,4 +1,84 @@
-I"VS
+I"i<h2 id="overview">Overview</h2>
+<p><strong>Registration is now Open!</strong> <a href="https://forms.gle/96BmnWmLcfpM8WJHA">Registration Link</a></p>
+
+<p>IS-GEO and iHARP are pleased to announce a virtual workshop on Model-based Reasoning. Invited expert, Dr. Deana Pennington from the University of Texas at El Paso (UTEP) brings prior expertise in evaluating social learning and model-based reasoning together with clear guidance for successful transdisciplinary team building.</p>
+
+<p>Model-based reasoning uses mental models, simulation models, and everything in between to understand how researchers can collaboratively integrate their subject matter expertise of problems and generate combined knowledge from their different perspectives.</p>
+
+<p>This workshop will provide methods that engage researchers across disciplines to explore how data and models can inform AI. Hands-on activities will support the development of conceptual models and participatory modeling implementation using data across applications in polar regions, hydrologic models, hazards planning, and climate change impacts on communities, as well as other topics salient to workshop participants.</p>
+
+<p>A mini-hackthon will be hosted during the latter half of the workshop allowing geosciences, cognitive sciences, data science, and advanced intelligent systems to form mixed teams and then pitch, develop, and present results from adhoc project ideas created during this event.</p>
+
+<h2 id="workshop-sessions-and-topics-will-include">Workshop Sessions and Topics will include:</h2>
+<ul>
+  <li>Learn how to bridge across disciplines for convergent research</li>
+  <li>Data science skills for spatiotemporal data modeling,</li>
+  <li>Best practices for cyberinfrastructure design</li>
+  <li>High resolution image processing and analysis,</li>
+  <li>Ontological descriptions of common tools used in earth sciences and data science</li>
+  <li>Sharing pedagogical resources that can be used in your classroom</li>
+  <li>Earth systems modeling of antarctica ice sheets,</li>
+  <li>Lightning talks from fellow participants</li>
+</ul>
+
+<div class="share">
+  
+    
+      
+      
+      
+      
+
+      
+
+      <a class="button" href="https://www.linkedin.com/shareArticle?url=http://0.0.0.0:4000/ISGEO-22/&amp;title=ISGEO-22 Workshop&amp;source=ISGEO-22&amp;mini=true" style="background: #3B5998">Linkedin&nbsp; <svg width="16" height="16" class="icon  icon--linkedin" role="img" alt="linkedin"><title>linkedin</title><use xlink:href="#linkedin" fill="CurrentColor"></use></svg>
+</a>
+
+    
+  
+    
+      
+      
+      
+      
+
+      
+
+      <a class="button" href="https://twitter.com/intent/tweet/?url=http://0.0.0.0:4000/ISGEO-22/&amp;text=ISGEO-22%20Workshop&amp;via=IS_GEOCommunity" style="background: #0d94e7">Twitter&nbsp; <svg width="16" height="16" class="icon  icon--twitter" role="img" alt="twitter"><title>twitter</title><use xlink:href="#twitter" fill="CurrentColor"></use></svg>
+</a>
+
+    
+  
+    
+      
+      
+      
+      
+
+      
+
+      <a class="button" href="https://facebook.com/sharer/sharer.php?u=http://0.0.0.0:4000/ISGEO-22/" style="background: #3B5998">Facebook&nbsp; <svg width="16" height="16" class="icon  icon--facebook" role="img" alt="facebook"><title>facebook</title><use xlink:href="#facebook" fill="CurrentColor"></use></svg>
+</a>
+
+    
+  
+    
+      
+      
+      
+      
+
+      
+
+      <a class="button" href="mailto:?subject=ISGEO-22 Workshop&amp;body=Hey, check out this: http://0.0.0.0:4000/ISGEO-22/" style="background: true">Email&nbsp; <svg width="16" height="16" class="icon  icon--email" role="img" alt="email"><title>email</title><use xlink:href="#email" fill="CurrentColor"></use></svg>
+</a>
+
+    
+  
+</div>
+
+<h2 id="speakers">Speakers</h2>
+
 <div style="border-bottom: 1px solid black;" id="Deana Pennington">
   <br /> 
   
@@ -18,7 +98,7 @@
               <p>Trained as a physical geographer with specializations in organizational  learning and program evaluation, Dr. Pennington's research revolves around  cross-disciplinary study of climate change impacts on human/natural systems.  She focuses on three categories of investigations 1) integrated modeling of  land change; 2) studies of collaboration, synthesis, and learning; and 3)  technical approaches for complex interdisciplinary projects. The latter  includes a decade of experience using developmental evaluation to improve  project outcomes. She is also Associate Dean for Faculty Mentoring and  Development in the College of Science at University of Texas at El Paso.
  </p>
               
-              <p>
+              <div style="text-align: center;">
               
               <a href="mailto:ddpennington@utep.edu"><svg width="16" height="16" class="icon  icon--email" role="img" alt="Email"><title>Email</title><use xlink:href="#email" fill="CurrentColor"></use></svg>
 </a>
@@ -33,9 +113,10 @@
               
               
               
-              <a href="https://expertise.utep.edu/node/26556">[Website]</a>
+              <a href="https://expertise.utep.edu/node/26556"><svg width="16" height="16" class="icon  icon--link" role="img" alt="Website"><title>Website</title><use xlink:href="#link" fill="CurrentColor"></use></svg>
+</a>
               
-            </p>
+            </div>
             <br />
 </div>
 
@@ -58,7 +139,7 @@
               <p>Research Scientist with Texas Advanced Computing Center (TACC) at  The University of Texas at Austin. Dr. Pierce is the lead for a  national community of researchers using Artificial Intelligence  to understand Earth (IS-GEO.org). Results from her research  develop tools and techniques that aid integrated modeling and group  decision support to improve resilience at regional scales. She's  received awards both locally and internationally for innovation  and engagement. Currently, Dr. Pierce is leading the Texas  Disaster Information System.
  </p>
               
-              <p>
+              <div style="text-align: center;">
               
               <a href="mailto:spierce@tacc.utexas.edu"><svg width="16" height="16" class="icon  icon--email" role="img" alt="Email"><title>Email</title><use xlink:href="#email" fill="CurrentColor"></use></svg>
 </a>
@@ -73,9 +154,10 @@
               
               
               
-              <a href="https://www.tacc.utexas.edu/about/directory/suzanne-pierce">[Website]</a>
+              <a href="https://www.tacc.utexas.edu/about/directory/suzanne-pierce"><svg width="16" height="16" class="icon  icon--link" role="img" alt="Website"><title>Website</title><use xlink:href="#link" fill="CurrentColor"></use></svg>
+</a>
               
-            </p>
+            </div>
             <br />
 </div>
 
@@ -98,7 +180,7 @@
               <p>Lisa Garbrecht directs the STEM Evaluation Services for the Expanding  Pathways in Computing (EPIC) division of TACC that was launched in  2019. Lisa is the former Director of Evaluation Services of the UT  Austin's College of Education STEM Center and has over 20 years of  experience designing and conducting program evaluation and research  on STEM education, professional development, and research projects.
  </p>
               
-              <p>
+              <div style="text-align: center;">
               
               <a href="mailto:lgarbrecht@tacc.utexas.edu"><svg width="16" height="16" class="icon  icon--email" role="img" alt="Email"><title>Email</title><use xlink:href="#email" fill="CurrentColor"></use></svg>
 </a>
@@ -110,9 +192,10 @@
               
               
               
-              <a href="https://www.tacc.utexas.edu/about/directory/lisa-garbrecht">[Website]</a>
+              <a href="https://www.tacc.utexas.edu/about/directory/lisa-garbrecht"><svg width="16" height="16" class="icon  icon--link" role="img" alt="Website"><title>Website</title><use xlink:href="#link" fill="CurrentColor"></use></svg>
+</a>
               
-            </p>
+            </div>
             <br />
 </div>
 
@@ -135,7 +218,7 @@
               <p>Jeaime Powell currently works as a Senior Systems Administrator and  Technical Research Design Analyst at the Texas Advanced Computing  Center(TACC) within the University of Texas at Austin. While  supporting high-performance computing users he also leads hackathons,  several STEM-based high school summer camps, facilitates programming  training sessions, and lectures courses in scientific programming.  In the role of XSEDE Broadening Participation Hackathon Coordinator,  he has most recently hosted the ADMI22 Hackathon and the HPC in the  City Hackathon at Supercomputing21.
  </p>
               
-              <p>
+              <div style="text-align: center;">
               
               <a href="mailto:jpowell@tacc.utexas.edu"><svg width="16" height="16" class="icon  icon--email" role="img" alt="Email"><title>Email</title><use xlink:href="#email" fill="CurrentColor"></use></svg>
 </a>
@@ -153,9 +236,10 @@
 </a>
               
               
-              <a href="https://jeaimehp.github.io/">[Website]</a>
+              <a href="https://jeaimehp.github.io/"><svg width="16" height="16" class="icon  icon--link" role="img" alt="Website"><title>Website</title><use xlink:href="#link" fill="CurrentColor"></use></svg>
+</a>
               
-            </p>
+            </div>
             <br />
 </div>
 
@@ -178,7 +262,7 @@
               <p>My group focuses on the physics of glacier ice and the role of the ice  sheets in the climate system. Ice sheets play a central role in the  climate system: they store significant amounts of fresh water and are  the conveyor belts for transporting snow that accumulates inland back  into the oceans. The interactions of the ice sheets with the atmosphere  and the ocean have an internal variability but also affect the coupled ice  sheet–climate response to external forcings on time scales of months to  millions of years. If the current warming of the climate continues, the ice  sheets will respond at a yet unknown rate, with unknown consequences for the  rest of the climate system. A better understanding of the processes driving  these changes is critical to improve projections of sea level rise.
  </p>
               
-              <p>
+              <div style="text-align: center;">
               
               <a href="mailto:Mathieu.Morlighem@Dartmouth.edu"><svg width="16" height="16" class="icon  icon--email" role="img" alt="Email"><title>Email</title><use xlink:href="#email" fill="CurrentColor"></use></svg>
 </a>
@@ -193,9 +277,10 @@
               
               
               
-              <a href="https://faculty-directory.dartmouth.edu/mathieu-morlighem">[Website]</a>
+              <a href="https://faculty-directory.dartmouth.edu/mathieu-morlighem"><svg width="16" height="16" class="icon  icon--link" role="img" alt="Website"><title>Website</title><use xlink:href="#link" fill="CurrentColor"></use></svg>
+</a>
               
-            </p>
+            </div>
             <br />
 </div>
 
@@ -218,7 +303,7 @@
               <p>Dr. Mobley joined the Multi Modal Applications Team in June of 2022.  He is currently a research associate focusing on Robust Decision  Making under uncertainty and Geospatial Applied Machine Learning.  Previously Dr. Mobley was an Assistant Research Scientist at the Institute  for Disaster Resilient Texas.
  </p>
               
-              <p>
+              <div style="text-align: center;">
               
               <a href="mailto:wmobley@tacc.utexas.edu"><svg width="16" height="16" class="icon  icon--email" role="img" alt="Email"><title>Email</title><use xlink:href="#email" fill="CurrentColor"></use></svg>
 </a>
@@ -233,9 +318,10 @@
 </a>
               
               
-              <a href="https://www.tacc.utexas.edu/about/directory/william-mobley">[Website]</a>
+              <a href="https://www.tacc.utexas.edu/about/directory/william-mobley"><svg width="16" height="16" class="icon  icon--link" role="img" alt="Website"><title>Website</title><use xlink:href="#link" fill="CurrentColor"></use></svg>
+</a>
               
-            </p>
+            </div>
             <br />
 </div>
 
@@ -258,7 +344,7 @@
               <p>Tim Cockerill is TACC’s Director of User Services. He oversees the allocations process  by which computing time and storage is awarded on TACC’s HPC systems. The User Services  team is also responsible for user account management, training, and user guides. Tim  also currently serves as the DesignSafe Deputy Project Director, providing a web-based  platform supporting natural hazards research. Tim is co-PI on two NSF CC* awards providing  training and research support for underserved/under-resourced universities and community  colleges. Tim joined TACC in January, 2014, as the Director of Center Programs responsible  for program and project management across the Center’s portfolio of awards. Prior to joining  TACC, he was the Associate Project Director for XSEDE and the TeraGrid Project Manager.  Before entering the world of high performance computing in 2003, Tim spent 10 years working  in startup companies aligned with his research interests in gallium arsenide materials and  semiconductor lasers. Prior to that, Tim earned his B.S., M.S., and Ph.D. degrees from the  University of Illinois at Urbana-Champaign and was a Visiting Assistant Professor in the  Electrical and Computer Engineering Department.
  </p>
               
-              <p>
+              <div style="text-align: center;">
               
               <a href="mailto:cockerill@tacc.utexas.edu"><svg width="16" height="16" class="icon  icon--email" role="img" alt="Email"><title>Email</title><use xlink:href="#email" fill="CurrentColor"></use></svg>
 </a>
@@ -270,9 +356,10 @@
               
               
               
-              <a href="https://www.tacc.utexas.edu/about/directory/tim-cockerill">[Website]</a>
+              <a href="https://www.tacc.utexas.edu/about/directory/tim-cockerill"><svg width="16" height="16" class="icon  icon--link" role="img" alt="Website"><title>Website</title><use xlink:href="#link" fill="CurrentColor"></use></svg>
+</a>
               
-            </p>
+            </div>
             <br />
 </div>
 
@@ -295,7 +382,7 @@
               <p>Prior to joining CUAHSI, Emily worked as a Shorebird Monitor at Cape Cod National Seashore where she located  and monitored nesting endangered shorebirds. Emily holds a BS in Environmental Science from the University  of Tampa, an MPA in Environmental Science and Policy from Columbia University, and a Project Management  Professional (PMP) certification. In her free time, Emily enjoys getting outdoors and practicing making  the perfect s'more!
  </p>
               
-              <p>
+              <div style="text-align: center;">
               
               <a href="mailto:eclark@cuahsi.org"><svg width="16" height="16" class="icon  icon--email" role="img" alt="Email"><title>Email</title><use xlink:href="#email" fill="CurrentColor"></use></svg>
 </a>
@@ -307,9 +394,10 @@
               
               
               
-              <a href="https://www.cuahsi.org/about/our-team/emily-clark">[Website]</a>
+              <a href="https://www.cuahsi.org/about/our-team/emily-clark"><svg width="16" height="16" class="icon  icon--link" role="img" alt="Website"><title>Website</title><use xlink:href="#link" fill="CurrentColor"></use></svg>
+</a>
               
-            </p>
+            </div>
             <br />
 </div>
 
@@ -335,7 +423,7 @@
  exploring how to apply innovative tools and techniques used by data scientists to education research.
  </p>
               
-              <p>
+              <div style="text-align: center;">
               
               <a href="mailto:snbaker@tacc.utexas.edu"><svg width="16" height="16" class="icon  icon--email" role="img" alt="Email"><title>Email</title><use xlink:href="#email" fill="CurrentColor"></use></svg>
 </a>
@@ -347,9 +435,10 @@
               
               
               
-              <a href="https://www.tacc.utexas.edu/about/directory/stephanie-baker">[Website]</a>
+              <a href="https://www.tacc.utexas.edu/about/directory/stephanie-baker"><svg width="16" height="16" class="icon  icon--link" role="img" alt="Website"><title>Website</title><use xlink:href="#link" fill="CurrentColor"></use></svg>
+</a>
               
-            </p>
+            </div>
             <br />
 </div>
 
@@ -372,7 +461,7 @@
               <p>Miriam Jacobson joined TACC in 2020 as a Research Associate on the Expanding Pathways in Computing (EPIC) STEM Evaluation Services division, where she evaluates internal and external STEM education programs. She led the external evaluation of CUAHSI’s HydroShare CyberInfrastructure. She previously worked at ICF as a Lead Research Scientist and studied workforce development initiatives at the federal and local level. Miriam received her PhD from Claremont Graduate University in Evaluation and Applied Research Methods. She has conducted research on culturally responsive evaluation approaches and the dissemination of evidenced-based practices.
  </p>
               
-              <p>
+              <div style="text-align: center;">
               
               <a href="mailto:mjacobson@tacc.utexas.edu"><svg width="16" height="16" class="icon  icon--email" role="img" alt="Email"><title>Email</title><use xlink:href="#email" fill="CurrentColor"></use></svg>
 </a>
@@ -384,9 +473,10 @@
               
               
               
-              <a href="https://www.tacc.utexas.edu/about/directory/miriam-jacobson">[Website]</a>
+              <a href="https://www.tacc.utexas.edu/about/directory/miriam-jacobson"><svg width="16" height="16" class="icon  icon--link" role="img" alt="Website"><title>Website</title><use xlink:href="#link" fill="CurrentColor"></use></svg>
+</a>
               
-            </p>
+            </div>
             <br />
 </div>
 

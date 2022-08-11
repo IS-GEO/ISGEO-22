@@ -5,12 +5,15 @@
       {% include post-related.html %}
     </section>
 
+
+
   {% elsif page.layout == "page" or page.layout == "home" or page.layout == "blog" %}
     <section class="section  section--description">
       
     </section>
-    <div style="opacity: 1;">
-    
+    <div style="opacity: 1; text-align: center;">
+      
+
       <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1632211" target="_blank"><img src="{{ site.url }}{{ site.baseurl}}/assets/NSF-200px.png" alt="NSF Logo"></a>
       &nbsp
       <a href="https://iharp.umbc.edu/" target="_blank"><img src="{{ site.url }}{{ site.baseurl}}/assets/iharp-logo%20200px.jpeg" alt="iHarp Logo"></a>
@@ -18,6 +21,7 @@
       <a href="https://www.tacc.utexas.edu/" target="_blank"><img src="{{ site.url }}{{ site.baseurl}}/assets/TACC-200px.png" alt="TACC Logo"></a>
       &nbsp
       <a href="https://is-geo.org/" target="_blank"> <img src="{{ site.url }}{{ site.baseurl}}/assets/IS-GEO-200px.png" alt="IS-GEO Logo"> </a>
+      {% include nav-social.html %}
     </div>
 
   {% elsif page.layout == "categories" %}
