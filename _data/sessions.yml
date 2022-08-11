@@ -417,7 +417,7 @@ researchgroups:
   description: >
     The Institute of Tibetan Plateau Research (ITP), Chinese Academy of Sciences (CAS), founded in 2003, 
     aims to address frontiers in earth system sciences and key needs of socio-economic development.
-  logo: http://english.itpcas.cas.cn/include/new_top/images/P020200902551195202176.png
+  #logo: http://english.itpcas.cas.cn/include/new_top/images/P020200902551195202176.png
 
 - name: "[INPE] National Institute for Space Research"
   url: https://www.gov.br/inpe/pt-br
