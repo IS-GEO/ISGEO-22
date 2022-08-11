@@ -23,23 +23,23 @@
               {% if ins.speakerbio %}
               <p>{{ ins.speakerbio }} </p>
               {% endif %}
-              <p>
+              <div style="text-align: center;">
               {% if ins.speakeremail %}
-              <a href="mailto:{{ ins.speakeremail }}">[Email]</a>
+              <a href="mailto:{{ ins.speakeremail }}">{% include icon.html id="email" title="Email" %}</a>
               {% endif %}
               {% if ins.speakerlinkedin %}
-              <a href="{{ ins.speakerlinkedin }}">[LinkedIn]</a>
+              <a href="{{ ins.speakerlinkedin }}">{% include icon.html id="linkedin" title="LinkedIn" %}</a>
               {% endif %}
               {% if ins.speakertwitter %}
-              <a href="{{ ins.speakertwitter }}">[Twitter]</a>
+              <a href="{{ ins.speakertwitter }}">{% include icon.html id="twitter" title="Twitter" %}</a>
               {% endif %}
               {% if ins.speakergithub %}
-              <a href="{{ ins.speakergithub }}">[Github]</a>
+              <a href="{{ ins.speakergithub }}">{% include icon.html id="github" title="Github" %}</a>
               {% endif %}
               {% if ins.speakerurl %}
-              <a href="{{ ins.speakerurl }}">[Website]</a>
+              <a href="{{ ins.speakerurl }}">{% include icon.html id="link" title="Website" %}</a>
               {% endif %}
-            </p>
+            </div>
             <br>
 </div>
 {% endfor %}
