@@ -493,12 +493,16 @@ speakerinfo:
   speakerrole: 'Director Of STEM Evaluation Services'
   speakeraffiliation: 'Texas Advanced Computing Center, Evaluation Services for the Expanding Pathways in Computing (EPIC)'
   speakerbio: >
-    Lisa Garbrecht directs the STEM Evaluation Services for the Expanding 
-    Pathways in Computing (EPIC) division of TACC that was launched in 
-    2019. Lisa is the former Director of Evaluation Services of the UT 
-    Austin's College of Education STEM Center and has over 20 years of 
-    experience designing and conducting program evaluation and research 
-    on STEM education, professional development, and research projects.
+    Lisa Garbrecht is the Director of STEM Evaluation Services for the Expanding Pathways in Computing (EPIC) division of 
+    TACC that was launched in 2019. Lisa oversees EPIC’s evaluation of numerous internal and external programs and research 
+    grants funded by national, state, and local organizations, most of which aim to broaden participation in computing and 
+    STEM education. Lisa is the former Director of Evaluation Services of the UT Austin's College of Education STEM Center 
+    and has over 20 years of experience designing and conducting program evaluation and research on STEM education, 
+    professional development, and research projects. Her research focuses on using culturally responsive evaluation and 
+    research methods to assess efforts to improve and broaden participation in K-20 STEM education and careers, as well as 
+    assessing student learning, attitudes, and outcomes from STEM curriculum and outreach programs. Lisa earned her PhD in 
+    Educational Psychology from Arizona State University and her MA in Counseling in Education and BS in Journalism from 
+    Northern Arizona University.
   speakeremail: 'lgarbrecht@tacc.utexas.edu'
   speakerlinkedin: 'https://www.linkedin.com/in/lisagarbrecht/'
   #speakertwitter: 
@@ -606,14 +610,16 @@ speakerinfo:
   speakerrole: 'Research Associate'
   speakeraffiliation: 'Texas Advanced Computing Center, Expanding Pathways in Computing (EPIC)'
   speakerbio: >
-    Stephanie Baker joined TACC in 2019 and is as a Research Associate on the STEM Evaluation Services team. 
-    She conducts internal and external evaluations of STEM education programs and participates in research 
-    projects and outreach programs within TACC’s Expanding Pathways in Computing (EPIC) division. She leads 
-    the evaluation of TACC’s DesignSafe CyberInfrastructure. Prior to joining TACC, she served as a 
-    Research Associate at The University of Texas at Austin’s STEM Center in the College of Education.
-     Stephanie’s primary research focuses on developing novel methods for assessing and addressing cognitive 
-     and non-cognitive factors crucial for student success in STEM subjects. Recently, she has begun 
-     exploring how to apply innovative tools and techniques used by data scientists to education research.
+    Stephanie Baker is a Research Associate on the STEM Evaluation Services team at UT TACC.  Since joining TACC in 
+    2019, Stephanie conducts internal and external evaluations of STEM education programs and participates in 
+    research projects and outreach programs within TACC’s Expanding Pathways in Computing (EPIC) division. She 
+    leads the evaluations of TACC’s DesignSafe CI, UT Department of Computer Science’s Center for Inclusive Computing 
+    program, and several other projects. Prior to joining TACC, she served as a Research Associate at UT’s STEM 
+    Center in the College of Education. Stephanie’s primary research focuses on developing practical measures for 
+    assessing noncognitive factors crucial for student success in STEM subjects. She is also interested in the ethical 
+    application of natural language processing techniques to education research. Stephanie earned her MS in Mathematics 
+    from The University of Texas-Pan American, a Postgraduate Certificate in Artificial Intelligence and Machine Learning 
+    from UT, and a PhD in Mathematics Education from UT.
   speakeremail: snbaker@tacc.utexas.edu
   speakerlinkedin: https://www.linkedin.com/in/stephanie-nicole-baker/
   #speakertwitter: 
@@ -624,7 +630,14 @@ speakerinfo:
   speakerrole: 'Research Associate'
   speakeraffiliation: 'Texas Advanced Computing Center, Expanding Pathways in Computing (EPIC)'
   speakerbio: >
-    Miriam Jacobson joined TACC in 2020 as a Research Associate on the Expanding Pathways in Computing (EPIC) STEM Evaluation Services division, where she evaluates internal and external STEM education programs. She led the external evaluation of CUAHSI’s HydroShare CyberInfrastructure. She previously worked at ICF as a Lead Research Scientist and studied workforce development initiatives at the federal and local level. Miriam received her PhD from Claremont Graduate University in Evaluation and Applied Research Methods. She has conducted research on culturally responsive evaluation approaches and the dissemination of evidenced-based practices.
+    Miriam Jacobson is a Research Associate in the EPIC STEM Evaluation Services division at UT TACC. Since joining TACC 
+    in 2020, Miriam has conducted internal and external evaluation of multiple STEM education programs. She led the 
+    external evaluation of CUAHSI’s HydroShare CI and leads evaluations of UT’s Institute for Foundations of Machine 
+    Learning and the University of California, San Diego’s Institute for Learning-enabled Optimization at Scale, as well 
+    as other projects. She previously worked at ICF as a Lead Research Scientist and studied workforce development 
+    initiatives at the federal and local level. She has conducted research on culturally responsive evaluation approaches 
+    and the dissemination of evidenced-based practices. Miriam received her PhD from Claremont Graduate University in 
+    Evaluation and Applied Research Method.
   speakeremail: mjacobson@tacc.utexas.edu
   speakerlinkedin: https://www.linkedin.com/in/miriam-jacobson-5249613a/
   #speakertwitter: 
