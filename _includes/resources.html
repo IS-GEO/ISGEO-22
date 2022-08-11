@@ -49,8 +49,9 @@
           {% if group.description %}
           {{ group.description }}
           {% endif %}
+         
         </td>
-        <td style="width: 210px; background-color: #e8e4cf; text-align: center;"><a href="{{ group.url }}" target="_blank"><img src="{{group.logo}}"  alt="{{ group.name }}" width="200"></a></td>
+        <td style="width: 210px; background-color: #e8e4cf; text-align: center; vertical-align: top;"><a href="{{ group.url }}" target="_blank"><img src="{{group.logo}}"  alt="{{ group.name }}" width="200"></a></td>
         
         {% else %}
         
@@ -58,6 +59,7 @@
           {% if group.description %}
           {{ group.description }}
           {% endif %}
+          
         </td>
         <td style="background-color: #e8e4cf;"></td>
         {% endif %}
