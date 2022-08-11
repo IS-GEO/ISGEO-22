@@ -7,7 +7,7 @@
     <ul>
       {% for res in site.data.sessions.resources %}
       <li>
-      <a href="{{ res.url }}" target="_blank">{{ res.name }}</a> 
+      <strong><a href="{{ res.url }}" target="_blank">{{ res.name }}</a> </strong>
       <br>
       {% if res.description %}
       {{ res.description }}
@@ -26,7 +26,7 @@
   <ul>
     {% for doc in site.data.sessions.docs %}
     <li>
-      <a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/{{ doc.filepath }}" target="_blank">{{ doc.name }} [{{ doc.filetype}}]</a> <br>
+      <strong><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/{{ doc.filepath }}" target="_blank">{{ doc.name }} [{{ doc.filetype}}]</a></strong> <br>
       {% if doc.description %}
       {{ doc.description }}
       {% endif %}
@@ -35,5 +35,37 @@
     {% endfor %}
     </ul>
    
+</div>
+
+<div>
+  <h1>Participating Research Groups and Organizations</h1>
+  <br>
+
+    <table>
+      {% for group in site.data.sessions.researchgroups %}
+      <tr>
+        {% if group.logo %}
+        <td> <strong><a href="{{ group.url }}" target="_blank">{{ group.name }}</a></strong> <br>
+          {% if group.description %}
+          {{ group.description }}
+          {% endif %}
+        </td>
+        <td style="width: 210px; background-color: #e8e4cf; text-align: center;"><a href="{{ group.url }}" target="_blank"><img src="{{group.logo}}"  alt="{{ group.name }}" width="200"></a></td>
+        
+        {% else %}
+        
+        <td> <strong><a href="{{ group.url }}" target="_blank">{{ group.name }}</a></strong> <br>
+          {% if group.description %}
+          {{ group.description }}
+          {% endif %}
+        </td>
+        <td style="background-color: #e8e4cf;"></td>
+        {% endif %}
+      </tr>
+      {% endfor %}
+            
+    </table>
+
+
 </div>
 
