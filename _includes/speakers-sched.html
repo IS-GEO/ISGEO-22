@@ -1,0 +1,59 @@
+
+<table>
+  {% for speaker in site.data.sessions.speakerinfo %}
+  
+
+       <tr>
+        <td style="vertical-align: top;"> <h5>{{ speaker.speakername }}</h5></td>
+        
+        <td style="vertical-align: top;"> <h5>{{ speaker.speakeremail }}</h5></td>
+       
+        <td style="vertical-align: top;"> 
+          {% for event in site.data.sessions.sessioninfo %}
+           {% if event.sessionhost %}
+           {% for session in site.data.sessions.sessionics %}
+           {% if session.day == event.sessionday %}
+    
+        {% if speaker.speakername == event.sessionhost %}
+          <strong> Session: {{ event.sessionname }}</strong> <br>
+           
+            {{ event.sessionday }} - {{ event.sessiontime }} Session  <em>[{{ event.sessionlength }}]</em>
+            <ul>
+            {% if session.day == event.sessionday and event.sessiontime == "Morning" %} 
+            <li><a href="{{ day.morningsessionics }}" target="_blank">[Add to Session to Calendar]</a></li>
+            {% else %}
+            <li><a href="{{ day.afternoonsessionics }}" target="_blank">[Add to Session to  Calendar]</a></li>
+            {% endif %}
+            <li>Zoom Link: <a href="{{ session.zoomlink }}" target="_blank">{{ session.zoomlink }}</a></li>
+          </ul>
+        {% endif %}
+        {% if event.sessionguests %}
+          {% for guest in event.sessionguests %}
+          {% if speaker.speakername == guest %}
+          <strong> Session: {{ event.sessionname }}</strong> <br>
+           
+            {{ event.sessionday }} - {{ event.sessiontime }} Session  <em>[{{ event.sessionlength }}]</em>
+            <ul>
+            {% if session.day == event.sessionday and event.sessiontime == "Morning" %} 
+            <li><a href="{{ day.morningsessionics }}" target="_blank">[Add to Session to Calendar]</a></li>
+            {% else %}
+            <li><a href="{{ day.afternoonsessionics }}" target="_blank">[Add to Session to  Calendar]</a></li>
+            {% endif %}
+            <li>Zoom Link: <a href="{{ session.zoomlink }}" target="_blank">{{ session.zoomlink }}</a></li>
+          </ul>
+          {% endif %}
+          {% endfor %}
+        {% endif %}
+        
+       
+    
+          {% endif %}
+          {% endfor %}
+          {% endif %} 
+          {% endfor %}
+        </td>
+        
+       </tr>
+      
+       {% endfor %}
+    </table>

@@ -5,6 +5,7 @@ sessionics:
   file: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22-All_Sessions.ics'
   #morningsessionics:
   #afternoonsessionics:
+  #zoomlink: 
 
 - day: Monday
   date: '8/15/22'
@@ -12,6 +13,7 @@ sessionics:
   #file:
   morningsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Monday_Morning_Session.ics'
   afternoonsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_MondayAfternoon_Session.ics'
+  zoomlink: https://utexas.zoom.us/j/97287426291 
 
 - day: Tuesday
   date: '8/16/22'
@@ -19,7 +21,7 @@ sessionics:
   #file:
   morningsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Tuesday_Morning_Session.ics'
   afternoonsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Tuesday_Afternoon_Session.ics'
-  
+  zoomlink: https://utexas.zoom.us/j/92172929874 
 
 - day: Wednesday
   date: '8/17/22'
@@ -27,6 +29,7 @@ sessionics:
   #file: 
   morningsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Wednesday_Morning_Session.ics'
   afternoonsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Wednesday_Afternoon_Session.ics'
+  zoomlink: https://utexas.zoom.us/j/93835678632 
 
 - day: Thursday
   date: '8/18/22'
@@ -34,6 +37,7 @@ sessionics:
   #file: 
   morningsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Thursday_Morning_Session.ics'
   afternoonsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Thursday_Afternoon_Session.ics'
+  zoomlink: https://utexas.zoom.us/j/95710329885 
 
 - day: Friday
   date: '8/19/22'
@@ -41,7 +45,7 @@ sessionics:
   #file: 
   morningsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Friday_Morning_Session.ics'
   afternoonsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Friday_Afternoon_Session.ics'
-
+  zoomlink: https://utexas.zoom.us/j/91218165541 
 
 sessioninfo:
 # --------------
