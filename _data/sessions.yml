@@ -211,11 +211,19 @@ sessioninfo:
 
 # --------------
 # Wednesday Afternoon
+- sessionname: Lightning Talks
+  sessiontype: Talk
+  sessionday: Wednesday
+  sessiontime: Afternoon
+  sessionlength: 45mins
+  #sessiondescription: 
+  sessionhost: Jeaime Powell
+
 - sessionname: Work in Groups
   sessiontype: Hackathon
   sessionday: Wednesday
   sessiontime: Afternoon
-  sessionlength: 1.5hrs
+  sessionlength: 30mins
   #sessiondescription: 
   sessionhost: Jeaime Powell
 
