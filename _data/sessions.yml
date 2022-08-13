@@ -314,6 +314,11 @@ docs:
 
 
 resources:
+- name: Presentation File Upload Link
+  url: https://forms.gle/t8w1Q9C3zCvaPJqY7 
+  description: >
+    Please use this link to upload any given presentation files in PDF format.
+
 - name: IS-GEO Site
   url: https://is-geo.org/
   description: >
