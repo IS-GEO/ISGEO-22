@@ -216,7 +216,9 @@ sessioninfo:
   sessionday: Wednesday
   sessiontime: Afternoon
   sessionlength: 45mins
-  #sessiondescription: 
+  sessiondescription: >
+    5 Minute talks given by participants. Please upload all slide decks in PDF form using 
+    the <a href="https://forms.gle/t8w1Q9C3zCvaPJqY7">ISGEO-22 Presentation Upload Form</a>.
   sessionhost: Jeaime Powell
 
 - sessionname: Work in Groups
