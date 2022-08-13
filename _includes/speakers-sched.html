@@ -13,16 +13,18 @@
            {% if event.sessionhost %}
            {% for session in site.data.sessions.sessionics %}
            {% if session.day == event.sessionday %}
-    
+        
         {% if speaker.speakername == event.sessionhost %}
           <strong> Session: {{ event.sessionname }}</strong> <br>
            
             {{ event.sessionday }} - {{ event.sessiontime }} Session  <em>[{{ event.sessionlength }}]</em>
             <ul>
             {% if session.day == event.sessionday and event.sessiontime == "Morning" %} 
-            <li><a href="{{ day.morningsessionics }}" target="_blank">[Add to Session to Calendar]</a></li>
+            <li><em>Time by Zone:</em> {{ session.morningsessiontime }}</li>
+            <li><a href="{{ session.morningsessionics }}" target="_blank">[Add to Session to Calendar]</a></li>
             {% else %}
-            <li><a href="{{ day.afternoonsessionics }}" target="_blank">[Add to Session to  Calendar]</a></li>
+            <li><em>Time by Zone:</em> {{ session.afternoonsessiontime }}</li>
+            <li><a href="{{ session.afternoonsessionics }}" target="_blank">[Add to Session to  Calendar]</a></li>
             {% endif %}
             <li>Zoom Link: <a href="{{ session.zoomlink }}" target="_blank">{{ session.zoomlink }}</a></li>
           </ul>
@@ -35,9 +37,11 @@
             {{ event.sessionday }} - {{ event.sessiontime }} Session  <em>[{{ event.sessionlength }}]</em>
             <ul>
             {% if session.day == event.sessionday and event.sessiontime == "Morning" %} 
-            <li><a href="{{ day.morningsessionics }}" target="_blank">[Add to Session to Calendar]</a></li>
+            <li><em>Time by Zone:</em> {{ session.morningsessiontime }}</li>
+            <li><a href="{{ session.morningsessionics }}" target="_blank">[Add to Session to Calendar]</a></li>
             {% else %}
-            <li><a href="{{ day.afternoonsessionics }}" target="_blank">[Add to Session to  Calendar]</a></li>
+            <li><em>Time by Zone:</em> {{ session.afternoonsessiontime }}</li>
+            <li><a href="{{ session.afternoonsessionics }}" target="_blank">[Add to Session to  Calendar]</a></li>
             {% endif %}
             <li>Zoom Link: <a href="{{ session.zoomlink }}" target="_blank">{{ session.zoomlink }}</a></li>
           </ul>
