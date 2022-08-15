@@ -316,7 +316,6 @@ docs:
   description: 'Instructions on how to setup a Miro.com account and research concept map'
   filepath: '/assets/docs/Miro-ISGEO.pdf'
   filetype: 'PDF'
-  external: false
 
 - name: 'Participant Intro Template'
   description: |
@@ -325,14 +324,12 @@ docs:
     *	If you have an idea in mind for a problem that a team could work on during the workshop, please create one slide that succinctly states the problem. You will make a two minute “pitch” at the beginning of the workshop to recruit other participants to work with you on that problem.
   filepath: '/assets/docs/Participant_template.pptx'
   filetype: 'PPTX'
-  external: false
 
 - name: '[iHarp] Greenland Dataset'
   description: 'Surface topography, ice flow velocity, ice thinning rates, surface mass balance and radar data to train their model'
   #filepath: '/assets/docs/Miro-ISGEO.pdf'
   filetype: 'HDF - h5'
   url: 'https://drive.google.com/file/d/1PlKkAqStJXTbc1LLAeL0gGIsJrc0UcdB/view?usp=sharing'
-  external: true
 
 - name: 'Welcome'
   description: 'ISGEO Welcome and history slides'
@@ -341,7 +338,6 @@ docs:
   presenter: Suzanne Pierce
   filepath: '/assets/session-docs/Monday-Morning/SPierce-IS-GEO_iHARP_Workshop_August2022 - Suzanne Pierce.pdf'
   filetype: 'PDF'
-  external: false
 
 - name: 'Model-Based Reasoning & IDR visioning'
   #description: ''
@@ -350,7 +346,6 @@ docs:
   presenter: Deana Pennington
   filepath: '/assets/session-docs/Monday-Morning/Pennington-Model-Based Reasoning and IDR visioning .pdf'
   filetype: 'PDF'
-  external: false
 
 - name: 'Share individual conceptual maps in teams'
   #description: ''
@@ -359,7 +354,6 @@ docs:
   presenter: Deana Pennington
   filepath: '/assets/session-docs/Monday-Afternoon/Pennington ISGEO 2022 2 Mon Pm.pdf'
   filetype: 'PDF'
-  external: false
 
 ####
 # Project Teams
