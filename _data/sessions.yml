@@ -331,6 +331,21 @@ docs:
   filetype: 'HDF - h5'
   url: 'https://www.dropbox.com/s/0t47219vykmc0aa/hackathon.h5?dl=0'
 
+- name: 'Model-Based Reasoning & IDR visioning'
+  #description: ''
+  day: Monday 
+  session: Morning
+  presenter: Deana Pennington
+  filepath: '/assets/session-docs/Monday-Morning/Pennington-Model-Based Reasoning and IDR visioning .pdff'
+  filetype: 'PDF'
+
+- name: 'Share individual conceptual maps in teams'
+  #description: ''
+  day: Monday 
+  session: Afternoon
+  presenter: Deana Pennington
+  filepath: '/assets/session-docs/Monday-Afternoon/Pennington ISGEO 2022 2 Mon Pm.pdf'
+  filetype: 'PDF'
 
 ####
 # Project Teams

@@ -32,7 +32,16 @@
       <strong><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/{{ doc.url }}" target="_blank">{{ doc.name }} [{{ doc.filetype}}]</a></strong> <br>
       {% endif %}
       {% if doc.description %}
-      {{ doc.description }}
+      {{ doc.description }} <br>
+      {% endif %}
+      {% if doc.session %}
+      Session: {{ doc.session }}
+      {% endif %}
+      {% if doc.day %}
+      &nbsp;  {{ doc.day }} 
+      {% endif %}
+      {% if doc.presenter %}
+      &nbsp;  {{ doc.presenter }} 
       {% endif %}
 
     </li>
