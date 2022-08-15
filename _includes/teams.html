@@ -1,5 +1,12 @@
 
-  
+<style>
+li {
+    margin-left: 30px;
+  }
+
+</style>  
+
+
 {% for team in site.data.sessions.projectteams %}
 <div style="border-bottom: 1px solid black; padding-left: 20px;" id="{{ teams.teamname }}">
   <br> 
@@ -10,7 +17,7 @@
     Team Members:
     <ul>
      {% for member in  team.teammembers %}
-     <li><strong>{{ member }}</strong></li>
+    <li style="margin-left: 30px;"><strong>{{ member }}</strong></li>
      {% endfor %} 
    </ul>
  
@@ -23,16 +30,16 @@
   <em>Links:</em>
   <ul>
    {% if team.teammiro %}
-   <li><a href="{{ team.teammiro }}" target="_blank">Team Miroboard</a></li>
+   <li style="margin-left: 30px;"><a href="{{ team.teammiro }}" target="_blank">Team Miroboard</a></li>
    {% endif %} 
    {% if team.pitchslide %}
-   <li><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages{{ team.pitchslide }}" target="_blank">Pitch Slide</a></li>
+   <li style="margin-left: 30px;"><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages{{ team.pitchslide }}" target="_blank">Pitch Slide</a></li>
    {% endif %} 
    {% if team.introslide %}
-   <li><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages{{ team.introdeck }}" target="_blank">Team Intro Slides</a></li>
+   <li style="margin-left: 30px;"><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages{{ team.introdeck }}" target="_blank">Team Intro Slides</a></li>
    {% endif %} 
    {% if team.teamgithub %}
-   <li><a href="{{ team.teamgithub }}>" target="_blank">Team Github Repo</a></li>
+   <li style="margin-left: 30px;"><a href="{{ team.teamgithub }}>" target="_blank">Team Github Repo</a></li>
    {% endif %} 
   
  </ul>
