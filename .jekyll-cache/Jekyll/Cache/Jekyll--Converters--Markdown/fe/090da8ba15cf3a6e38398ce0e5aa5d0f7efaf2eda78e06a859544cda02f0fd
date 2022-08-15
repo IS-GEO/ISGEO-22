@@ -1,4 +1,4 @@
-I"=
+I"�>
 <div>
   <br />
     
@@ -58,7 +58,7 @@
       <strong><a href="https://miro.com/app/board/uXjVPf6B12w=/?share_link_id=207634384290" target="_blank">[Miro] Personal and Project Pitch Slides</a> </strong>
       <br />
       
-      This shared Miro board is for use with the entire ISGEO-22 group of participants.  Anyone with the link can access it, with the password `isgeo`. This is where  participants should upload one personal slide and/or, one project pitch slide.
+      This shared Miro board is for use with the entire ISGEO-22 group of participants.  Anyone with the link can access it, with the password `isgeoiharp`. This is where  participants should upload one personal slide and/or, one project pitch slide.
 
       
       
@@ -68,12 +68,14 @@
 </div>
 
 <div>
-  <h1>Documents</h1>
+  <h1>Documents and Datasets</h1>
   <br />
   <ul>
     
     <li>
-      <strong><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages//assets/docs/Miro-ISGEO.pdf" target="_blank">Miro Concept Map Instructions [PDF]</a></strong> <br />
+      
+       <strong><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages//assets/docs/Miro-ISGEO.pdf" target="_blank">Miro Concept Map Instructions [PDF]</a></strong> <br />
+      
       
       Instructions on how to setup a Miro.com account and research concept map
       
@@ -81,12 +83,24 @@
     </li>
     
     <li>
-      <strong><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages//assets/docs/Participant_template.pptx" target="_blank">Participant Intro Template [PPTX]</a></strong> <br />
+      
+       <strong><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages//assets/docs/Participant_template.pptx" target="_blank">Participant Intro Template [PPTX]</a></strong> <br />
+      
       
       Before the beginning of the workshop, please create at least one and possibly two slides\:
 *	Create one slide using the provided template that gives a bit of information about yourself
 *	If you have an idea in mind for a problem that a team could work on during the workshop, please create one slide that succinctly states the problem. You will make a two minute “pitch” at the beginning of the workshop to recruit other participants to work with you on that problem.
 
+      
+
+    </li>
+    
+    <li>
+      
+      <strong><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/https://www.dropbox.com/s/0t47219vykmc0aa/hackathon.h5?dl=0" target="_blank">[iHarp] Greenland Dataset [HDF - h5]</a></strong> <br />
+      
+      
+      Surface topography, ice flow velocity, ice thinning rates, surface mass balance and radar data to train their model
       
 
     </li>

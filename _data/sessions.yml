@@ -331,6 +331,40 @@ docs:
   url: 'https://www.dropbox.com/s/0t47219vykmc0aa/hackathon.h5?dl=0'
 
 
+####
+# Project Teams
+
+projectteams:
+- teamname: "Semanta &#129302;"
+  teamlead: Lydia
+  teammembers: [Akila, Will, Tabish]
+  teammiro: https://miro.com/app/board/uXjVPfSM494=/?share_link_id=217150275419
+  pitchslide: '/assets/teams/semanta/pitch.pdf'
+  #introslide:
+  #teamgoal:
+  #teamgithub:
+
+- teamname: "Icebreakers"
+  teamlead: Homayra
+  teammembers: [Atefeh, Omar, Mathieu, Chhaya, Karen, Donna]
+  teammiro: https://miro.com/app/board/uXjVPfSM4jU=/?share_link_id=218013395265
+  pitchslide: '/assets/teams/icebreakers/pitch.pdf'
+  #introslide:
+  #teamgoal:
+  #teamgithub:
+
+- teamname: Yoko
+  teamlead: Yoko
+  teammembers: [Alii, Daniel, Lissa]
+  teammiro: https://miro.com/app/board/uXjVPfSM4xE=/?share_link_id=931985949919
+  pitchslide: '/assets/teams/yoko/pitch.pdf'
+  #introslide:
+  #teamgoal:
+  #teamgithub:
+
+
+
+
 #####
 # Resources
 
