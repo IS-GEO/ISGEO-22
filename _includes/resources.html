@@ -26,7 +26,11 @@
   <ul>
     {% for doc in site.data.sessions.docs %}
     <li>
-      <strong><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/{{ doc.filepath }}" target="_blank">{{ doc.name }} [{{ doc.filetype}}]</a></strong> <br>
+      {% if doc.filepath %}
+       <strong><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/{{ doc.filepath }}" target="_blank">{{ doc.name }} [{{ doc.filetype}}]</a></strong> <br>
+      {% else %}
+      <strong><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/{{ doc.url }}" target="_blank">{{ doc.name }} [{{ doc.filetype}}]</a></strong> <br>
+      {% endif %}
       {% if doc.description %}
       {{ doc.description }}
       {% endif %}
