@@ -8,6 +8,7 @@ sessionics:
   #afternoonsessionics:
   #afternoonsessiontime: "[2pm - 4pm ET]|[1pm - 3pm CT]|[12pm - 2pm MT]|[11am - 1pm PT]"
   #zoomlink: 
+  
 
 - day: Monday
   date: '8/15/22'
@@ -353,11 +354,11 @@ projectteams:
   #teamgoal:
   #teamgithub:
 
-- teamname: Yoko
+- teamname: Hawaii
   teamlead: Yoko
   teammembers: [Alii, Daniel, Lissa]
   teammiro: https://miro.com/app/board/uXjVPfSM4xE=/?share_link_id=931985949919
-  pitchslide: '/assets/teams/yoko/pitch.pdf'
+  pitchslide: '/assets/teams/hawaii/pitch.pdf'
   #introslide:
   #teamgoal:
   #teamgithub:
