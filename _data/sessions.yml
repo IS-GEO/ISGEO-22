@@ -331,12 +331,20 @@ docs:
   filetype: 'HDF - h5'
   url: 'https://www.dropbox.com/s/0t47219vykmc0aa/hackathon.h5?dl=0'
 
+- name: 'ISGEO Welcome'
+  description: 'Welcome and history slides'
+  day: Monday 
+  session: Morning
+  presenter: Suzanne Pierce
+  filepath: '/assets/session-docs/Monday-Morning/SPierce-IS-GEO_iHARP_Workshop_August2022 - Suzanne Pierce.pdf'
+  filetype: 'PDF'
+
 - name: 'Model-Based Reasoning & IDR visioning'
   #description: ''
   day: Monday 
   session: Morning
   presenter: Deana Pennington
-  filepath: '/assets/session-docs/Monday-Morning/Pennington-Model-Based Reasoning and IDR visioning .pdff'
+  filepath: '/assets/session-docs/Monday-Morning/Pennington-Model-Based Reasoning and IDR visioning .pdf'
   filetype: 'PDF'
 
 - name: 'Share individual conceptual maps in teams'
