@@ -91,7 +91,16 @@
           {% endfor %}
          {% endif %}
          
+         <br>
+         {% for decks in site.data.sessions.docs %}
+         
+            {% if decks.day == day.day %}
+            {% if decks.session == event.sessiontime and decks.presenter == event.sessionhost and decks.name == event.sessionname %}
+             <a href="{{ decks.filepath }}">[{{ decks.filetype }}] </a>
 
+         {% endif %}
+         {% endif %}
+         {% endfor %}
 
          
          {% endif %}
