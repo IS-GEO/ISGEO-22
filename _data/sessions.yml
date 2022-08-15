@@ -365,6 +365,7 @@ projectteams:
   teammiro: https://miro.com/app/board/uXjVPfSM494=/?share_link_id=217150275419
   pitchslide: '/assets/teams/semanta/pitch.pdf'
   introslide: '/assets/teams/semanta/intro.png'
+  introdeck: '/assets/teams/semanta/teaminfo.pdf'
   #teamgoal:
   #teamgithub:
 

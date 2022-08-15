@@ -29,17 +29,18 @@
    <li><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages{{ team.pitchslide }}" target="_blank">Pitch Slide</a></li>
    {% endif %} 
    {% if team.introslide %}
-   <li><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages{{ team.introslide }}" target="_blank">Team Intro Slide</a></li>
+   <li><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages{{ team.introdeck }}" target="_blank">Team Intro Slides</a></li>
    {% endif %} 
    {% if team.teamgithub %}
    <li><a href="{{ team.teamgithub }}>" target="_blank">Team Github Repo</a></li>
    {% endif %} 
+  
  </ul>
    </td>
    
    <td>
     {% if team.introslide %}
-   <a href="{{ team.introslide }}" target="_blank">
+   <a href="{{ team.introdeck }}" target="_blank">
   <img src="{{ site.url }}{{ site.baseurl}}{{ team.introslide }}" alt="Team Intro Slide" style="border: 2px solid darkblue;">
 
    </a>
