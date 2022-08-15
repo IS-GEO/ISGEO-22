@@ -39,9 +39,11 @@
          &ensp; Description: {{ event.sessiondescription }}
          <br>
          {% endif %}
+
          {% if event.sessionhost %}
          &ensp; <u>Session Host:</u> <a href="{{ site.url}}{{site.baseurl}}/speakers/#{{ event.sessionhost }}">{{ event.sessionhost }}</a>
          {% endif %}
+
          {% if event.sessionguests %}
          &ensp; <u>Guests:</u> 
          {% for guest in event.sessionguests %}
@@ -64,9 +66,11 @@
          {% if event.sessiondescription %}
          &ensp; Description: {{ event.sessiondescription }}
          {% endif %}
+
          {% if event.sessionhost %}
          &ensp; <u>Session Host:</u> <a href="{{ site.url}}{{site.baseurl}}/speakers/#{{ event.sessionhost }}">{{ event.sessionhost }}</a>
          {% endif %}
+
          {% if event.sessionguests %}
          &ensp; <u>Guests:</u> 
          {% for guest in event.sessionguests %}

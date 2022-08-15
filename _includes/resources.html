@@ -34,12 +34,12 @@
       {% if doc.description %}
       {{ doc.description }} <br>
       {% endif %}
+      {% if doc.day %}
       Session: {{ doc.day }} 
       {% endif %}
       {% if doc.session %}
       &nbsp; {{ doc.session }}
       {% endif %}
-     
       {% if doc.presenter %}
       &nbsp;  {{ doc.presenter }} 
       {% endif %}
