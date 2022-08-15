@@ -329,11 +329,11 @@ docs:
   description: 'Surface topography, ice flow velocity, ice thinning rates, surface mass balance and radar data to train their model'
   #filepath: '/assets/docs/Miro-ISGEO.pdf'
   filetype: 'HDF - h5'
-  url: 'https://www.dropbox.com/s/0t47219vykmc0aa/hackathon.h5?dl=0'
+  url: 'https://drive.google.com/file/d/1PlKkAqStJXTbc1LLAeL0gGIsJrc0UcdB/view?usp=sharing'
 
-- name: 'ISGEO Welcome'
-  description: 'Welcome and history slides'
-  day: Monday 
+- name: 'Welcome'
+  description: 'ISGEO Welcome and history slides'
+  day: 'Monday'
   session: Morning
   presenter: Suzanne Pierce
   filepath: '/assets/session-docs/Monday-Morning/SPierce-IS-GEO_iHARP_Workshop_August2022 - Suzanne Pierce.pdf'
@@ -341,7 +341,7 @@ docs:
 
 - name: 'Model-Based Reasoning & IDR visioning'
   #description: ''
-  day: Monday 
+  day: 'Monday'
   session: Morning
   presenter: Deana Pennington
   filepath: '/assets/session-docs/Monday-Morning/Pennington-Model-Based Reasoning and IDR visioning .pdf'
@@ -349,7 +349,7 @@ docs:
 
 - name: 'Share individual conceptual maps in teams'
   #description: ''
-  day: Monday 
+  day: 'Monday' 
   session: Afternoon
   presenter: Deana Pennington
   filepath: '/assets/session-docs/Monday-Afternoon/Pennington ISGEO 2022 2 Mon Pm.pdf'

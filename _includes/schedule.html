@@ -48,15 +48,17 @@
          {% if event.sessionguests %}
          &ensp; <u>Guests:</u> 
          {% for guest in event.sessionguests %}
-          <a href="{{ site.url}}{{site.baseurl}}/speakers/#{{ guest }}">{{ guest }}, </a> <br>
+          <a href="{{ site.url}}{{site.baseurl}}/speakers/#{{ guest }}">{{ guest }}, </a> 
           
           {% endfor %}
          {% endif %}
-         
+         <br>
          {% for decks in site.data.sessions.docs %}
-         {% if decks.day == event.day %}
-         {% if decks.session == "Morning" %}
-         {{ decks.day }}
+         
+            {% if decks.day == day.day %}
+            {% if decks.session == event.sessiontime and decks.presenter == event.sessionhost and decks.name == event.sessionname %}
+             <a href="{{ decks.filepath }}">[{{ decks.filetype }}] </a>
+
          {% endif %}
          {% endif %}
          {% endfor %}
@@ -88,6 +90,9 @@
           <a href="{{ site.url}}{{site.baseurl}}/speakers/#{{ guest }}">{{ guest }}, </a>
           {% endfor %}
          {% endif %}
+         
+
+
          
          {% endif %}
          {% endfor %}
