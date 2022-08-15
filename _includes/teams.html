@@ -5,7 +5,7 @@
   <br> 
   <table>
    <td style="width:40%;">
-    <h2><a href="{{ site.url}}{{site.baseurl}}/teams/#{{ team.teamname }}">Team: {{ team.teamname }}</a></h2>
+    <h2><a href="{{ site.url}}{{site.baseurl}}/teams/#{{ team.teamname }}">{{ team.teamname }}</a></h2>
     <strong>Team Lead: {{ team.teamlead }}</strong><br>
     Team Members:
     <ul>
@@ -43,7 +43,10 @@
   <img src="{{ site.url }}{{ site.baseurl}}{{ team.introslide }}" alt="Team Intro Slide" style="border: 2px solid darkblue;">
 
    </a>
-   {% endif %} 
+   {% else %}
+      <h5> Comming Soon!</h5>
+   
+  {% endif %} 
     
 
 
