@@ -308,7 +308,8 @@ sessioninfo:
   sessionhost: Suzanne Pierce
 
 
-
+###
+# Documents and Datasets
 docs:
 - name: 'Miro Concept Map Instructions'
   description: 'Instructions on how to setup a Miro.com account and research concept map'
@@ -326,10 +327,13 @@ docs:
 - name: '[iHarp] Greenland Dataset'
   description: 'Surface topography, ice flow velocity, ice thinning rates, surface mass balance and radar data to train their model'
   #filepath: '/assets/docs/Miro-ISGEO.pdf'
-  filetype: 'h5'
+  filetype: 'HDF - h5'
   url: 'https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dropbox.com%2Fs%2F0t47219vykmc0aa%2Fhackathon.h5%3Fdl%3D0&data=05%7C01%7C%7C561c58b3d16141a28bc708da7ed06bfe%7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7C0%7C637961730894400616%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=c3HttRTiMuqc5ALqaxnXunhMmnZWUmCRJ5igVeiAPO8%3D&reserved=0'
 
 
+
+#####
+# Resources
 
 resources:
 - name: Presentation File Upload Link
