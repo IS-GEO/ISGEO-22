@@ -364,7 +364,7 @@ projectteams:
   teammembers: [Akila, Will, Tabish]
   teammiro: https://miro.com/app/board/uXjVPfSM494=/?share_link_id=217150275419
   pitchslide: '/assets/teams/semanta/pitch.pdf'
-  #introslide:
+  introslide: '/assets/teams/semanta/intro.png'
   #teamgoal:
   #teamgithub:
 
@@ -373,7 +373,7 @@ projectteams:
   teammembers: [Atefeh, Omar, Mathieu, Chhaya, Karen, Donna]
   teammiro: https://miro.com/app/board/uXjVPfSM4jU=/?share_link_id=218013395265
   pitchslide: '/assets/teams/icebreakers/pitch.pdf'
-  #introslide:
+  introslide: '/assets/teams/icebreakers/intro.png'
   #teamgoal:
   #teamgithub:
 

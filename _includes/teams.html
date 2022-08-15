@@ -3,36 +3,55 @@
 {% for team in site.data.sessions.projectteams %}
 <div style="border-bottom: 1px solid black; padding-left: 20px;" id="{{ teams.teamname }}">
   <br> 
-   <h2><a href="{{ site.url}}{{site.baseurl}}/teams/#{{ team.teamname }}">Team: {{ team.teamname }}</a></h2>
-   <strong>Team Lead: {{ team.teamlead }}</strong><br>
-   Team Members:
-   <ul>
-    {% for member in  team.teammembers %}
-    <li><strong>{{ member }}</strong></li>
-    {% endfor %} 
-  </ul>
+  <table>
+   <td style="width:40%;">
+    <h2><a href="{{ site.url}}{{site.baseurl}}/teams/#{{ team.teamname }}">Team: {{ team.teamname }}</a></h2>
+    <strong>Team Lead: {{ team.teamlead }}</strong><br>
+    Team Members:
+    <ul>
+     {% for member in  team.teammembers %}
+     <li><strong>{{ member }}</strong></li>
+     {% endfor %} 
+   </ul>
+ 
+    {% if team.teamgoal %}
+    <br>
+    <p>Team Goal:<br>
+    {{ team.teamgoal }}
+   </p>
+    {% endif %}
+  <em>Links:</em>
+  <ul>
+   {% if team.teammiro %}
+   <li><a href="{{ team.teammiro }}" target="_blank">Team Miroboard</a></li>
+   {% endif %} 
+   {% if team.pitchslide %}
+   <li><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages{{ team.pitchslide }}" target="_blank">Pitch Slide</a></li>
+   {% endif %} 
+   {% if team.introslide %}
+   <li><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages{{ team.introslide }}" target="_blank">Team Intro Slide</a></li>
+   {% endif %} 
+   {% if team.teamgithub %}
+   <li><a href="{{ team.teamgithub }}>" target="_blank">Team Github Repo</a></li>
+   {% endif %} 
+ </ul>
+   </td>
+   
+   <td>
+    {% if team.introslide %}
+   <a href="{{ team.introslide }}" target="_blank">
+  <img src="{{ site.url }}{{ site.baseurl}}{{ team.introslide }}" alt="Team Intro Slide" style="border: 2px solid darkblue;">
 
-   {% if team.teamgoal %}
-   <br>
-   <p>Team Goal:<br>
-   {{ team.teamgoal }}
-  </p>
-   {% endif %}
- <em>Links:</em>
- <ul>
-  {% if team.teammiro %}
-  <li><a href="{{ team.teammiro }}>" target="_blank">Team Miroboard</a></li>
-  {% endif %} 
-  {% if team.pitchslide %}
-  <li><a href="{{ team.pitchslide }}>" target="_blank">Pitch Slide</a></li>
-  {% endif %} 
-  {% if team.introslide %}
-  <li><a href="{{ team.introslide }}>" target="_blank">Team Intro Slide</a></li>
-  {% endif %} 
-  {% if team.teamgithub %}
-  <li><a href="{{ team.teamgithub }}>" target="_blank">Team Github Repo</a></li>
-  {% endif %} 
+   </a>
+   {% endif %} 
+    
 
-</ul>
+
+  </td>
+
+
+
+  </table>
+  
 </div>
 {% endfor %}
