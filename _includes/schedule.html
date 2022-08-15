@@ -42,15 +42,26 @@
 
          {% if event.sessionhost %}
          &ensp; <u>Session Host:</u> <a href="{{ site.url}}{{site.baseurl}}/speakers/#{{ event.sessionhost }}">{{ event.sessionhost }}</a>
+  
          {% endif %}
 
          {% if event.sessionguests %}
          &ensp; <u>Guests:</u> 
          {% for guest in event.sessionguests %}
-          <a href="{{ site.url}}{{site.baseurl}}/speakers/#{{ guest }}">{{ guest }}, </a>
+          <a href="{{ site.url}}{{site.baseurl}}/speakers/#{{ guest }}">{{ guest }}, </a> <br>
+          
           {% endfor %}
          {% endif %}
          
+         {% for decks in site.data.sessions.docs %}
+         {% if decks.day == event.day %}
+         {% if decks.session == "Morning" %}
+         {{ decks.day }}
+         {% endif %}
+         {% endif %}
+         {% endfor %}
+
+
          {% endif %}
          {% endfor %}
        </ul>
