@@ -371,7 +371,13 @@ docs:
   filepath: '/assets/session-docs/Tuesday-Morning/isGeo-William Mobley.pdf'
   filetype: 'PDF'
 
-
+- name: 'Goal Development'
+  #description: ''
+  day: 'Tuesday' 
+  session: Afternoon
+  presenter: Deana Pennington
+  filepath: '/assets/session-docs/Tuesday-Afternoon/Pennington ISGEO 2022 3 Tues Pm - Deana Pennington.pdf'
+  filetype: 'PDF'
 
 ####
 # Project Teams
