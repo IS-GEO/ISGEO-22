@@ -10,7 +10,6 @@ excerpt: "[IS-GEO](https://is-geo.org/) and iHARP are pleased to announce a virt
 ---
 
 ## Overview
-**Registration is now Open!** [Registration Link](https://forms.gle/96BmnWmLcfpM8WJHA)
 
 IS-GEO and iHARP are pleased to announce a virtual workshop on Model-based Reasoning. Invited expert, Dr. Deana Pennington from the University of Texas at El Paso (UTEP) brings prior expertise in evaluating social learning and model-based reasoning together with clear guidance for successful transdisciplinary team building. 
 
@@ -20,8 +19,7 @@ This workshop will provide methods that engage researchers across disciplines to
 
 A mini-hackthon will be hosted during the latter half of the workshop allowing geosciences, cognitive sciences, data science, and advanced intelligent systems to form mixed teams and then pitch, develop, and present results from adhoc project ideas created during this event.
 
-
-## Workshop Sessions and Topics will include: 
+## Workshop Sessions and Topics include: 
 * Learn how to bridge across disciplines for convergent research 
 * Data science skills for spatiotemporal data modeling,
 * Best practices for cyberinfrastructure design
@@ -32,6 +30,17 @@ A mini-hackthon will be hosted during the latter half of the workshop allowing g
 * Lightning talks from fellow participants
 
  {% include nav-share.html %}
+
+## Participant Gallery
+
+{% include image-gallery.html folder="/assets/participants" %}
+
+
+### Project Teams
+
+{% include teams.html %}
+
+
 
  {% include shared-miro.html %}
 
