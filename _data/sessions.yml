@@ -150,7 +150,7 @@ sessioninfo:
   #sessiondescription: 
   sessionhost: Mathieu Morlighem
 
-- sessionname: Texas Damage Plan
+- sessionname: "The difficulty in making an informed decision:The Story of Fragmented Data"
   sessiontype: Talk
   sessionday: Tuesday
   sessiontime: Morning
@@ -363,6 +363,13 @@ docs:
   filepath: '/assets/session-docs/Tuesday-Morning/ISGEO Evaluation Best Practices- Lisa Garbrecht.pdf'
   filetype: 'PDF'
 
+- name: "The difficulty in making an informed decision:The Story of Fragmented Data"
+  #description: ''
+  day: 'Tuesday' 
+  session: Morning
+  presenter: William Mobley
+  filepath: '/assets/session-docs/Tuesday-Morning/isGeo-William Mobley.pdf'
+  filetype: 'PDF'
 
 
 
