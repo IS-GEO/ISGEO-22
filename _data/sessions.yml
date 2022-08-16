@@ -393,7 +393,10 @@ projectteams:
   pitchslide: '/assets/teams/semanta/pitch.pdf'
   introslide: '/assets/teams/semanta/intro.png'
   introdeck: '/assets/teams/semanta/teaminfo.pdf'
-  #teamgoal:
+  logicmodel: '/assets/teams/semanta/logicmodel.png'
+  goals: '/assets/teams/semanta/Goals Team Semanta- William Mobley.pdf'
+  teamgoal: >
+    The goal of this project is to initate an AI for climate science discovery.  
   #teamgithub:
 
 - teamname: "Icebreakers"
@@ -402,7 +405,12 @@ projectteams:
   teammiro: https://miro.com/app/board/uXjVPfSM4jU=/?share_link_id=218013395265
   pitchslide: '/assets/teams/icebreakers/pitch.pdf'
   introslide: '/assets/teams/icebreakers/intro.png'
-  #teamgoal:
+  logicmodel: '/assets/teams/icebreakers/logicmodel.png'
+  goals: '/assets/teams/icebreakers/goals.pdf'
+  teamgoal: >
+    The goal of this project is to predict the pattern of Greenland ice bed topography 
+    using machine learning methodologies.
+
   #teamgithub:
 
 - teamname: Hawaii
@@ -411,7 +419,12 @@ projectteams:
   teammiro: https://miro.com/app/board/uXjVPfSM4xE=/?share_link_id=931985949919
   pitchslide: '/assets/teams/hawaii/pitch.pdf'
   introslide: '/assets/teams/hawaii/intro.png'
-  #teamgoal:
+  logicmodel: '/assets/teams/hawaii/logicmodel.png'
+  #goals: 
+  teamgoal: >
+    The goal of this project is to map invasive tree/shrub species using Machine 
+    Learning object detection technique to assist land managers for effective and 
+    efficient land management.
   #teamgithub:
 
 - teamname: "Onto-Somethin'"
@@ -420,7 +433,10 @@ projectteams:
   teammiro: https://miro.com/app/board/uXjVPfSM45k=/?share_link_id=800858349770
   pitchslide: '/assets/teams/onto-somethin/pitch.pdf'
   introslide: '/assets/teams/onto-somethin/intro.png'
-  #teamgoal:
+  logicmodel: '/assets/teams/onto-somethin/logicmodel.png'
+  goals: '/assets/teams/onto-somethin/goals.pdf'
+  teamgoal: >
+    Create a repository of well described resources. 
   #teamgithub:
 
 

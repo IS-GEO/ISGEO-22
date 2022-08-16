@@ -22,8 +22,8 @@ li {
    </ul>
  
     {% if team.teamgoal %}
-    <br>
-    <p>Team Goal:<br>
+    
+    <p><em>Team Goal:</em><br>
     {{ team.teamgoal }}
    </p>
     {% endif %}
@@ -37,7 +37,10 @@ li {
    {% endif %} 
    {% if team.introslide %}
    <li style="margin-left: 30px;"><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages{{ team.introdeck }}" target="_blank">Team Intro Slides</a></li>
-   {% endif %} 
+   {% endif %}
+   {% if team.goals %}
+   <li style="margin-left: 30px;"><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages{{ team.goals }}" target="_blank">Goal Slides</a></li>
+   {% endif %}  
    {% if team.teamgithub %}
    <li style="margin-left: 30px;"><a href="{{ team.teamgithub }}>" target="_blank">Team Github Repo</a></li>
    {% endif %} 
@@ -47,7 +50,7 @@ li {
    
    <td>
     {% if team.introslide %}
-   <a href="{{ team.introdeck }}" target="_blank">
+   <a href="{{ site.url }}{{ site.baseurl}}{{ team.introdeck }}" target="_blank">
   <img src="{{ site.url }}{{ site.baseurl}}{{ team.introslide }}" alt="Team Intro Slide" style="border: 2px solid darkblue;">
 
    </a>
@@ -56,7 +59,15 @@ li {
    
   {% endif %} 
     
+  {% if team.logicmodel %}
+  <a href="{{ site.url }}{{ site.baseurl}}{{ team.logicmodel }}" target="_blank">
+ <img src="{{ site.url }}{{ site.baseurl}}{{ team.logicmodel }}" alt="Team Logic Model" style="border: 2px solid darkblue;">
 
+  </a>
+  {% else %}
+     <h5> Comming Soon!</h5>
+  
+ {% endif %} 
 
   </td>
 

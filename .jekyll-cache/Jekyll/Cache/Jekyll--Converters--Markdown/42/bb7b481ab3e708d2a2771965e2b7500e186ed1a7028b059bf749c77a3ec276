@@ -1,0 +1,796 @@
+I"t�<h2 id="overview">Overview</h2>
+
+<p>IS-GEO and iHARP are pleased to announce a virtual workshop on Model-based Reasoning. Invited expert, Dr. Deana Pennington from the University of Texas at El Paso (UTEP) brings prior expertise in evaluating social learning and model-based reasoning together with clear guidance for successful transdisciplinary team building.</p>
+
+<p>Model-based reasoning uses mental models, simulation models, and everything in between to understand how researchers can collaboratively integrate their subject matter expertise of problems and generate combined knowledge from their different perspectives.</p>
+
+<p>This workshop will provide methods that engage researchers across disciplines to explore how data and models can inform AI. Hands-on activities will support the development of conceptual models and participatory modeling implementation using data across applications in polar regions, hydrologic models, hazards planning, and climate change impacts on communities, as well as other topics salient to workshop participants.</p>
+
+<p>A mini-hackthon will be hosted during the latter half of the workshop allowing geosciences, cognitive sciences, data science, and advanced intelligent systems to form mixed teams and then pitch, develop, and present results from adhoc project ideas created during this event.</p>
+
+<h2 id="workshop-sessions-and-topics-include">Workshop Sessions and Topics include:</h2>
+<ul>
+  <li>Learn how to bridge across disciplines for convergent research</li>
+  <li>Data science skills for spatiotemporal data modeling,</li>
+  <li>Best practices for cyberinfrastructure design</li>
+  <li>High resolution image processing and analysis,</li>
+  <li>Ontological descriptions of common tools used in earth sciences and data science</li>
+  <li>Sharing pedagogical resources that can be used in your classroom</li>
+  <li>Earth systems modeling of antarctica ice sheets,</li>
+  <li>Lightning talks from fellow participants</li>
+</ul>
+
+<div class="share">
+  
+    
+      
+      
+      
+      
+
+      
+
+      <a class="button" href="https://www.linkedin.com/shareArticle?url=http://0.0.0.0:4000/ISGEO-22/&amp;title=ISGEO-22 Workshop&amp;source=ISGEO-22&amp;mini=true" style="background: #3B5998">Linkedin&nbsp; <svg width="16" height="16" class="icon  icon--linkedin" role="img" alt="linkedin"><title>linkedin</title><use xlink:href="#linkedin" fill="CurrentColor"></use></svg>
+</a>
+
+    
+  
+    
+      
+      
+      
+      
+
+      
+
+      <a class="button" href="https://twitter.com/intent/tweet/?url=http://0.0.0.0:4000/ISGEO-22/&amp;text=ISGEO-22%20Workshop&amp;via=IS_GEOCommunity" style="background: #0d94e7">Twitter&nbsp; <svg width="16" height="16" class="icon  icon--twitter" role="img" alt="twitter"><title>twitter</title><use xlink:href="#twitter" fill="CurrentColor"></use></svg>
+</a>
+
+    
+  
+    
+      
+      
+      
+      
+
+      
+
+      <a class="button" href="https://facebook.com/sharer/sharer.php?u=http://0.0.0.0:4000/ISGEO-22/" style="background: #3B5998">Facebook&nbsp; <svg width="16" height="16" class="icon  icon--facebook" role="img" alt="facebook"><title>facebook</title><use xlink:href="#facebook" fill="CurrentColor"></use></svg>
+</a>
+
+    
+  
+    
+      
+      
+      
+      
+
+      
+
+      <a class="button" href="mailto:?subject=ISGEO-22 Workshop&amp;body=Hey, check out this from ISGEO-22: http://0.0.0.0:4000/ISGEO-22/" style="background: true">Email&nbsp; <svg width="16" height="16" class="icon  icon--email" role="img" alt="email"><title>email</title><use xlink:href="#email" fill="CurrentColor"></use></svg>
+</a>
+
+    
+  
+</div>
+
+<h2 id="participant-gallery">Participant Gallery</h2>
+
+<style>
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 40%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block; border: 1px solid black;}
+</style>
+
+<ul class="image-gallery">
+    <li><a href="/ISGEO-22/assets/participants/AkilaSampath.jpg" title="AkilaSampath">
+        <img src="http://0.0.0.0:4000/ISGEO-22/assets/participants/AkilaSampath.jpg" alt="AkilaSampath" title="AkilaSampath" /><span></span></a></li>
+    <li><a href="/ISGEO-22/assets/participants/Homayra_Alam.jpg" title="Homayra_Alam">
+        <img src="http://0.0.0.0:4000/ISGEO-22/assets/participants/Homayra_Alam.jpg" alt="Homayra_Alam" title="Homayra_Alam" /><span></span></a></li>
+    <li><a href="/ISGEO-22/assets/participants/JPowell.jpg" title="JPowell">
+        <img src="http://0.0.0.0:4000/ISGEO-22/assets/participants/JPowell.jpg" alt="JPowell" title="JPowell" /><span></span></a></li>
+    <li><a href="/ISGEO-22/assets/participants/LissaPearson.jpg" title="LissaPearson">
+        <img src="http://0.0.0.0:4000/ISGEO-22/assets/participants/LissaPearson.jpg" alt="LissaPearson" title="LissaPearson" /><span></span></a></li>
+    <li><a href="/ISGEO-22/assets/participants/Lydia_Fletcher.jpg" title="Lydia_Fletcher">
+        <img src="http://0.0.0.0:4000/ISGEO-22/assets/participants/Lydia_Fletcher.jpg" alt="Lydia_Fletcher" title="Lydia_Fletcher" /><span></span></a></li>
+    <li><a href="/ISGEO-22/assets/participants/Will_Mobley.jpg" title="Will_Mobley">
+        <img src="http://0.0.0.0:4000/ISGEO-22/assets/participants/Will_Mobley.jpg" alt="Will_Mobley" title="Will_Mobley" /><span></span></a></li></ul>
+
+<h3 id="project-teams">Project Teams</h3>
+
+<style>
+li {
+    margin-left: 30px;
+  }
+
+</style>
+
+<div style="border-bottom: 1px solid black; padding-left: 20px;">
+  <br /> 
+ 
+  <table>
+   <td style="width:40%;">
+    
+    <strong>Team Lead: Lydia</strong><br />
+    Team Members:
+    <ul>
+     
+    <li style="margin-left: 30px;"><strong>Akila</strong></li>
+     
+    <li style="margin-left: 30px;"><strong>Will</strong></li>
+     
+    <li style="margin-left: 30px;"><strong>Tabish</strong></li>
+      
+   </ul>
+ 
+    
+    <br />
+    <p><em>Team Goal:</em><br />
+    The goal of this project is to initate an AI for climate science discovery.  
+
+   </p>
+    
+  <em>Links:</em>
+  <ul>
+   
+   <li style="margin-left: 30px;"><a href="https://miro.com/app/board/uXjVPfSM494=/?share_link_id=217150275419" target="_blank">Team Miroboard</a></li>
+    
+   
+   <li style="margin-left: 30px;"><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/teams/semanta/pitch.pdf" target="_blank">Pitch Slide</a></li>
+    
+   
+   <li style="margin-left: 30px;"><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/teams/semanta/teaminfo.pdf" target="_blank">Team Intro Slides</a></li>
+   
+   
+   <li style="margin-left: 30px;"><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/teams/semanta/Goals Team Semanta- William Mobley.pdf" target="_blank">Goal Slides</a></li>
+     
+    
+  
+ </ul>
+   </td>
+   
+   <td>
+    <h2><a href="http://0.0.0.0:4000/ISGEO-22/teams/#Semanta &#129302;">Semanta &#129302;</a></h2>
+    
+   <a href="http://0.0.0.0:4000/ISGEO-22/assets/teams/semanta/teaminfo.pdf" target="_blank">
+  <img src="http://0.0.0.0:4000/ISGEO-22/assets/teams/semanta/intro.png" alt="Team Intro Slide" style="border: 2px solid darkblue;" />
+
+   </a>
+    
+    
+  
+  <a href="http://0.0.0.0:4000/ISGEO-22/assets/teams/semanta/logicmodel.png" target="_blank">
+ <img src="http://0.0.0.0:4000/ISGEO-22/assets/teams/semanta/logicmodel.png" alt="Team Logic Model" style="border: 2px solid darkblue;" />
+
+  </a>
+   
+
+  </td>
+
+
+
+  </table>
+  
+  
+</div>
+
+<div style="border-bottom: 1px solid black; padding-left: 20px;">
+  <br /> 
+ 
+  <table>
+   <td style="width:40%;">
+    
+    <strong>Team Lead: Homayra</strong><br />
+    Team Members:
+    <ul>
+     
+    <li style="margin-left: 30px;"><strong>Atefeh</strong></li>
+     
+    <li style="margin-left: 30px;"><strong>Omar</strong></li>
+     
+    <li style="margin-left: 30px;"><strong>Mathieu</strong></li>
+     
+    <li style="margin-left: 30px;"><strong>Chhaya</strong></li>
+     
+    <li style="margin-left: 30px;"><strong>Karen</strong></li>
+     
+    <li style="margin-left: 30px;"><strong>Donna</strong></li>
+      
+   </ul>
+ 
+    
+    <br />
+    <p><em>Team Goal:</em><br />
+    The goal of this project is to predict the pattern of Greenland ice bed topography  using machine learning methodologies.
+
+   </p>
+    
+  <em>Links:</em>
+  <ul>
+   
+   <li style="margin-left: 30px;"><a href="https://miro.com/app/board/uXjVPfSM4jU=/?share_link_id=218013395265" target="_blank">Team Miroboard</a></li>
+    
+   
+   <li style="margin-left: 30px;"><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/teams/icebreakers/pitch.pdf" target="_blank">Pitch Slide</a></li>
+    
+   
+   <li style="margin-left: 30px;"><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages" target="_blank">Team Intro Slides</a></li>
+   
+   
+   <li style="margin-left: 30px;"><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/teams/icebreakers/goals.pdf" target="_blank">Goal Slides</a></li>
+     
+    
+  
+ </ul>
+   </td>
+   
+   <td>
+    <h2><a href="http://0.0.0.0:4000/ISGEO-22/teams/#Icebreakers">Icebreakers</a></h2>
+    
+   <a href="http://0.0.0.0:4000/ISGEO-22" target="_blank">
+  <img src="http://0.0.0.0:4000/ISGEO-22/assets/teams/icebreakers/intro.png" alt="Team Intro Slide" style="border: 2px solid darkblue;" />
+
+   </a>
+    
+    
+  
+  <a href="http://0.0.0.0:4000/ISGEO-22/assets/teams/icebreakers/logicmodel.png" target="_blank">
+ <img src="http://0.0.0.0:4000/ISGEO-22/assets/teams/icebreakers/logicmodel.png" alt="Team Logic Model" style="border: 2px solid darkblue;" />
+
+  </a>
+   
+
+  </td>
+
+
+
+  </table>
+  
+  
+</div>
+
+<div style="border-bottom: 1px solid black; padding-left: 20px;">
+  <br /> 
+ 
+  <table>
+   <td style="width:40%;">
+    
+    <strong>Team Lead: Yoko</strong><br />
+    Team Members:
+    <ul>
+     
+    <li style="margin-left: 30px;"><strong>Daniel</strong></li>
+     
+    <li style="margin-left: 30px;"><strong>Lissa</strong></li>
+     
+    <li style="margin-left: 30px;"><strong>Joseph</strong></li>
+      
+   </ul>
+ 
+    
+    <br />
+    <p><em>Team Goal:</em><br />
+    The goal of this project is to map invasive tree/shrub species using Machine  Learning object detection technique to assist land managers for effective and  efficient land management.
+
+   </p>
+    
+  <em>Links:</em>
+  <ul>
+   
+   <li style="margin-left: 30px;"><a href="https://miro.com/app/board/uXjVPfSM4xE=/?share_link_id=931985949919" target="_blank">Team Miroboard</a></li>
+    
+   
+   <li style="margin-left: 30px;"><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/teams/hawaii/pitch.pdf" target="_blank">Pitch Slide</a></li>
+    
+   
+   <li style="margin-left: 30px;"><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages" target="_blank">Team Intro Slides</a></li>
+   
+     
+    
+  
+ </ul>
+   </td>
+   
+   <td>
+    <h2><a href="http://0.0.0.0:4000/ISGEO-22/teams/#Hawaii">Hawaii</a></h2>
+    
+   <a href="http://0.0.0.0:4000/ISGEO-22" target="_blank">
+  <img src="http://0.0.0.0:4000/ISGEO-22/assets/teams/hawaii/intro.png" alt="Team Intro Slide" style="border: 2px solid darkblue;" />
+
+   </a>
+    
+    
+  
+  <a href="http://0.0.0.0:4000/ISGEO-22/assets/teams/hawaii/logicmodel.png" target="_blank">
+ <img src="http://0.0.0.0:4000/ISGEO-22/assets/teams/hawaii/logicmodel.png" alt="Team Logic Model" style="border: 2px solid darkblue;" />
+
+  </a>
+   
+
+  </td>
+
+
+
+  </table>
+  
+  
+</div>
+
+<div style="border-bottom: 1px solid black; padding-left: 20px;">
+  <br /> 
+ 
+  <table>
+   <td style="width:40%;">
+    
+    <strong>Team Lead: Suzanne</strong><br />
+    Team Members:
+    <ul>
+     
+    <li style="margin-left: 30px;"><strong>Alii</strong></li>
+     
+    <li style="margin-left: 30px;"><strong>Karen</strong></li>
+      
+   </ul>
+ 
+    
+    <br />
+    <p><em>Team Goal:</em><br />
+    Create a repository of well described resources. 
+
+   </p>
+    
+  <em>Links:</em>
+  <ul>
+   
+   <li style="margin-left: 30px;"><a href="https://miro.com/app/board/uXjVPfSM45k=/?share_link_id=800858349770" target="_blank">Team Miroboard</a></li>
+    
+   
+   <li style="margin-left: 30px;"><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/teams/onto-somethin/pitch.pdf" target="_blank">Pitch Slide</a></li>
+    
+   
+   <li style="margin-left: 30px;"><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages" target="_blank">Team Intro Slides</a></li>
+   
+   
+   <li style="margin-left: 30px;"><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/teams/onto-somethin/goals.pdf" target="_blank">Goal Slides</a></li>
+     
+    
+  
+ </ul>
+   </td>
+   
+   <td>
+    <h2><a href="http://0.0.0.0:4000/ISGEO-22/teams/#Onto-Somethin'">Onto-Somethin'</a></h2>
+    
+   <a href="http://0.0.0.0:4000/ISGEO-22" target="_blank">
+  <img src="http://0.0.0.0:4000/ISGEO-22/assets/teams/onto-somethin/intro.png" alt="Team Intro Slide" style="border: 2px solid darkblue;" />
+
+   </a>
+    
+    
+  
+  <a href="http://0.0.0.0:4000/ISGEO-22/assets/teams/onto-somethin/logicmodel.png" target="_blank">
+ <img src="http://0.0.0.0:4000/ISGEO-22/assets/teams/onto-somethin/logicmodel.png" alt="Team Logic Model" style="border: 2px solid darkblue;" />
+
+  </a>
+   
+
+  </td>
+
+
+
+  </table>
+  
+  
+</div>
+
+<h2>Participant Personal and Project Pitch Slides</h2>
+<p><br />
+<a href="https://miro.com/app/board/uXjVPf6B12w=/?share_link_id=207634384290" target="_blank"><em>[Click Here to Open in your app/browser]</em></a></p>
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPf6B12w=/?moveToViewport=-723,-372,1376,734&amp;embedId=921509311346" frameborder="0" scrolling="no" allowfullscreen=""></iframe>
+
+<h2 id="speakers">Speakers</h2>
+
+<div style="border-bottom: 1px solid black;" id="Deana Pennington">
+  <br /> 
+  
+  <img src="http://0.0.0.0:4000/ISGEO-22/assets/speakers/ddpennington.jpeg" class="image--cover" />
+  
+              
+              <h3><a href="https://expertise.utep.edu/node/26556">Deana Pennington</a></h3>
+              
+              
+              <em> Associate Professor </em>
+              
+              
+              <strong><p>University of Texas at El Paso </p></strong>
+              
+              <br />
+              
+              <p>Trained as a physical geographer with specializations in organizational  learning and program evaluation, Dr. Pennington's research revolves around  cross-disciplinary study of climate change impacts on human/natural systems.  She focuses on three categories of investigations 1) integrated modeling of  land change; 2) studies of collaboration, synthesis, and learning; and 3)  technical approaches for complex interdisciplinary projects. The latter  includes a decade of experience using developmental evaluation to improve  project outcomes. She is also Associate Dean for Faculty Mentoring and  Development in the College of Science at University of Texas at El Paso.
+ </p>
+              
+              <div style="text-align: center;">
+              
+              <a href="mailto:ddpennington@utep.edu"><svg width="16" height="16" class="icon  icon--email" role="img" alt="Email"><title>Email</title><use xlink:href="#email" fill="CurrentColor"></use></svg>
+</a>
+              
+              
+              <a href="https://www.linkedin.com/in/deanapennington/"><svg width="16" height="16" class="icon  icon--linkedin" role="img" alt="LinkedIn"><title>LinkedIn</title><use xlink:href="#linkedin" fill="CurrentColor"></use></svg>
+</a>
+              
+              
+              <a href="https://twitter.com/penningd"><svg width="16" height="16" class="icon  icon--twitter" role="img" alt="Twitter"><title>Twitter</title><use xlink:href="#twitter" fill="CurrentColor"></use></svg>
+</a>
+              
+              
+              
+              <a href="https://expertise.utep.edu/node/26556"><svg width="16" height="16" class="icon  icon--link" role="img" alt="Website"><title>Website</title><use xlink:href="#link" fill="CurrentColor"></use></svg>
+</a>
+              
+            </div>
+            <br />
+</div>
+
+<div style="border-bottom: 1px solid black;" id="Suzanne Pierce">
+  <br /> 
+  
+  <img src="http://0.0.0.0:4000/ISGEO-22/assets/speakers/spierce.jpg" class="image--cover" />
+  
+              
+              <h3><a href="https://www.tacc.utexas.edu/about/directory/suzanne-pierce">Suzanne Pierce</a></h3>
+              
+              
+              <em> Research Scientist/Director  </em>
+              
+              
+              <strong><p>Texas Advanced Computing Center, Texas Disaster Information System, Intelligent Decision Support Systems, and The University of Texas at Austin </p></strong>
+              
+              <br />
+              
+              <p>Research Scientist with Texas Advanced Computing Center (TACC) at  The University of Texas at Austin. Dr. Pierce is the lead for a  national community of researchers using Artificial Intelligence  to understand Earth (IS-GEO.org). Results from her research  develop tools and techniques that aid integrated modeling and group  decision support to improve resilience at regional scales. She's  received awards both locally and internationally for innovation  and engagement. Currently, Dr. Pierce is leading the Texas  Disaster Information System.
+ </p>
+              
+              <div style="text-align: center;">
+              
+              <a href="mailto:spierce@tacc.utexas.edu"><svg width="16" height="16" class="icon  icon--email" role="img" alt="Email"><title>Email</title><use xlink:href="#email" fill="CurrentColor"></use></svg>
+</a>
+              
+              
+              <a href="https://www.linkedin.com/in/suzpierce/"><svg width="16" height="16" class="icon  icon--linkedin" role="img" alt="LinkedIn"><title>LinkedIn</title><use xlink:href="#linkedin" fill="CurrentColor"></use></svg>
+</a>
+              
+              
+              <a href="https://twitter.com/HelpfulTangent"><svg width="16" height="16" class="icon  icon--twitter" role="img" alt="Twitter"><title>Twitter</title><use xlink:href="#twitter" fill="CurrentColor"></use></svg>
+</a>
+              
+              
+              
+              <a href="https://www.tacc.utexas.edu/about/directory/suzanne-pierce"><svg width="16" height="16" class="icon  icon--link" role="img" alt="Website"><title>Website</title><use xlink:href="#link" fill="CurrentColor"></use></svg>
+</a>
+              
+            </div>
+            <br />
+</div>
+
+<div style="border-bottom: 1px solid black;" id="Lisa Garbrecht">
+  <br /> 
+  
+  <img src="http://0.0.0.0:4000/ISGEO-22/assets/speakers/lgarbrecht.jpg" class="image--cover" />
+  
+              
+              <h3><a href="https://www.tacc.utexas.edu/about/directory/lisa-garbrecht">Lisa Garbrecht</a></h3>
+              
+              
+              <em> Director Of STEM Evaluation Services </em>
+              
+              
+              <strong><p>Texas Advanced Computing Center, Evaluation Services for the Expanding Pathways in Computing (EPIC) </p></strong>
+              
+              <br />
+              
+              <p>Lisa Garbrecht is the Director of STEM Evaluation Services for the Expanding Pathways in Computing (EPIC) division of  TACC that was launched in 2019. Lisa oversees EPIC’s evaluation of numerous internal and external programs and research  grants funded by national, state, and local organizations, most of which aim to broaden participation in computing and  STEM education. Lisa is the former Director of Evaluation Services of the UT Austin's College of Education STEM Center  and has over 20 years of experience designing and conducting program evaluation and research on STEM education,  professional development, and research projects. Her research focuses on using culturally responsive evaluation and  research methods to assess efforts to improve and broaden participation in K-20 STEM education and careers, as well as  assessing student learning, attitudes, and outcomes from STEM curriculum and outreach programs. Lisa earned her PhD in  Educational Psychology from Arizona State University and her MA in Counseling in Education and BS in Journalism from  Northern Arizona University.
+ </p>
+              
+              <div style="text-align: center;">
+              
+              <a href="mailto:lgarbrecht@tacc.utexas.edu"><svg width="16" height="16" class="icon  icon--email" role="img" alt="Email"><title>Email</title><use xlink:href="#email" fill="CurrentColor"></use></svg>
+</a>
+              
+              
+              <a href="https://www.linkedin.com/in/lisagarbrecht/"><svg width="16" height="16" class="icon  icon--linkedin" role="img" alt="LinkedIn"><title>LinkedIn</title><use xlink:href="#linkedin" fill="CurrentColor"></use></svg>
+</a>
+              
+              
+              
+              
+              <a href="https://www.tacc.utexas.edu/about/directory/lisa-garbrecht"><svg width="16" height="16" class="icon  icon--link" role="img" alt="Website"><title>Website</title><use xlink:href="#link" fill="CurrentColor"></use></svg>
+</a>
+              
+            </div>
+            <br />
+</div>
+
+<div style="border-bottom: 1px solid black;" id="Jeaime Powell">
+  <br /> 
+  
+  <img src="http://0.0.0.0:4000/ISGEO-22/assets/speakers/jpowell.png" class="image--cover" />
+  
+              
+              <h3><a href="https://jeaimehp.github.io/">Jeaime Powell</a></h3>
+              
+              
+              <em> Technical Research Design Analyst/Sr. Systems Administrator/Broadening Participation Hackathon Coordinator </em>
+              
+              
+              <strong><p>Texas Advanced Computing Center </p></strong>
+              
+              <br />
+              
+              <p>Jeaime Powell currently works as a Senior Systems Administrator and  Technical Research Design Analyst at the Texas Advanced Computing  Center(TACC) within the University of Texas at Austin. While  supporting high-performance computing users he also leads hackathons,  several STEM-based high school summer camps, facilitates programming  training sessions, and lectures courses in scientific programming.  In the role of XSEDE Broadening Participation Hackathon Coordinator,  he has most recently hosted the ADMI22 Hackathon and the HPC in the  City Hackathon at Supercomputing21.
+ </p>
+              
+              <div style="text-align: center;">
+              
+              <a href="mailto:jpowell@tacc.utexas.edu"><svg width="16" height="16" class="icon  icon--email" role="img" alt="Email"><title>Email</title><use xlink:href="#email" fill="CurrentColor"></use></svg>
+</a>
+              
+              
+              <a href="https://www.linkedin.com/in/jeaimehp/"><svg width="16" height="16" class="icon  icon--linkedin" role="img" alt="LinkedIn"><title>LinkedIn</title><use xlink:href="#linkedin" fill="CurrentColor"></use></svg>
+</a>
+              
+              
+              <a href="https://twitter.com/jeaimehp"><svg width="16" height="16" class="icon  icon--twitter" role="img" alt="Twitter"><title>Twitter</title><use xlink:href="#twitter" fill="CurrentColor"></use></svg>
+</a>
+              
+              
+              <a href="https://github.com/jeaimehp"><svg width="16" height="16" class="icon  icon--github" role="img" alt="Github"><title>Github</title><use xlink:href="#github" fill="CurrentColor"></use></svg>
+</a>
+              
+              
+              <a href="https://jeaimehp.github.io/"><svg width="16" height="16" class="icon  icon--link" role="img" alt="Website"><title>Website</title><use xlink:href="#link" fill="CurrentColor"></use></svg>
+</a>
+              
+            </div>
+            <br />
+</div>
+
+<div style="border-bottom: 1px solid black;" id="Mathieu Morlighem">
+  <br /> 
+  
+  <img src="http://0.0.0.0:4000/ISGEO-22/assets/speakers/mmorlighem.jpeg" class="image--cover" />
+  
+              
+              <h3><a href="https://faculty-directory.dartmouth.edu/mathieu-morlighem">Mathieu Morlighem</a></h3>
+              
+              
+              <em> Professor </em>
+              
+              
+              <strong><p>Dartmouth College </p></strong>
+              
+              <br />
+              
+              <p>My group focuses on the physics of glacier ice and the role of the ice  sheets in the climate system. Ice sheets play a central role in the  climate system: they store significant amounts of fresh water and are  the conveyor belts for transporting snow that accumulates inland back  into the oceans. The interactions of the ice sheets with the atmosphere  and the ocean have an internal variability but also affect the coupled ice  sheet–climate response to external forcings on time scales of months to  millions of years. If the current warming of the climate continues, the ice  sheets will respond at a yet unknown rate, with unknown consequences for the  rest of the climate system. A better understanding of the processes driving  these changes is critical to improve projections of sea level rise.
+ </p>
+              
+              <div style="text-align: center;">
+              
+              <a href="mailto:Mathieu.Morlighem@Dartmouth.edu"><svg width="16" height="16" class="icon  icon--email" role="img" alt="Email"><title>Email</title><use xlink:href="#email" fill="CurrentColor"></use></svg>
+</a>
+              
+              
+              <a href="https://www.linkedin.com/in/mathieumorlighem/"><svg width="16" height="16" class="icon  icon--linkedin" role="img" alt="LinkedIn"><title>LinkedIn</title><use xlink:href="#linkedin" fill="CurrentColor"></use></svg>
+</a>
+              
+              
+              <a href="https://twitter.com/mathieu_ice"><svg width="16" height="16" class="icon  icon--twitter" role="img" alt="Twitter"><title>Twitter</title><use xlink:href="#twitter" fill="CurrentColor"></use></svg>
+</a>
+              
+              
+              
+              <a href="https://faculty-directory.dartmouth.edu/mathieu-morlighem"><svg width="16" height="16" class="icon  icon--link" role="img" alt="Website"><title>Website</title><use xlink:href="#link" fill="CurrentColor"></use></svg>
+</a>
+              
+            </div>
+            <br />
+</div>
+
+<div style="border-bottom: 1px solid black;" id="William Mobley">
+  <br /> 
+  
+  <img src="http://0.0.0.0:4000/ISGEO-22/assets/speakers/william-mobley.jpeg" class="image--cover" />
+  
+              
+              <h3><a href="https://www.tacc.utexas.edu/about/directory/william-mobley">William Mobley</a></h3>
+              
+              
+              <em> Research Associate </em>
+              
+              
+              <strong><p>Texas Advanced Computing Center </p></strong>
+              
+              <br />
+              
+              <p>Dr. Mobley joined the Multi Modal Applications Team in June of 2022.  He is currently a research associate focusing on Robust Decision  Making under uncertainty and Geospatial Applied Machine Learning.  Previously Dr. Mobley was an Assistant Research Scientist at the Institute  for Disaster Resilient Texas.
+ </p>
+              
+              <div style="text-align: center;">
+              
+              <a href="mailto:wmobley@tacc.utexas.edu"><svg width="16" height="16" class="icon  icon--email" role="img" alt="Email"><title>Email</title><use xlink:href="#email" fill="CurrentColor"></use></svg>
+</a>
+              
+              
+              <a href="https://www.linkedin.com/in/william-mobley-0b716654/"><svg width="16" height="16" class="icon  icon--linkedin" role="img" alt="LinkedIn"><title>LinkedIn</title><use xlink:href="#linkedin" fill="CurrentColor"></use></svg>
+</a>
+              
+              
+              
+              <a href="https://github.com/wmobley"><svg width="16" height="16" class="icon  icon--github" role="img" alt="Github"><title>Github</title><use xlink:href="#github" fill="CurrentColor"></use></svg>
+</a>
+              
+              
+              <a href="https://www.tacc.utexas.edu/about/directory/william-mobley"><svg width="16" height="16" class="icon  icon--link" role="img" alt="Website"><title>Website</title><use xlink:href="#link" fill="CurrentColor"></use></svg>
+</a>
+              
+            </div>
+            <br />
+</div>
+
+<div style="border-bottom: 1px solid black;" id="Tim Cockerill">
+  <br /> 
+  
+  <img src="http://0.0.0.0:4000/ISGEO-22/assets/speakers/tcockerill.jpeg" class="image--cover" />
+  
+              
+              <h3><a href="https://www.tacc.utexas.edu/about/directory/tim-cockerill">Tim Cockerill</a></h3>
+              
+              
+              <em> Director of User Services and Deputy Project Director of DesignSafe </em>
+              
+              
+              <strong><p>Texas Advanced Computing Center </p></strong>
+              
+              <br />
+              
+              <p>Tim Cockerill is TACC’s Director of User Services. He oversees the allocations process  by which computing time and storage is awarded on TACC’s HPC systems. The User Services  team is also responsible for user account management, training, and user guides. Tim  also currently serves as the DesignSafe Deputy Project Director, providing a web-based  platform supporting natural hazards research. Tim is co-PI on two NSF CC* awards providing  training and research support for underserved/under-resourced universities and community  colleges. Tim joined TACC in January, 2014, as the Director of Center Programs responsible  for program and project management across the Center’s portfolio of awards. Prior to joining  TACC, he was the Associate Project Director for XSEDE and the TeraGrid Project Manager.  Before entering the world of high performance computing in 2003, Tim spent 10 years working  in startup companies aligned with his research interests in gallium arsenide materials and  semiconductor lasers. Prior to that, Tim earned his B.S., M.S., and Ph.D. degrees from the  University of Illinois at Urbana-Champaign and was a Visiting Assistant Professor in the  Electrical and Computer Engineering Department.
+ </p>
+              
+              <div style="text-align: center;">
+              
+              <a href="mailto:cockerill@tacc.utexas.edu"><svg width="16" height="16" class="icon  icon--email" role="img" alt="Email"><title>Email</title><use xlink:href="#email" fill="CurrentColor"></use></svg>
+</a>
+              
+              
+              <a href="https://www.linkedin.com/in/tim-cockerill-1933914b/"><svg width="16" height="16" class="icon  icon--linkedin" role="img" alt="LinkedIn"><title>LinkedIn</title><use xlink:href="#linkedin" fill="CurrentColor"></use></svg>
+</a>
+              
+              
+              
+              
+              <a href="https://www.tacc.utexas.edu/about/directory/tim-cockerill"><svg width="16" height="16" class="icon  icon--link" role="img" alt="Website"><title>Website</title><use xlink:href="#link" fill="CurrentColor"></use></svg>
+</a>
+              
+            </div>
+            <br />
+</div>
+
+<div style="border-bottom: 1px solid black;" id="Emily Clark">
+  <br /> 
+  
+  <img src="http://0.0.0.0:4000/ISGEO-22/assets/speakers/eclark.jpeg" class="image--cover" />
+  
+              
+              <h3><a href="https://www.cuahsi.org/about/our-team/emily-clark">Emily Clark</a></h3>
+              
+              
+              <em> Project Manager for CUAHSI </em>
+              
+              
+              <strong><p>Consortium for Universities for the Advancement of Hydrologic Science, Inc. (CUAHSI) </p></strong>
+              
+              <br />
+              
+              <p>Emily Clark is a Project Manager at the Consortium for Universities for the Advancement of Hydrologic Science,  Inc. (CUAHSI). In her role at CUAHSI, Emily has recently been involved in customer discovery and user  experience evaluations for CUAHSI programs and services and the HydroShare CyberInfrastructure. HydroShare  provides an online collaboration environment for sharing, publishing, and archiving hydrologic data, models,  and resources. Emily holds a BS in Environmental Science from the University of Tampa, an MPA in Environmental  Science and Policy from Columbia University, and a Project Management Professional (PMP) certification.
+ </p>
+              
+              <div style="text-align: center;">
+              
+              <a href="mailto:eclark@cuahsi.org"><svg width="16" height="16" class="icon  icon--email" role="img" alt="Email"><title>Email</title><use xlink:href="#email" fill="CurrentColor"></use></svg>
+</a>
+              
+              
+              <a href="https://www.linkedin.com/in/emily-clark-89813635/"><svg width="16" height="16" class="icon  icon--linkedin" role="img" alt="LinkedIn"><title>LinkedIn</title><use xlink:href="#linkedin" fill="CurrentColor"></use></svg>
+</a>
+              
+              
+              
+              
+              <a href="https://www.cuahsi.org/about/our-team/emily-clark"><svg width="16" height="16" class="icon  icon--link" role="img" alt="Website"><title>Website</title><use xlink:href="#link" fill="CurrentColor"></use></svg>
+</a>
+              
+            </div>
+            <br />
+</div>
+
+<div style="border-bottom: 1px solid black;" id="Stephanie Baker">
+  <br /> 
+  
+  <img src="http://0.0.0.0:4000/ISGEO-22/assets/speakers/sbaker.jpeg" class="image--cover" />
+  
+              
+              <h3><a href="https://www.tacc.utexas.edu/about/directory/stephanie-baker">Stephanie Baker</a></h3>
+              
+              
+              <em> Research Associate </em>
+              
+              
+              <strong><p>Texas Advanced Computing Center, Expanding Pathways in Computing (EPIC) </p></strong>
+              
+              <br />
+              
+              <p>Stephanie Baker is a Research Associate on the STEM Evaluation Services team at UT TACC.  Since joining TACC in  2019, Stephanie conducts internal and external evaluations of STEM education programs and participates in  research projects and outreach programs within TACC’s Expanding Pathways in Computing (EPIC) division. She  leads the evaluations of TACC’s DesignSafe CI, UT Department of Computer Science’s Center for Inclusive Computing  program, and several other projects. Prior to joining TACC, she served as a Research Associate at UT’s STEM  Center in the College of Education. Stephanie’s primary research focuses on developing practical measures for  assessing noncognitive factors crucial for student success in STEM subjects. She is also interested in the ethical  application of natural language processing techniques to education research. Stephanie earned her MS in Mathematics  from The University of Texas-Pan American, a Postgraduate Certificate in Artificial Intelligence and Machine Learning  from UT, and a PhD in Mathematics Education from UT.
+ </p>
+              
+              <div style="text-align: center;">
+              
+              <a href="mailto:snbaker@tacc.utexas.edu"><svg width="16" height="16" class="icon  icon--email" role="img" alt="Email"><title>Email</title><use xlink:href="#email" fill="CurrentColor"></use></svg>
+</a>
+              
+              
+              <a href="https://www.linkedin.com/in/stephanie-nicole-baker/"><svg width="16" height="16" class="icon  icon--linkedin" role="img" alt="LinkedIn"><title>LinkedIn</title><use xlink:href="#linkedin" fill="CurrentColor"></use></svg>
+</a>
+              
+              
+              
+              
+              <a href="https://www.tacc.utexas.edu/about/directory/stephanie-baker"><svg width="16" height="16" class="icon  icon--link" role="img" alt="Website"><title>Website</title><use xlink:href="#link" fill="CurrentColor"></use></svg>
+</a>
+              
+            </div>
+            <br />
+</div>
+
+<div style="border-bottom: 1px solid black;" id="Miriam Jacobson">
+  <br /> 
+  
+  <img src="http://0.0.0.0:4000/ISGEO-22/assets/speakers/mjacobson.jpeg" class="image--cover" />
+  
+              
+              <h3><a href="https://www.tacc.utexas.edu/about/directory/miriam-jacobson">Miriam Jacobson</a></h3>
+              
+              
+              <em> Research Associate </em>
+              
+              
+              <strong><p>Texas Advanced Computing Center, Expanding Pathways in Computing (EPIC) </p></strong>
+              
+              <br />
+              
+              <p>Miriam Jacobson is a Research Associate in the EPIC STEM Evaluation Services division at UT TACC. Since joining TACC  in 2020, Miriam has conducted internal and external evaluation of multiple STEM education programs. She led the  external evaluation of CUAHSI’s HydroShare CI and leads evaluations of UT’s Institute for Foundations of Machine  Learning and the University of California, San Diego’s Institute for Learning-enabled Optimization at Scale, as well  as other projects. She previously worked at ICF as a Lead Research Scientist and studied workforce development  initiatives at the federal and local level. She has conducted research on culturally responsive evaluation approaches  and the dissemination of evidenced-based practices. Miriam received her PhD from Claremont Graduate University in  Evaluation and Applied Research Method.
+ </p>
+              
+              <div style="text-align: center;">
+              
+              <a href="mailto:mjacobson@tacc.utexas.edu"><svg width="16" height="16" class="icon  icon--email" role="img" alt="Email"><title>Email</title><use xlink:href="#email" fill="CurrentColor"></use></svg>
+</a>
+              
+              
+              <a href="https://www.linkedin.com/in/miriam-jacobson-5249613a/"><svg width="16" height="16" class="icon  icon--linkedin" role="img" alt="LinkedIn"><title>LinkedIn</title><use xlink:href="#linkedin" fill="CurrentColor"></use></svg>
+</a>
+              
+              
+              
+              
+              <a href="https://www.tacc.utexas.edu/about/directory/miriam-jacobson"><svg width="16" height="16" class="icon  icon--link" role="img" alt="Website"><title>Website</title><use xlink:href="#link" fill="CurrentColor"></use></svg>
+</a>
+              
+            </div>
+            <br />
+</div>
+
+:ET
