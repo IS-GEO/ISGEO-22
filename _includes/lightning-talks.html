@@ -1,0 +1,79 @@
+
+          {% for talks in site.data.sessions.lightningtalks %}
+<div style="border-bottom: 1px solid black;" id="{{ talks.name }}">
+  <br> 
+              {% if talks.social %}
+              <h3><a href="{{ talks.url }}">{{talks.name}}</a></h3>
+              {% else %}
+              <h3><a href="{{ site.url }}{{ site.baseurl }}/speakers/#{{ talks.name }}">{{talks.name}}</a></h3>
+              {% endif %}
+              {% if talks.role %}
+              <em> {{ talks.role }} </em>
+              {% endif %}
+              {% if talks.affiliation %}
+              <strong><p>{{ talks.affiliation }} </p></strong>
+              {% endif %}
+              <br>
+              {% if talks.bio %}
+              <p>{{ talks.bio }} </p>
+              {% endif %}
+              <div style="text-align: center;">
+              {% if talks.email %}
+              <a href="mailto:{{ talks.email }}">{% include icon.html id="email" title="Email" %}</a>
+              {% endif %}
+              {% if talks.linkedin %}
+              <a href="{{ talks.linkedin }}">{% include icon.html id="linkedin" title="LinkedIn" %}</a>
+              {% endif %}
+              {% if talks.twitter %}
+              <a href="{{ talks.twitter }}">{% include icon.html id="twitter" title="Twitter" %}</a>
+              {% endif %}
+              {% if talks.github %}
+              <a href="{{ talks.github }}">{% include icon.html id="github" title="Github" %}</a>
+              {% endif %}
+              {% if talks.url %}
+              <a href="{{ talks.url }}">{% include icon.html id="link" title="Website" %}</a>
+              {% endif %}
+            </div>
+              <br>
+              <u>Presentation Files:</u>
+              {% if talks.slides %}
+              <a href="{{ site.url }}{{ site.baseurl }}{{ talks.slides }}">[Slides] </a>
+              {% endif %}
+              {% if talk.files %}
+              {% for file in talks.files %}
+              <a href="{{ site.url }}{{ site.baseurl }}{{ talks.file }}">[File] </a>
+              {% endfor %}
+              {% endif %}
+              <br>
+              {% if talks.papers %}
+              {% for paper in talks.papers %}
+                <ul style="text-align: left;">
+                  <li>
+                  <strong>[Paper:] {{ paper.papername }}</strong><br>
+                  {% if paper.url %}
+                    <a href="{{ site.url }}{{ site.baseurl }}{{ paper.url }}">[Paper Link]</a>
+                  {% endif %}
+                  {% if paper.paper %}
+                  <a href="{{ site.url }}{{ site.baseurl }}{{ paper.paper }}">[Paper PDF]</a>
+                  {% endif %}
+                  {% if paper.citation %}
+                  <br>
+                  <p>{{% paper.citation %}}</p>
+                  {% endif %}
+                  </li>
+                </ul>
+              {% endfor %}
+              {% endif %}
+            
+           
+            {% if talks.images %}
+               <br> 
+               <u><em>Images and Figures:</em></u>
+               {% include image-gallery-png.html folder=talks.images %}
+               
+
+              {% endif %}  
+
+              <br>
+</div>
+{% endfor %}

@@ -440,6 +440,67 @@ projectteams:
   #teamgithub:
 
 
+###############
+# Lighting Talks
+
+#- name:
+#  email:
+#  affiliation: 
+#  role:
+#  url:
+#  talkname: 
+#  slides:
+#  files:
+#  images: 
+#  linkedin: 
+#  twitter: 
+#  github: 
+#papers:
+#  - papername: 
+#    paperurl: 
+#    paper: 
+#    citation: 
+
+lightningtalks:
+- name: Joseph Eichenbaum
+  email: eichej01@gmail.com
+  affiliation: University of Hawaii
+  role: Researcher
+  feildofstudy: Retinal Degeneration
+  #url:
+  talkname: A Zebra Fish Model for studying Retinal Degeneration
+  #slides:
+  #files:
+  images: '/assets/lightning-talks/JEichenbaum/images'
+  papers:
+  - papername: Inhibition of BRD4 Attenuates Inflammation and Oxidative Stress in Retina
+    paperurl: https://irispublishers.com/wjovr/pdf/WJOVR.MS.ID.000584.pdf
+    paper: '/assets/lightning-talks/JEichenbaum/papers/inhibition of BRD4 Attenuates Inflammation and Oxidative Stress in Retina.pdf'
+    #citation: 
+
+  - papername: A zebrafish retinal graded photochemical stress model
+    paperurl: https://www.sciencedirect.com/science/article/pii/S1056871909000173
+    paper: '/assets/lightning-talks/JEichenbaum/papers/A_zebrafish_retinal_graded_photochemical_stress_mo.pdf'
+    #citation:
+
+- name: Yoko	Uyehara
+  email: yokom@hawaii.edu
+  affiliation: University of Hawaii at Manoa
+  role: Student
+  fieldofstudy: Geospatial Information Science and Remote Sensing
+#  url:
+  talkname: "Seeing Paradise through Clouds: Generating Annual Cloud Cloud-free Mosaics from Landsat Landsat-8 Imagery"
+  slides: '/assets/lightning-talks/YUyehara/slides/Seeing Paradise through Clouds_2021_YU_ISGEO2022 - Yoko Uyehara.pdf'
+#  files:
+#  images: 
+#papers:
+#  - papername: 
+#    paperurl: 
+#    paper: 
+#    citation: 
+
+
+
 #####
 # Resources
 
