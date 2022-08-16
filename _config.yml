@@ -137,10 +137,10 @@ navigation_header:
 #  url: "https://forms.gle/96BmnWmLcfpM8WJHA"
 - title: Schedule
   url: /ISGEO-22/schedule/
-- title: Project Teams
-  url: /ISGEO-22/teams/
 - title: Speakers
   url: /ISGEO-22/speakers/
+- title: Project Teams
+  url: /ISGEO-22/teams/
 - title: Resources
   url: /ISGEO-22/resources/
 - title: "[Presentation Uploads]"
