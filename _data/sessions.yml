@@ -581,7 +581,7 @@ researchgroups:
     a research unit of the Brazilian Ministry of Science, Technology and Innovations, the main goals of which 
     are fostering scientific research and technological applications and qualifying personnel in the fields of 
     space and atmospheric sciences, space engineering, and space technology. 
-  logo: http://antigo.inpe.br/img/logoinpe-azul-menor.png
+  #logo: http://antigo.inpe.br/img/logoinpe-azul-menor.png
 
 - name: "U.S. Geological Survey"
   url: https://www.usgs.gov/
