@@ -462,6 +462,22 @@ projectteams:
 #    citation: 
 
 lightningtalks:
+- name: Yoko	Uyehara
+  email: yokom@hawaii.edu
+  affiliation: University of Hawaii at Manoa
+  role: Student
+  fieldofstudy: Geospatial Information Science and Remote Sensing
+#  url:
+  talkname: "Seeing Paradise through Clouds: Generating Annual Cloud Cloud-free Mosaics from Landsat Landsat-8 Imagery"
+  slides: '/assets/lightning-talks/YUyehara/slides/Seeing Paradise through Clouds_2021_YU_ISGEO2022 - Yoko Uyehara.pdf'
+#  files:
+#  images: 
+#papers:
+#  - papername: 
+#    paperurl: 
+#    paper: 
+#    citation: 
+
 - name: Joseph Eichenbaum
   email: eichej01@gmail.com
   affiliation: University of Hawaii
@@ -483,21 +499,7 @@ lightningtalks:
     paper: '/assets/lightning-talks/JEichenbaum/papers/A_zebrafish_retinal_graded_photochemical_stress_mo.pdf'
     #citation:
 
-- name: Yoko	Uyehara
-  email: yokom@hawaii.edu
-  affiliation: University of Hawaii at Manoa
-  role: Student
-  fieldofstudy: Geospatial Information Science and Remote Sensing
-#  url:
-  talkname: "Seeing Paradise through Clouds: Generating Annual Cloud Cloud-free Mosaics from Landsat Landsat-8 Imagery"
-  slides: '/assets/lightning-talks/YUyehara/slides/Seeing Paradise through Clouds_2021_YU_ISGEO2022 - Yoko Uyehara.pdf'
-#  files:
-#  images: 
-#papers:
-#  - papername: 
-#    paperurl: 
-#    paper: 
-#    citation: 
+
 
 
 
