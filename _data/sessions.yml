@@ -373,6 +373,15 @@ docs:
   filepath: '/assets/session-docs/Tuesday-Afternoon/Pennington ISGEO 2022 3 Tues Pm - Deana Pennington.pdf'
   filetype: 'PDF'
 
+- name: 'Project Logic Models'
+  #description: ''
+  day: 'Tuesday' 
+  session: Afternoon
+  presenter: Lisa Garbrecht
+  filepath: '/assets/session-docs/Tuesday-Afternoon/ISGEO Logic Modeling- Lisa Garbrecht.pdf'
+  filetype: 'PDF'
+
+
 ####
 # Project Teams
 
