@@ -407,7 +407,7 @@ projectteams:
   teammembers: [Alii, Daniel, Lissa, Joseph]
   teammiro: https://miro.com/app/board/uXjVPfSM4xE=/?share_link_id=931985949919
   pitchslide: '/assets/teams/hawaii/pitch.pdf'
-  #introslide:
+  introslide: '/assets/teams/hawaii/intro.png'
   #teamgoal:
   #teamgithub:
 
