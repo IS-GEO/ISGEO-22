@@ -33,7 +33,7 @@ A mini-hackthon will be hosted during the latter half of the workshop allowing g
 
 ## Participant Gallery
 
-{% include image-gallery.html folder="/assets/participants" %}
+{% include image-gallery.html folder="/assets/participants" %} 
 
 
 ### Project Teams
