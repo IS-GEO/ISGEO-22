@@ -2,7 +2,7 @@ sessionics:
 - day: All
   date: 'August 15th-19th, 2022'
   #theme: 
-  file: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22-All_Sessions.ics'
+  file: 'https://is-geo.github.io/ISGEO-22/assets/ics_files/ISGEO-22-All_Sessions.ics'
   #morningsessionics:
   #morningsessiontime: "[11am - 1pm ET]|[10am - 12pm CT]|[9am - 11am MT]|[8am - 10am PT]"
   #afternoonsessionics:
@@ -14,9 +14,9 @@ sessionics:
   date: '8/15/22'
   theme: 'Pathways to Integration'
   #file:
-  morningsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Monday_Morning_Session.ics'
+  morningsessionics: 'https://is-geo.github.io/ISGEO-22/assets/ics_files/ISGEO-22_Monday_Morning_Session.ics'
   morningsessiontime: "[11am - 1pm ET]|[10am - 12pm CT]|[9am - 11am MT]|[8am - 10am PT]"
-  afternoonsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_MondayAfternoon_Session.ics'
+  afternoonsessionics: 'https://is-geo.github.io/ISGEO-22/assets/ics_files/ISGEO-22_MondayAfternoon_Session.ics'
   afternoonsessiontime: "[2pm - 4pm ET]|[1pm - 3pm CT]|[12pm - 2pm MT]|[11am - 1pm PT]"
   zoomlink: https://utexas.zoom.us/j/97287426291 
 
@@ -24,9 +24,9 @@ sessionics:
   date: '8/16/22'
   theme: 'Platforms for Community/Data Management Tools'
   #file:
-  morningsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Tuesday_Morning_Session.ics'
+  morningsessionics: 'https://is-geo.github.io/ISGEO-22/assets/ics_files/ISGEO-22_Tuesday_Morning_Session.ics'
   morningsessiontime: "[11am - 1pm ET]|[10am - 12pm CT]|[9am - 11am MT]|[8am - 10am PT]"
-  afternoonsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Tuesday_Afternoon_Session.ics'
+  afternoonsessionics: 'https://is-geo.github.io/ISGEO-22/assets/ics_files/ISGEO-22_Tuesday_Afternoon_Session.ics'
   afternoonsessiontime: "[2pm - 4pm ET]|[1pm - 3pm CT]|[12pm - 2pm MT]|[11am - 1pm PT]"
   zoomlink: https://utexas.zoom.us/j/92172929874 
 
@@ -34,9 +34,9 @@ sessionics:
   date: '8/17/22'
   theme: 'Models & Use Cases'
   #file: 
-  morningsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Wednesday_Morning_Session.ics'
+  morningsessionics: 'https://is-geo.github.io/ISGEO-22/assets/ics_files/ISGEO-22_Wednesday_Morning_Session.ics'
   morningsessiontime: "[11am - 1pm ET]|[10am - 12pm CT]|[9am - 11am MT]|[8am - 10am PT]"
-  afternoonsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Wednesday_Afternoon_Session.ics'
+  afternoonsessionics: 'https://is-geo.github.io/ISGEO-22/assets/ics_files/ISGEO-22_Wednesday_Afternoon_Session.ics'
   afternoonsessiontime: "[2pm - 4pm ET]|[1pm - 3pm CT]|[12pm - 2pm MT]|[11am - 1pm PT]"
   zoomlink: https://utexas.zoom.us/j/93835678632 
 
@@ -44,9 +44,9 @@ sessionics:
   date: '8/18/22'
   theme: 'Hackathon'
   #file: 
-  morningsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Thursday_Morning_Session.ics'
+  morningsessionics: 'https://is-geo.github.io/ISGEO-22/assets/ics_files/ISGEO-22_Thursday_Morning_Session.ics'
   morningsessiontime: "[11am - 1pm ET]|[10am - 12pm CT]|[9am - 11am MT]|[8am - 10am PT]"
-  afternoonsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Thursday_Afternoon_Session.ics'
+  afternoonsessionics: 'https://is-geo.github.io/ISGEO-22/assets/ics_files/ISGEO-22_Thursday_Afternoon_Session.ics'
   afternoonsessiontime: "[2pm - 4pm ET]|[1pm - 3pm CT]|[12pm - 2pm MT]|[11am - 1pm PT]"
   zoomlink: https://utexas.zoom.us/j/95710329885 
 
@@ -54,9 +54,9 @@ sessionics:
   date: '8/19/22'
   theme: 'Final Presentations and Closing'
   #file: 
-  morningsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Friday_Morning_Session.ics'
+  morningsessionics: 'https://is-geo.github.io/ISGEO-22/assets/ics_files/ISGEO-22_Friday_Morning_Session.ics'
   morningsessiontime: "[11am - 1pm ET]|[10am - 12pm CT]|[9am - 11am MT]|[8am - 10am PT]"
-  afternoonsessionics: 'https://github.com/IS-GEO/ISGEO-22/blob/gh-pages/assets/ics_files/ISGEO-22_Friday_Afternoon_Session.ics'
+  afternoonsessionics: 'https://is-geo.github.io/ISGEO-22/assets/ics_files/ISGEO-22_Friday_Afternoon_Session.ics'
   afternoonsessiontime: "[2pm - 4pm ET]|[1pm - 3pm CT]|[12pm - 2pm MT]|[11am - 1pm PT]"
   zoomlink: https://utexas.zoom.us/j/91218165541 
 
