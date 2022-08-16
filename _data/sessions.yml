@@ -355,6 +355,17 @@ docs:
   filepath: '/assets/session-docs/Monday-Afternoon/Pennington ISGEO 2022 2 Mon Pm.pdf'
   filetype: 'PDF'
 
+- name: 'Best Practices for Evaluating CI and Modeling Environments'
+  #description: ''
+  day: 'Tuesday' 
+  session: Morning
+  presenter: Lisa Garbrecht
+  filepath: '/assets/session-docs/Tuesday-Morning/ISGEO Evaluation Best Practices- Lisa Garbrecht.pdf'
+  filetype: 'PDF'
+
+
+
+
 ####
 # Project Teams
 
