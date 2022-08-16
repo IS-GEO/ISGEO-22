@@ -161,7 +161,7 @@ sessioninfo:
 
 # --------------
 # Tuesday Afternoon
-- sessionname: Goal Development
+- sessionname: Goals and Objectives
   sessiontype: Discussion
   sessionday: Tuesday
   sessiontime: Afternoon
@@ -169,37 +169,30 @@ sessioninfo:
   #sessiondescription: 
   sessionhost: Deana Pennington
 
-- sessionname: Project Goals 
-  sessiontype: Interdisciplinary Tutorial
-  sessionday: Tuesday
-  sessiontime: Afternoon
-  sessionlength: 45mins
-  #sessiondescription: 
-  sessionhost: Deana Pennington
-
-- sessionname: Evaluation
+- sessionname: Project Logic Models
   sessiontype: Talk
-  sessionday: Tuesday
-  sessiontime: Afternoon
-  sessionlength: 30mins
-  #sessiondescription: 
-  sessionhost: Lisa Garbrecht
-
-- sessionname: Evaluating Project Goals 
-  sessiontype: Hackathon
   sessionday: Tuesday
   sessiontime: Afternoon
   sessionlength: 15mins
   #sessiondescription: 
-  sessionhost: Jeaime Powell
+  sessionhost: Lisa Garbrecht
+
+- sessionname: Goals and Logic Modeling 
+  sessiontype: Interdisciplinary Tutorial
+  sessionday: Tuesday
+  sessiontime: Afternoon
+  sessionlength: 60mins
+  #sessiondescription: 
+  #sessionhost: Deana Pennington
 
 - sessionname: Group Reflection on Evaluation
   sessiontype: Discussion
   sessionday: Tuesday
   sessiontime: Afternoon
   sessionlength: 15mins
-  #sessiondescription: 
-  sessionhost: Deana Pennington
+  sessiondescription: >
+    Project teams will present out 1-slide/1-minute their goals and plan.  
+  sessionhost: Jeaime Powell
 
 # --------------
 # Wednesday Morning
@@ -212,23 +205,24 @@ sessioninfo:
   #sessiondescription: 
   sessionhost: Suzanne Pierce
 
-# --------------
-# Wednesday Afternoon
 - sessionname: Lightning Talks
   sessiontype: Talk
   sessionday: Wednesday
-  sessiontime: Afternoon
-  sessionlength: 45mins
+  sessiontime: Morning
+  sessionlength: 60mins
   sessiondescription: >
     5 Minute talks given by participants. Please upload all slide decks in PDF form using 
     the <a href="https://forms.gle/t8w1Q9C3zCvaPJqY7">[ISGEO-22 Presentation Upload Form]</a>. <br>
   sessionhost: Jeaime Powell
 
+
+# --------------
+# Wednesday Afternoon
 - sessionname: Work in Groups
   sessiontype: Hackathon
   sessionday: Wednesday
   sessiontime: Afternoon
-  sessionlength: 30mins
+  sessionlength: 90mins
   #sessiondescription: 
   sessionhost: Jeaime Powell
 
@@ -236,7 +230,7 @@ sessioninfo:
   sessiontype: Discussion
   sessionday: Wednesday
   sessiontime: Morning
-  sessionlength: 15mins
+  sessionlength: 30mins
   #sessiondescription: 
   sessionhost: Deana Pennington
 
