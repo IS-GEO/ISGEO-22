@@ -423,6 +423,34 @@ resources:
   description: >
     Please use this link to upload any given presentation files in PDF format.
 
+- name: "[IS-GEO] OntoSoft Software Repository"
+  url: https://is-geo.ontosoft.org
+  description: >
+    [IS-GEO Community Users] The OntoSoft project is part of the NSF EarthCube Initiative. The NSF EarthCube 
+    Initiative aims to enable scientists to solve challenging problems that span 
+    diverse geoscience domains. This requires not only data sharing, it requires 
+    new forms of knowledge sharing. The focus of OntoSoft is to promote knowledge 
+    sharing about the software developed for geosciences.
+
+- name: "[iHARP] OntoSoft Software Repository"
+  url: https://iharp.ontosoft.org
+  description: >
+    [iHARP Community Users]The OntoSoft project is part of the NSF EarthCube Initiative. The NSF EarthCube 
+    Initiative aims to enable scientists to solve challenging problems that span 
+    diverse geoscience domains. This requires not only data sharing, it requires 
+    new forms of knowledge sharing. The focus of OntoSoft is to promote knowledge 
+    sharing about the software developed for geosciences.
+
+- name: "[TDIS] OntoSoft Software Repository"
+  url: https://tdis.ontosoft.org
+  description: >
+    [TDIS Community Users] The OntoSoft project is part of the NSF EarthCube Initiative. The NSF EarthCube 
+    Initiative aims to enable scientists to solve challenging problems that span 
+    diverse geoscience domains. This requires not only data sharing, it requires 
+    new forms of knowledge sharing. The focus of OntoSoft is to promote knowledge 
+    sharing about the software developed for geosciences.
+
+
 - name: IS-GEO Site
   url: https://is-geo.org/
   description: >
@@ -435,15 +463,6 @@ resources:
   url: https://miro.com/
   description: >
     A digital whiteboard that makes it easy to collaborate with others.
-
-- name: OntoSoft Software Repository
-  url: https://is-geo.ontosoft.org/#list
-  description: >
-    The OntoSoft project is part of the NSF EarthCube Initiative. The NSF EarthCube 
-    Initiative aims to enable scientists to solve challenging problems that span 
-    diverse geoscience domains. This requires not only data sharing, it requires 
-    new forms of knowledge sharing. The focus of OntoSoft is to promote knowledge 
-    sharing about the software developed for geosciences.
 
 - name: TACC User Portal
   url: https://portal.tacc.utexas.edu/
