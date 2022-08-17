@@ -520,9 +520,9 @@ lightningtalks:
 #  linkedin: 
   twitter: "https://twitter.com/watersecurity"
 #  github: 
-#papers:
-#  - papername: 
-#    paperurl: 
+papers:
+  - papername: "Visions of the Arctic Future: Blending Computational Text Analysis and Structured Futuring to Create Story-Based Scenarios"
+    paperurl: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021EF002206
 #    paper: 
 #    citation: 
 
