@@ -57,7 +57,7 @@
          
             {% if decks.day == day.day %}
             {% if decks.session == event.sessiontime and decks.presenter == event.sessionhost and decks.name == event.sessionname %}
-             <a href="{{ site.url}}{{site.baseurl}}{{ decks.filepath }}"><strong>[{{ decks.filetype }}] </strong></a>
+             <a href="{{ site.url}}{{site.baseurl}}{{ decks.filepath }}"><strong>[Slides - {{ decks.filetype }}] </strong></a>
 
          {% endif %}
          {% endif %}
@@ -106,7 +106,7 @@
          
             {% if decks.day == day.day %}
             {% if decks.session == event.sessiontime and decks.presenter == event.sessionhost and decks.name == event.sessionname %}
-             <a href="{{ site.url}}{{site.baseurl}}{{ decks.filepath }}"><strong>[{{ decks.filetype }}]</strong> </a>
+             <a href="{{ site.url}}{{site.baseurl}}{{ decks.filepath }}"><strong>[Slides - {{ decks.filetype }}]</strong> </a>
 
          {% endif %}
          {% endif %}
