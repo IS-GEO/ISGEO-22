@@ -2,8 +2,8 @@
           {% for talks in site.data.sessions.lightningtalks %}
 <div style="border-bottom: 1px solid black;" id="{{ talks.name }}">
   <br> 
-              {% if talks.paperurl %}
-              <h3><a href="{{ talks.paperurl }}">{{talks.name}}</a></h3>
+              {% if talks.url %}
+              <h3><a href="{{ talks.rurl }}">{{talks.name}}</a></h3>
               {% else %}
               <h3><a href="{{ site.url }}{{ site.baseurl }}/speakers/#{{ talks.name }}">{{talks.name}}</a></h3>
               {% endif %}
@@ -49,8 +49,8 @@
               {% for paper in talks.papers %}
                 <ul style="text-align: left;">
                   <li>
-                  <strong>[Paper:] {{ paper.papername }}</strong><br>
-                  {% if paper.url %}
+                  <strong>{{ paper.papername }}</a></strong><br>
+                  {% if paper.paperurl %}
                     <a href="{{ site.url }}{{ site.baseurl }}{{ paper.url }}">[Paper Link]</a>
                   {% endif %}
                   {% if paper.paper %}
