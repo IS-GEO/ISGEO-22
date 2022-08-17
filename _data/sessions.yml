@@ -499,8 +499,41 @@ lightningtalks:
     paper: '/assets/lightning-talks/JEichenbaum/papers/A_zebrafish_retinal_graded_photochemical_stress_mo.pdf'
     #citation:
 
+ name: Patrick Keys
+  email: patrick.keys@colostate.edu
+  affiliation: Colorado State University
+  role: Faculty
+#  url:
+  talkname: Visions of the Arctic Future
+  slides: '/assets/lightning-talks/PKeys/SPEEDTALK_Visions of the Arctic Future - Pat Keys.pdf'
+#  files:
+#  images: 
+#  linkedin: 
+  twitter: @watersecurity
+#  github: 
+#papers:
+#  - papername: 
+#    paperurl: 
+#    paper: 
+#    citation: 
 
-
+- name: Agbeli Ameko
+  email: agbeli@ucar.edu
+  affiliation: NCAR CISL
+  role: Researcher
+#  url:
+  talkname: "XSEDE to ACCESS Transition: Allocations Overview"
+  slides: '/assets/lightning-talks/AAmeko/ACCESS RAMPS Overview - ISGEOLighteningTalk AMEKO - Agbeli Ameko.pdf'
+#  files:
+#  images: 
+#  linkedin: 
+#  twitter: 
+#  github: 
+#papers:
+#  - papername: 
+#    paperurl: 
+#    paper: 
+#    citation: 
 
 
 #####
@@ -547,6 +580,21 @@ resources:
     Intelligent Systems for Geosciences community (IS-GEO). It will serve 
     as an entry point for information about activities and resources related 
     to the IS-GEO community.
+
+- name: "[TACC] Jupyter Notebooks"
+  url: https://jupyter.tacc.cloud/
+  description: >
+    [TACC Portal Account Needed] JupyterLab is the latest web-based interactive development environment 
+    for notebooks, code, and data. Its flexible interface allows users to configure and arrange workflows 
+    in data science, scientific computing, computational journalism, and machine learning. A modular design 
+    invites extensions to expand and enrich functionality.
+
+- name: "[TACC] PTDataX"
+  url: https://ptdatax.tacc.utexas.edu/
+  description: >
+    [TACC Portal Account Needed] DataX is a next generation integrated data analytics platform designed by 
+    experts and powered by the supercomputers at the Texas Advanced Computing Center. It provides the 
+    computational tools necessary for researchers to understand, manage, and examine critical data from around the state.
 
 - name: Miro Collaborative Boards
   url: https://miro.com/
