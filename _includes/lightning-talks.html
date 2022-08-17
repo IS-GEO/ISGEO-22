@@ -49,9 +49,9 @@
               {% for paper in talks.papers %}
                 <ul style="text-align: left;">
                   <li>
-                  <strong>{{ paper.papername }}</a></strong><br>
+                  <strong>{{ paper.papername }}</strong><br>
                   {% if paper.paperurl %}
-                    <a href="{{ site.url }}{{ site.baseurl }}{{ paper.url }}">[Paper Link]</a>
+                    <a href="{{ paper.url }}">[Paper Link]</a>
                   {% endif %}
                   {% if paper.paper %}
                   <a href="{{ site.url }}{{ site.baseurl }}{{ paper.paper }}">[Paper PDF]</a>
