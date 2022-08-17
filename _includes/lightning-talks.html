@@ -2,7 +2,7 @@
           {% for talks in site.data.sessions.lightningtalks %}
 <div style="border-bottom: 1px solid black;" id="{{ talks.name }}">
   <br> 
-              {% if talks.social %}
+              {% if talks.url %}
               <h3><a href="{{ talks.url }}">{{talks.name}}</a></h3>
               {% else %}
               <h3><a href="{{ site.url }}{{ site.baseurl }}/speakers/#{{ talks.name }}">{{talks.name}}</a></h3>

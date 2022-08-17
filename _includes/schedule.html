@@ -63,6 +63,16 @@
          {% endif %}
          {% endfor %}
 
+         {% if event.sessionname == "Lightning Talks" %}
+         {% for talks in site.data.sessions.lightningtalks %}
+              <dl>
+                <dt>&ensp;<strong><a href="{{ site.url }}{{ site.baseurl }}/speakers/#{{ talks.name }}">‣[Talk]<em> {{ talks.talkname }}</em></a></strong>
+                  <dd>&emsp;<u>Presenter:</u> {{talks.name}} </dd>
+                </dt>
+                </dl>
+       
+         {% endfor %}
+            {% endif %}
 
          {% endif %}
          {% endfor %}
