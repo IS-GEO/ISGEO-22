@@ -381,6 +381,15 @@ docs:
   filepath: '/assets/session-docs/Tuesday-Afternoon/ISGEO Logic Modeling- Lisa Garbrecht.pdf'
   filetype: 'PDF'
 
+- name: 'Ontosoft Tutorial Sharing Resources'
+  #description: 'ISGEO Welcome and history slides'
+  day: 'Wednesday'
+  session: Morning
+  presenter: Suzanne Pierce
+  filepath: '/assets/session-docs/Wednesday-Morning/iSGEO22_GeoSoft-DescribingSoftwareThroughMetadata - Suzanne Pierce.pdf'
+  filetype: 'PDF'
+
+
 
 ####
 # Project Teams
