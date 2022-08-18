@@ -405,8 +405,12 @@ projectteams:
   logicmodel: '/assets/teams/semanta/logicmodel.png'
   goals: '/assets/teams/semanta/Goals Team Semanta- William Mobley.pdf'
   teamgoal: >
-    The goal of this project is to initate an AI for climate science discovery.  
+    The goal of this project is to initate an AI for climate science discovery.
+  revisedteamgoal: >
+      Data/Software Registry
   #teamgithub:
+  teamupdatepdf: '/assets/teams/semanta/thurs-goals.pdf'
+  teamupdatepng: '/assets/teams/semanta/thurs-goals.png'
 
 - teamname: "Icebreakers"
   teamlead: Homayra
@@ -419,8 +423,10 @@ projectteams:
   teamgoal: >
     The goal of this project is to predict the pattern of Greenland ice bed topography 
     using machine learning methodologies.
-
-  #teamgithub:
+  #revisedteamgoal:
+  teamupdatepdf: '/assets/teams/icebreakers/thurs-goals.pdf'
+  teamupdatepng: '/assets/teams/icebreakers/thurs-goals.png'
+  teamgithub: https://github.com/yuyehara/IS-GEO2022_Angeve
 
 - teamname: Hawaii
   teamlead: Yoko
@@ -435,6 +441,8 @@ projectteams:
     Learning object detection technique to assist land managers for effective and 
     efficient land management.
   #teamgithub:
+  teamupdatepdf: '/assets/teams/hawaii/thurs-goals.pdf'
+  teamupdatepng: '/assets/teams/hawaii/thurs-goals.png'
 
 - teamname: "Onto-Somethin'"
   teamlead: Suzanne
@@ -446,7 +454,11 @@ projectteams:
   goals: '/assets/teams/onto-somethin/goals.pdf'
   teamgoal: >
     Create a repository of well described resources. 
-  #teamgithub:
+  revisedteamgoal: >
+    Identify and describe at least 25 relevant curricular resources to inform the iHARP community.
+  teamgithub: https://github.com/helpfultangent/OntoSomethin-
+  teamupdatepdf: '/assets/teams/onto-somethin/thurs-goals.pdf'
+  teamupdatepng: '/assets/teams/onto-somethin/thurs-goals.png'
 
 
 ###############

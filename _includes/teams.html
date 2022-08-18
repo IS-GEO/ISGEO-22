@@ -24,7 +24,12 @@ li {
     {% if team.teamgoal %}
     
     <p><em>Team Goal:</em><br>
+      {% if team.revisedteamgoal %}
+    <s>{{ team.teamgoal }}</s><br>
+    <u>[Revised Goal]</u> {{ team.revisedteamgoal }}
+    {% else %}
     {{ team.teamgoal }}
+    {% endif %}
    </p>
     {% endif %}
   <em>Links:</em>
@@ -40,6 +45,9 @@ li {
    {% endif %}
    {% if team.goals %}
    <li style="margin-left: 30px;"><a href="https://github.com/IS-GEO/ISGEO-22/blob/gh-pages{{ team.goals }}" target="_blank">Goal Slides</a></li>
+   {% endif %} 
+   {% if team.teamupdatepdf %}
+   <li style="margin-left: 30px;"><a href="{{ team.teamupdatepdf }}>" target="_blank">Updated Goals</a></li>
    {% endif %}  
    {% if team.teamgithub %}
    <li style="margin-left: 30px;"><a href="{{ team.teamgithub }}>" target="_blank">Team Github Repo</a></li>
@@ -68,6 +76,18 @@ li {
      <h5> Comming Soon!</h5>
   
  {% endif %} 
+
+ {% if team.teamupdatepng %}
+  <a href="{{ site.url }}{{ site.baseurl}}{{ team.teamupdatepdf }}" target="_blank">
+ <img src="{{ site.url }}{{ site.baseurl}}{{ team.teamupdatepng }}" alt="Updated Goals" style="border: 2px solid darkblue;">
+
+  </a>
+  {% else %}
+     <h5> Comming Soon!</h5>
+  
+ {% endif %} 
+
+
 
   </td>
 
