@@ -413,7 +413,7 @@ projectteams:
   teamupdatepdf: '/assets/teams/semanta/thurs-goals.pdf'
   teamupdatepng: '/assets/teams/semanta/thurs-goals.png'
 
-- teamname: "Icebreakers"
+- teamname: "Icebreaker"
   teamlead: Homayra
   teammembers: [Atefeh, Omar, Mathieu, Chhaya, Karen, Donna]
   teammiro: https://miro.com/app/board/uXjVPfSM4jU=/?share_link_id=218013395265
@@ -430,7 +430,7 @@ projectteams:
   teamupdatepng: '/assets/teams/icebreakers/thurs-goals.png'
   teamgithub: https://github.com/Homayra22/Icebreaker
 
-- teamname: Hawaii
+- teamname: "Hawai'i"
   teamlead: Yoko
   teammembers: [Daniel, Lissa, Joseph]
   teammiro: https://miro.com/app/board/uXjVPfSM4xE=/?share_link_id=931985949919
