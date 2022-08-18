@@ -9,8 +9,13 @@ aside: true
 excerpt: "[IS-GEO](https://is-geo.org/) and iHARP are pleased to announce a virtual workshop on Model-based Reasoning. Invited expert, [Dr. Deana Pennington](https://www.linkedin.com/in/deanapennington/) from the University of Texas at El Paso (UTEP) brings prior expertise in evaluating social learning and model-based reasoning together with clear guidance for successful transdisciplinary team building. "
 ---
 
-{% include hackathondeliverables.html %}
 
+
+<br>
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/ISGEO-22_Group_with_logos.png">
+
+{% include hackathondeliverables.html %}
 
 ## Overview
 
@@ -44,8 +49,6 @@ A mini-hackthon will be hosted during the latter half of the workshop allowing g
 {% include teams.html %}
 
 
-
- {% include shared-miro.html %}
 
 ## Speakers
 {% include speakers.html %}
