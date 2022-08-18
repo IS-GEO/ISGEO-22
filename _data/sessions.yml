@@ -399,6 +399,7 @@ projectteams:
   teamlead: Lydia
   teammembers: [Akila, Will, Tabish]
   teammiro: https://miro.com/app/board/uXjVPfSM494=/?share_link_id=217150275419
+  teammiropdf: '/assets/teams/semanta/semanta-miro.pdf'
   pitchslide: '/assets/teams/semanta/pitch.pdf'
   introslide: '/assets/teams/semanta/intro.png'
   introdeck: '/assets/teams/semanta/teaminfo.pdf'
@@ -416,6 +417,7 @@ projectteams:
   teamlead: Homayra
   teammembers: [Atefeh, Omar, Mathieu, Chhaya, Karen, Donna]
   teammiro: https://miro.com/app/board/uXjVPfSM4jU=/?share_link_id=218013395265
+  teammiropdf: '/assets/teams/icebreakers/Icebreakers-Miro.pdf'
   pitchslide: '/assets/teams/icebreakers/pitch.pdf'
   introslide: '/assets/teams/icebreakers/intro.png'
   logicmodel: '/assets/teams/icebreakers/logicmodel.png'
@@ -432,6 +434,7 @@ projectteams:
   teamlead: Yoko
   teammembers: [Daniel, Lissa, Joseph]
   teammiro: https://miro.com/app/board/uXjVPfSM4xE=/?share_link_id=931985949919
+  teammiropdf: '/assets/teams/hawaii/Hawaii-miro.pdf'
   pitchslide: '/assets/teams/hawaii/pitch.pdf'
   introslide: '/assets/teams/hawaii/intro.png'
   logicmodel: '/assets/teams/hawaii/logicmodel.png'
@@ -448,6 +451,7 @@ projectteams:
   teamlead: Suzanne
   teammembers: [Alii, Karen]
   teammiro: https://miro.com/app/board/uXjVPfSM45k=/?share_link_id=800858349770
+  teammiropdf: '/assets/teams/onto-somethin/Ontosomethin-miro.pdf'
   pitchslide: '/assets/teams/onto-somethin/pitch.pdf'
   introslide: '/assets/teams/onto-somethin/intro.png'
   logicmodel: '/assets/teams/onto-somethin/logicmodel.png'

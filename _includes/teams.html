@@ -36,7 +36,10 @@ li {
   <ul>
    {% if team.teammiro %}
    <li style="margin-left: 30px;"><a href="{{ team.teammiro }}" target="_blank">Team Miroboard</a></li>
-   {% endif %} 
+   {% endif %}
+   {% if team.teammiropdf %}
+   <li style="margin-left: 30px;"><a href="{{ site.url }}{{ site.baseurl}}{{ team.teammiropdf }}" target="_blank">Team Miroboard [PDF]</a></li>
+   {% endif %}
    {% if team.pitchslide %}
    <li style="margin-left: 30px;"><a href="{{ site.url }}{{ site.baseurl}}{{ team.pitchslide }}" target="_blank">Pitch Slide</a></li>
    {% endif %} 
