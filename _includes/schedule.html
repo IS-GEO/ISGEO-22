@@ -73,6 +73,30 @@
        
          {% endfor %}
             {% endif %}
+          
+
+            {% if event.sessionname == "Team Creation" %}
+            &#9672;<u> Project Teams:</u><br>
+            {% for team in site.data.sessions.projectteams %}
+                 
+              &ensp;<strong><a href="{{ site.url }}{{ site.baseurl }}/teams/#{{ team.teamname }}">‣<em> {{ team.teamname }} </em></a></strong>
+              - Members: {{ team.teamlead }}*, {% for member in team.teammembers %} {{ member }}, {% endfor %} <br>
+               
+          
+            {% endfor %}
+               {% endif %}
+
+               {% if event.sessionname == "Group Checkins" %}
+               &#9672;<u> Team Checkin Slides [PDF]:</u><br>&ensp;
+               {% for team in site.data.sessions.projectteams %}
+                 <strong><a href="{{ site.url }}{{ site.baseurl }}{{ team.teamupdatepdf }}">	&#187; [{{ team.teamname }}] </a></strong>
+                 
+                  
+             
+               {% endfor %} <br><br>
+                  {% endif %}
+
+          
 
          {% endif %}
          {% endfor %}
@@ -111,7 +135,16 @@
          {% endif %}
          {% endif %}
          {% endfor %}
-
+        
+         {% if event.sessionname == "Goals and Logic Modeling" %}
+          &#9672;<u> Team Goals and Logic Model [PDF]:</u><br>&ensp;
+               {% for team in site.data.sessions.projectteams %}
+                 <strong><a href="{{ site.url }}{{ site.baseurl }}{{ team.teammiropdf }}">&#187; [{{ team.teamname }}] </a></strong>
+                 
+                  
+             
+               {% endfor %} <br><br>
+                  {% endif %}
          
          {% endif %}
          {% endfor %}
