@@ -408,7 +408,7 @@ projectteams:
     The goal of this project is to initate an AI for climate science discovery.
   revisedteamgoal: >
       Data/Software Registry
-  #teamgithub:
+  teamgithub: https://github.com/lamfletcher/is-geo-team-semanta
   teamupdatepdf: '/assets/teams/semanta/thurs-goals.pdf'
   teamupdatepng: '/assets/teams/semanta/thurs-goals.png'
 
