@@ -146,6 +146,18 @@
                {% endfor %} <br><br>
                   {% endif %}
          
+                  {% if event.sessionname == "Final Presentations" %}
+                  &#9672;<u> Team Deliverables:</u><br>
+                       {% for team in site.data.sessions.projectteams %}
+                         <strong><a href="{{ site.url }}{{ site.baseurl }}{{ team.teamname }}">&ensp; &#187; [{{ team.teamname }}] </a></strong> 
+                         <a href="{{ team.teamgithub }}"> - [Github Link] </a><br>
+                         
+                          
+                     
+                       {% endfor %} <br><br>
+                          {% endif %}
+
+
          {% endif %}
          {% endfor %}
        </ul>
