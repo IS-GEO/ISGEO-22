@@ -428,7 +428,7 @@ projectteams:
   #revisedteamgoal:
   teamupdatepdf: '/assets/teams/icebreakers/thurs-goals.pdf'
   teamupdatepng: '/assets/teams/icebreakers/thurs-goals.png'
-  teamgithub: https://github.com/Homayra22/Icebreaker.git
+  teamgithub: https://github.com/Homayra22/Icebreaker
 
 - teamname: Hawaii
   teamlead: Yoko
