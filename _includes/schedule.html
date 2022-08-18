@@ -149,7 +149,7 @@
                   {% if event.sessionname == "Final Presentations" %}
                   &#9672;<u> Team Deliverables:</u><br>
                        {% for team in site.data.sessions.projectteams %}
-                         <strong><a href="{{ site.url }}{{ site.baseurl }}{{ team.teamname }}">&ensp; &#187; [{{ team.teamname }}] </a></strong> 
+                         <strong><a href="{{ site.url }}{{ site.baseurl }}{{ team.teamname }}">&ensp; &#187; {{ team.teamname }} </a></strong> 
                          <a href="{{ team.teamgithub }}"> - [Github Link] </a><br>
                          
                           
