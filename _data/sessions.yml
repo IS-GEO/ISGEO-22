@@ -566,6 +566,11 @@ resources:
   description: >
     Please use this link to upload any given presentation files in PDF format.
 
+- name: "[Images] ISGEO Logos and Headers"
+  url: https://github.com/IS-GEO/ISGEO-22/tree/gh-pages/assets/presentation-logos
+  description: >
+    Logos and headers used in communications with workshop participants.
+
 - name: "[IS-GEO] OntoSoft Software Repository"
   url: https://is-geo.ontosoft.org
   description: >
@@ -574,11 +579,6 @@ resources:
     diverse geoscience domains. This requires not only data sharing, it requires 
     new forms of knowledge sharing. The focus of OntoSoft is to promote knowledge 
     sharing about the software developed for geosciences.
-    
-- name: "[Images] ISGEO Logos and Headers"
-  url: https://github.com/IS-GEO/ISGEO-22/tree/gh-pages/assets/presentation-logos
-  description: >
-    Logos and headers used in communications with workshop participants.
 
 - name: "[iHARP] OntoSoft Software Repository"
   url: https://iharp.ontosoft.org
