@@ -426,7 +426,7 @@ projectteams:
   #revisedteamgoal:
   teamupdatepdf: '/assets/teams/icebreakers/thurs-goals.pdf'
   teamupdatepng: '/assets/teams/icebreakers/thurs-goals.png'
-  teamgithub: https://github.com/yuyehara/IS-GEO2022_Angeve
+  #teamgithub: 
 
 - teamname: Hawaii
   teamlead: Yoko
@@ -440,7 +440,7 @@ projectteams:
     The goal of this project is to map invasive tree/shrub species using Machine 
     Learning object detection technique to assist land managers for effective and 
     efficient land management.
-  #teamgithub:
+  teamgithub: https://github.com/yuyehara/IS-GEO2022_Angeve
   teamupdatepdf: '/assets/teams/hawaii/thurs-goals.pdf'
   teamupdatepng: '/assets/teams/hawaii/thurs-goals.png'
 
