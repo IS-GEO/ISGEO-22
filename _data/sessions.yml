@@ -412,6 +412,7 @@ projectteams:
   teamgithub: https://github.com/lamfletcher/is-geo-team-semanta
   teamupdatepdf: '/assets/teams/semanta/thurs-goals.pdf'
   teamupdatepng: '/assets/teams/semanta/thurs-goals.png'
+  finalpres: '/assets/teams/semanta/final_presentation.pdf'
 
 - teamname: "Icebreaker"
   teamlead: Homayra
@@ -429,6 +430,7 @@ projectteams:
   teamupdatepdf: '/assets/teams/icebreakers/thurs-goals.pdf'
   teamupdatepng: '/assets/teams/icebreakers/thurs-goals.png'
   teamgithub: https://github.com/Homayra22/Icebreaker
+  finalpres: '/assets/teams/icebreakers/final_presentation.pdf'
 
 - teamname: "Hawai&#180;i"
   teamlead: Yoko
@@ -446,6 +448,7 @@ projectteams:
   teamgithub: https://github.com/yuyehara/IS-GEO2022_Angeve
   teamupdatepdf: '/assets/teams/hawaii/thurs-goals.pdf'
   teamupdatepng: '/assets/teams/hawaii/thurs-goals.png'
+  finalpres: '/assets/teams/hawaii/final_presentation.pdf'
 
 - teamname: "Onto-Somethin'"
   teamlead: Suzanne
@@ -463,6 +466,7 @@ projectteams:
   teamgithub: https://github.com/helpfultangent/OntoSomethin-
   teamupdatepdf: '/assets/teams/onto-somethin/thurs-goals.pdf'
   teamupdatepng: '/assets/teams/onto-somethin/thurs-goals.png'
+  finalpres: '/assets/teams/onto-somethin/final_presentation.pdf'
 
 
 ###############

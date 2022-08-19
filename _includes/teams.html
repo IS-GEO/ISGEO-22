@@ -33,6 +33,9 @@ li {
     {% endif %}
   <em>Links:</em>
   <ul>
+  {% if team.finalpres %}
+  <li style="margin-left: 30px;"><a href="{{ site.url }}{{ site.baseurl}}{{ team.finalpres }}" target="_blank">Final Presentation Slides [PDF]</a></li>
+  {% endif %}  
    {% if team.teammiro %}
    <li style="margin-left: 30px;"><a href="{{ team.teammiro }}" target="_blank">Team Miroboard</a></li>
    {% endif %}
