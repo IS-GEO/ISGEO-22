@@ -10,8 +10,9 @@ excerpt: "[IS-GEO](https://is-geo.org/) and iHARP are pleased to announce a virt
 ---
 
 
+{% include livestream.html %}
 
-<br>
+
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/ISGEO-22_Group_with_logos.png">
 
