@@ -11,6 +11,7 @@ excerpt: "[IS-GEO](https://is-geo.org/) and iHARP are pleased to announce a virt
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/isgeo-finalpresentations-group.png">
 
+{% include livestream.html %}
 
 ## Overview
 

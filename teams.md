@@ -8,5 +8,7 @@ aside: true
 ---
 {% include nav-share.html %}
 
+{% include livestream.html %}
+
 <br>
 {% include teams.html %}

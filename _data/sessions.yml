@@ -574,7 +574,7 @@ resources:
   description: "These presentations were the results of the ISGEO-22 Workshop on Model-based Reasoning held virtual August 15th-19th 2022. "
 
 
-- name: "Presentation File Upload Link [Closed]"
+- name: "[Closed] Presentation File Upload Link"
   url: https://forms.gle/t8w1Q9C3zCvaPJqY7 
   description: >
     Please use this link to upload any given presentation files in PDF format.
