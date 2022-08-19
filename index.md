@@ -27,6 +27,10 @@ This workshop will provide methods that engage researchers across disciplines to
 
 A mini-hackthon will be hosted during the latter half of the workshop allowing geosciences, cognitive sciences, data science, and advanced intelligent systems to form mixed teams and then pitch, develop, and present results from adhoc project ideas created during this event.
 
+#### Fields of Intrest from Participants
+
+{% include wordart.html %}
+
 ## Workshop Sessions and Topics include: 
 * Learn how to bridge across disciplines for convergent research 
 * Data science skills for spatiotemporal data modeling,
